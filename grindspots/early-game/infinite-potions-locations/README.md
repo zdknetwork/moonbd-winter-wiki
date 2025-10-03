@@ -1,0 +1,2 @@
+# 🟩 Infinite Potions Locations
+
