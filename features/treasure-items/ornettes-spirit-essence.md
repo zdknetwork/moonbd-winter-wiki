@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🟨 Ornette's Spirit Essence
+# 🪙 Ornette's Spirit Essence
 
 <figure><img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FpGSn8HBrqSVCpDghkEMu%2Fimage.png?alt=media&#x26;token=a8a8b8f3-6760-40b7-9795-03da329c9b13" alt=""><figcaption><p><mark style="color:red;"><strong>Ornette's Spirit Essence</strong></mark></p></figcaption></figure>
 
