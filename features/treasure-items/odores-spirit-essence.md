@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🟨 Odore's Spirit Essence
+# 🪙 Odore's Spirit Essence
 
 <figure><img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FcHhd0HOJMS9tOXnGgJxg%2Fimage.png?alt=media&#x26;token=6016d3bc-7de5-4feb-9768-121dccef306a" alt=""><figcaption><p><mark style="color:blue;"><strong>Odore's Spirit Essence</strong></mark></p></figcaption></figure>
 

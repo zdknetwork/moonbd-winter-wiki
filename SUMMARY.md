@@ -99,7 +99,7 @@
   * [🪙 Gem of Fortune](features/treasure-items/gem-of-fortune.md)
   * [🪙 Shiny Insignia](features/treasure-items/shiny-insignia.md)
   * [🪙 Pit Of Undying](features/treasure-items/pit-of-undying.md)
-  * [🟨 Odore's Spirit Essence](features/treasure-items/odores-spirit-essence.md)
+  * [🪙 Odore's Spirit Essence](features/treasure-items/odores-spirit-essence.md)
   * [🪙 Ornette's Spirit Essence](features/treasure-items/ornettes-spirit-essence.md)
 * [⚜️ Special Deals Party](features/special-deals-party.md)
 * [⏭️ Custom Title](features/custom-title.md)
