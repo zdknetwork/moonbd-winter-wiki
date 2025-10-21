@@ -106,7 +106,7 @@
 * [🈴 Exchanges](features/exchanges.md)
 * [👽 Custom World Bosses](features/custom-world-bosses/README.md)
   * [Secret Chest](features/custom-world-bosses/secret-chest.md)
-  * [Minotavros Parrot](features/custom-world-bosses/minotavros-parrot.md)
+  * [Ancient Parrot](features/custom-world-bosses/ancient-parrot.md)
   * [Zodd](features/custom-world-bosses/zodd.md)
 * [🩸 Altar of Blood](features/altar-of-blood.md)
 * [😎 Outfits](features/outfits.md)

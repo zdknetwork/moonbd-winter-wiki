@@ -52,6 +52,4 @@ Join for juicy drops and more!
    * Vell's Heart
    * Khan Reward Bundle (Tier 3)
    * Inverted Heart of Garmoth
-   * Advice of Valks +1.000 x1
-   * Advice of Valks +5.000 x1
    * **And Lots More For You To Find Out**....
