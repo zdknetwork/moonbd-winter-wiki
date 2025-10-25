@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏠 Home](README.md)
+* [🏠 Welcome to MoonBD Wiki](README.md)
 
 ## About US
 
@@ -198,3 +198,4 @@
 ## 💡 Misc
 
 * [📶 Exitlag! Guide](misc/exitlag-guide.md)
+* [🐞 Known Issues](misc/known-issues.md)
