@@ -1,6 +1,10 @@
 # 🪙 Gem of Fortune
 
-### _<mark style="color:red;">**-Gem of Fortune Buff (Active for 30 Days);**</mark>_
+{% hint style="warning" %}
+Check [Known Issues](../../misc/known-issues.md), purchase items on sale on website has not implemented yet.&#x20;
+{% endhint %}
+
+### <mark style="color:red;">**Gem of Fortune Buff (Active for 30 Days);**</mark>
 
 * Central Market Auto Buy +20% tax bonus&#x20;
 * Unlock a feature "Buy Items On Sale" in Central Market (Website)
@@ -8,7 +12,7 @@
 
 <figure><img src="https://moonbd.online/docs/treasure/gem-desc.png" alt=""><figcaption><p>Detailed Description</p></figcaption></figure>
 
-### _<mark style="color:red;">**-How to obtain "Gem of Fortune"**</mark>_<img src="../../.gitbook/assets/{5D2018FE-6496-4959-87EF-3CE59CC508AE}.png" alt="" data-size="line">_<mark style="color:red;">**;**</mark>_
+### <mark style="color:red;">**How to obtain "Gem of Fortune"**</mark><img src="../../.gitbook/assets/{5D2018FE-6496-4959-87EF-3CE59CC508AE}.png" alt="" data-size="line"><mark style="color:red;">**;**</mark>
 
 You must vertically (Shape: | ) combine following items in your inventory;&#x20;
 
@@ -19,7 +23,7 @@ You must vertically (Shape: | ) combine following items in your inventory;&#x20;
 
 <figure><img src="https://moonbd.online/docs/puzzle/gem.png" alt=""><figcaption></figcaption></figure>
 
-### -How to obtain Treasure Item Pieces;
+### How to obtain Treasure Item Pieces;
 
 You can obtain Treasure Item Pieces with their Pity Pieces (If you are not lucky enough).&#x20;
 
