@@ -90,6 +90,7 @@
   * [🪙 Neohun \<Fallen Exchange NPC>](features/custom-npcs/neohun-less-than-fallen-exchange-npc-greater-than.md)
 * [Custom Recipes](features/custom-recipes/README.md)
   * [⬜ Ancient Memory Fragment](features/custom-recipes/ancient-memory-fragment.md)
+  * [⬜ Heating Magical Black Stone](features/custom-recipes/ancient-memory-fragment-1.md)
   * [⬜ 1000x Caphras Stone Crafting Recipe](features/custom-recipes/1000x-caphras-stone-crafting-recipe.md)
   * [⬜ 1000x Concentrated Magical Black Gem Recipe](features/custom-recipes/1000x-concentrated-magical-black-gem-recipe.md)
 * [🪙 Moon Coin](features/moon-coin.md)
