@@ -10,8 +10,6 @@ description: This is not an event it will be in the game permanently
 
 * World Bosses (x1-2)&#x20;
 * Custom Bosses (x10-14)&#x20;
-* Login Rewards&#x20;
-* Challenge Rewards (Y)
 
 
 

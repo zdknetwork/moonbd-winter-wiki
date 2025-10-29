@@ -8,9 +8,7 @@ icon: carrot
 
 ## Loot Table
 
-* Random EXP Bundle
-* Emote Bundle
-* Emote Bundle 2
+* Remnants of the Rift
 * [Choatica Token](../chaotica-token.md)
 
 ## [Spawn Times](broken-reference)
