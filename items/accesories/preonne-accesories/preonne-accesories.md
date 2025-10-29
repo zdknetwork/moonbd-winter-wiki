@@ -21,6 +21,10 @@ layout:
 
 <p align="center"><mark style="color:purple;"><strong>Preonne Accesories</strong></mark></p>
 
+{% hint style="danger" %}
+<p align="center"><a href="../../../features/custom-recipes/ancient-memory-fragment-1.md"><mark style="color:green;"><strong>Preonne Accesories enchanting stone is here click for go</strong></mark> </a></p>
+{% endhint %}
+
 {% hint style="info" %}
 In order to craft Preonne Accesories you need following the NPC Exchanges
 {% endhint %}
