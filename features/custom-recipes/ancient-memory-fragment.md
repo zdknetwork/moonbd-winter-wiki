@@ -11,7 +11,6 @@
 | Item                                                              | Qty |
 | ----------------------------------------------------------------- | --- |
 | ![](<../../.gitbook/assets/image (128).png>) Memory Fragment      | 20  |
-| ![](<../../.gitbook/assets/image (127).png>) Black Stone (Armor)  | 20  |
 | ![](<../../.gitbook/assets/image (126).png>) Black Stone (Weapon) | 20  |
 
 <figure><img src="https://moonbd.online/docs/custom/desc-memory.png" alt=""><figcaption></figcaption></figure>
