@@ -13,4 +13,13 @@
 | ![](<../../.gitbook/assets/image (128).png>) Memory Fragment      | 20  |
 | ![](<../../.gitbook/assets/image (126).png>) Black Stone (Weapon) | 20  |
 
+### For Mass Processing
+
+| Item                                                              | Qty |
+| ----------------------------------------------------------------- | --- |
+| ![](<../../.gitbook/assets/image (128).png>) Memory Fragment      | 200 |
+| ![](<../../.gitbook/assets/image (126).png>) Black Stone (Weapon) | 200 |
+
+
+
 <figure><img src="https://moonbd.online/docs/custom/desc-memory.png" alt=""><figcaption></figcaption></figure>

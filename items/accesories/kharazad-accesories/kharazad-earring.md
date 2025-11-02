@@ -29,7 +29,7 @@ layout:
 {% hint style="info" %}
 In order to craft **Kharazad** Accesories you need following materials
 
-* ![](<../../../.gitbook/assets/image (119).png>) <mark style="color:yellow;">V: Deboreka Earring</mark> x1
+* ![](<../../../.gitbook/assets/image (119).png>) <mark style="color:yellow;">Deboreka Earring</mark> x1
 * ![](<../../../.gitbook/assets/image (123).png>) <mark style="color:yellow;">Essence of Dawn</mark> x50
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FaHkAOppw2Z9nZBDOIApv%2Fimage.png?alt=media&#x26;token=0db3f131-e528-44a0-9355-53df1466c5c7" alt="" data-size="line"> Magical Shard x300
 {% endhint %}
@@ -54,7 +54,7 @@ To obtain heat the following materials
 
 | Item                                                                                                                                                                                                                                                                | Qty |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| ![](<../../../.gitbook/assets/image (119).png>) <mark style="color:yellow;">V: Deboreka Earring</mark>                                                                                                                                                              | 1   |
+| ![](<../../../.gitbook/assets/image (119).png>) <mark style="color:yellow;">Deboreka Earring</mark>                                                                                                                                                                 | 1   |
 | ![](<../../../.gitbook/assets/image (123).png>) <mark style="color:yellow;">Essence of Dawn</mark>                                                                                                                                                                  | 50  |
 | <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FaHkAOppw2Z9nZBDOIApv%2Fimage.png?alt=media&#x26;token=0db3f131-e528-44a0-9355-53df1466c5c7" alt="" data-size="line"> Magical Shard | 300 |
 
