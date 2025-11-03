@@ -19,6 +19,7 @@
 | ----------------------------------------------------------------- | --- |
 | ![](<../../.gitbook/assets/image (128).png>) Memory Fragment      | 200 |
 | ![](<../../.gitbook/assets/image (126).png>) Black Stone (Weapon) | 200 |
+| ![](<../../.gitbook/assets/image (315).png>)Weeds                 | 1   |
 
 
 
