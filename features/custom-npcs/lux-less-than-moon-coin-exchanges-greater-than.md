@@ -4,7 +4,7 @@
 
 ## Features
 
-You can exchange Cash Shop items for [Moon Coin](../moon-coin.md)
+You can exchange Cash Shop items for [Moon Coin](../moon-coin-system.md)
 
 ## Location
 
