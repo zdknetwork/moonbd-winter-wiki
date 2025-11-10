@@ -1,4 +1,4 @@
-# 💚 Farming Seeds
+# Farming Seeds
 
 **All seed drops from&#x20;**<mark style="color:red;">**farming converted to boxes**</mark>
 

@@ -1,4 +1,4 @@
-# 💚 Stackable Crystals
+# Stackable Crystals
 
 Some crystals are now stackable for taking up less space in inventory
 

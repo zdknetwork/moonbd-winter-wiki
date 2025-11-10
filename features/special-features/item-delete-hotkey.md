@@ -1,4 +1,4 @@
-# 🟥 Item Delete Hotkey
+# Item Delete Hotkey
 
 You can delete items fast by using a custom hotkey
 

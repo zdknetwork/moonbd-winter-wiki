@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 💚 Custom All in One NPC
+# Custom All in One NPC
 
 ## All Features with a Single NPC
 

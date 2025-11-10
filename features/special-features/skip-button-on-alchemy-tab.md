@@ -1,4 +1,4 @@
-# 🟥 Skip Button on Alchemy Tab
+# Skip Button on Alchemy Tab
 
 Added skip button for faster Recharge,Polish and Growth
 

@@ -28,7 +28,7 @@ layout:
 
 ## <mark style="color:blue;">**Buffs**</mark> <a href="#buffs" id="buffs"></a>
 
-* [Auto Buy](../features/special-features/auto-buy.md) +10% Silver Bonus
+* [Auto Buy](broken-reference) +10% Silver Bonus
 
 ## <mark style="color:blue;">**Premium Rewards:**</mark> <a href="#extra-rewards" id="extra-rewards"></a>
 
