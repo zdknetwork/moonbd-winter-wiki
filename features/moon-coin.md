@@ -1,29 +1,19 @@
 # 🪙 Moon Coin
 
-Moon coin now is a currency for exchanging only some items from cash shop
+Moon Coin is a special currency used to exchange certain items from the Cash Shop.
 
-Once you delete moon coin you will **no longer receive web cash**
+* **Moon Coin Box (1000)** is available in the **Cash Shop → Custom** section.
+* Cash Shop items in the Central Market can be exchanged using Moon Coin.
 
-Added Moon Coin Box - 1000 to Cash Shop Custom section
+The purpose of the Moon Coin system is to create a consistent pricing model for Cash Items.\
+Previously, direct sales of Cash Items caused price discrepancies and limitations.\
+With this system, all items share a unified exchange rate, making it much easier to add new items without manual price adjustments.
 
-All the Cash Items in Central Market now added to exchange with Moon Coin
+This system saves time managing price changes and provides players with a more stable and flexible way to buy and sell Cash Items.
 
-Instead of directly selling cash items that is very limited and prices are off to each other. This is the solution we are making. This way all the items available have the same exact rate of price. And when we want to add new items we can easly add them without worrying about their prices.
+**Notes:**
 
-All the cash items in Central Market will be removed with next maintenance or patch. Till then if you want sell all your already purchased cash items. For new transactions purchase Moon Coin Box - 1000 to sell not other items.
+* Moon Coin **cannot be traded** or **listed on the market**.
+* Exchange can be done at [**\<Moon Coin Exchange NPC> Lux**](custom-npcs/lux-less-than-moon-coin-exchanges-greater-than.md) in Velia
 
-Whole point of this save us some time to keep changing market prices on Cash items on Market and also you can buy whatever you want in a not so small pool of Cash items.
-
-Feedback is welcome for this system. We thought it would help a lot of you since it allows players who actually wants to sell items but can't due to Market prices not being synced up enough with Premium or other items.
-
-<figure><img src="https://i.imgur.com/e249L44.png" alt=""><figcaption></figcaption></figure>
-
-Moon Coin can not be traded or listed on market
-
-Moon Coin only added if you don't have enough to exchange an item so you can convert web cash to moon coin
-
-<div><figure><img src="https://i.imgur.com/2hjvVVP.png" alt=""><figcaption></figcaption></figure> <figure><img src="https://i.imgur.com/knyXTsj.png" alt=""><figcaption></figcaption></figure></div>
-
-### Exchange
-
-:point\_right: Exchange can be done at [**\<Moon Coin Exchange NPC> Lux**](custom-npcs/lux-less-than-moon-coin-exchanges-greater-than.md) in Velia
+<figure><img src="https://i.imgur.com/2hjvVVP.png" alt=""><figcaption></figcaption></figure>
