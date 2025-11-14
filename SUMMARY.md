@@ -91,6 +91,7 @@
   * [⬜ Ancient Memory Fragment](features/custom-recipes/ancient-memory-fragment.md)
   * [⬜ Heating Magical Black Stone](features/custom-recipes/ancient-memory-fragment-1.md)
   * [⬜ Purified Lightstones Recipe](features/custom-recipes/ancient-memory-fragment-2.md)
+  * [⬜ Alustin's Secret](features/custom-recipes/ancient-memory-fragment-3.md)
   * [⬜ 1000x Caphras Stone Crafting Recipe](features/custom-recipes/1000x-caphras-stone-crafting-recipe.md)
   * [⬜ 1000x Concentrated Magical Black Gem Recipe](features/custom-recipes/1000x-concentrated-magical-black-gem-recipe.md)
 * [🪙 Moon Coin System](features/moon-coin-system.md)

@@ -17,7 +17,7 @@ layout:
 
 # 🟢 Manos Flask
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center"><a href="https://bdocodex.com/us/item/705548/"><mark style="color:orange;"><strong>Manos Flask</strong></mark></a></p>
 

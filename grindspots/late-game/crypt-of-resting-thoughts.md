@@ -40,7 +40,7 @@ Recommended DP: 410
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2Fd7u18o11mHBqg5noGgIW%2Fimage.png?alt=media&#x26;token=f54fce4f-bd54-4693-b858-5c1d6341876a" alt="" data-size="line"> <mark style="color:yellow;">Kehelle's Artifact - Max HP</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FbBD6Kl20AMfWJqPbngNO%2Fimage.png?alt=media&#x26;token=779287cb-6336-4d3c-8ea1-13c7c20f4548" alt="" data-size="line"> <mark style="color:yellow;">Deboreka Belt</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2F9KJpZQGCP1PZkxuVym15%2Fimage.png?alt=media&#x26;token=e92440c2-abd6-493a-81a1-959a0a2cec01" alt="" data-size="line"> <mark style="color:yellow;">Rich Merchant’s Ring Piece (Crypt)</mark>
-* <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> <mark style="color:yellow;">Primordial Crystal</mark>
+* <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> <mark style="color:yellow;">Primordial Crystal</mark>
 
 ***
 
