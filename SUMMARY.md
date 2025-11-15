@@ -187,6 +187,7 @@
 * [Craft Items](items/craft-items/README.md)
   * [🪙 Alustin's Alchemy Utensil](items/craft-items/alustins-alchemy-utensil.md)
   * [🪙 Chef Finto's Cooking Utensil](items/craft-items/chef-fintos-cooking-utensil.md)
+  * [🪙 Stone of Alchemist](items/craft-items/stone-of-alchemist.md)
   * [🪙 Essence of Dawn's](items/craft-items/essence-of-dawns.md)
   * [🪙 Primordial Black Stone](items/craft-items/primordial-black-stone.md)
   * [🪙 Origin of Dark Hunger](items/craft-items/origin-of-dark-hunger.md)
