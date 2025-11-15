@@ -30,10 +30,10 @@ layout:
 ***
 
 {% hint style="info" %}
-In order to craft <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> [<mark style="color:orange;">**Manos Flask**</mark>](https://bdocodex.com/us/item/705548/) you need following materials
+In order to craft <img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> [<mark style="color:orange;">**Manos Flask**</mark>](https://bdocodex.com/us/item/705548/) you need following materials
 
-* <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line">[<mark style="color:yellow;">**Manos Stone**</mark>](https://bdocodex.com/us/item/4915/) **x5**
-* <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line">[<mark style="color:$info;">**Magical Shard**</mark>](https://bdocodex.com/us/item/4918/) **x50**
+* <img src="../../.gitbook/assets/image (8) (1).png" alt="" data-size="line">[<mark style="color:yellow;">**Manos Stone**</mark>](https://bdocodex.com/us/item/4915/) **x5**
+* <img src="../../.gitbook/assets/image (10) (1).png" alt="" data-size="line">[<mark style="color:$info;">**Magical Shard**</mark>](https://bdocodex.com/us/item/4918/) **x50**
 * <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line">[<mark style="color:$info;">**Essence of Nature**</mark>](https://bdocodex.com/us/item/5206/) **x20**
 * <img src="../../.gitbook/assets/image (12).png" alt="" data-size="line">[<mark style="color:$info;">**Shining Powder**</mark>](https://bdocodex.com/us/item/9733/) **x50**
 {% endhint %}
