@@ -1,3 +1,7 @@
+---
+description: Using Alchemy Stones Enchant
+---
+
 # 🪙 Stone of Alchemist
 
 <figure><img src="../../.gitbook/assets/StoneofAlchemy.png" alt=""><figcaption></figcaption></figure>
@@ -23,3 +27,4 @@ _Crafting_ <img src="../../.gitbook/assets/StoneofAlchemy.png" alt="" data-size=
 {% endhint %}
 
 ***
+
