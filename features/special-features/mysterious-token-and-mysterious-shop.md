@@ -1,41 +1,32 @@
 ---
 description: >-
-  The Mysterious Token is a special currency earned through daily voting. It is
-  used primarily in the Mysterious Shop, a unique market that offers both common
-  and rare items with dynamic pricing.
+  A special currency obtained through daily voting on designated sites.  Used
+  exclusively in the Mysterious Shop to purchase various items at fixed prices. 
+  Players can earn up to two tokens per day an
 ---
 
 # Mysterious Token & Mysterious Shop
 
-**Earning Mysterious Tokens:**
+### Functionality
 
-* Players can earn **2 Mysterious Tokens per day** by voting on **2 designated sites**.
-* To receive rewards, log in to your account and access the voting links from your account page.
+* **Mysterious Tokens** are a special currency used exclusively in the **Mysterious Shop**.
+* Items in the shop have **static rewards and fixed prices**.
+* There are **no purchase limits**; players can buy any available items as long as they have enough tokens.
 
-***
+### How to Obtain
 
-**Mysterious Shop:**\
-The **Mysterious Shop** operates similarly to the Black Market and provides rotating item selections.
+1. Log in to the website’s account panel.
+2. Access the **Voting Page**.
+3. Vote on the **two designated sites** each day.
+4. Earn **2 Mysterious Tokens** per day after successful voting.
 
-* One item is automatically rolled every **3 days**.
-* To view or roll new items, log in to the website and open the **Mysterious Shop** page.
-* Additional item rolls cost **3 Mysterious Tokens** or can be performed using **Moon Cash**.
-* The shop includes a mix of **rare** and **common** items, and their **drop rates** are displayed on the website’s drop table page.
+### Mysterious Shop
 
-***
+* The **Mysterious Shop** is accessible from the website’s account panel.
+* All items and their prices are permanently displayed and do not rotate.
 
-**Item Details:**
+### Usage Notes
 
-* Each rolled item remains available for **3 days** by default.
-* The availability timer can be **extended** for a cost.
-* Items can be purchased with **Mysterious Tokens**, **Silver**, or **Moon Cash**.
-* Some item prices are **linked to Central Market values**, meaning they **adjust dynamically** based on market trends.
-* Common items may appear at a lower cost than on the Central Market, while rare or limited items may have higher prices.
-
-***
-
-**Purpose:**\
-The **Mysterious Shop** provides an additional method to acquire valuable and exclusive items such as **high failstacks**, **Weight Limit upgrades**, and **unique titles**.\
-It offers variety, dynamic pricing, and special items that may not be available elsewhere.
-
-Access the feature by logging into your **website account panel** and selecting the **Mysterious Shop** section.
+* Tokens can be saved and used anytime.
+* There are no expiration limits for tokens or shop items.
+* The shop is available continuously via the website account panel.
