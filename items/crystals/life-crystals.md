@@ -2,7 +2,7 @@
 
 
 
-_Available from Lifeskill at_ [_Global Lifeskill Drops_](../../grindspots/global-drops/global-drops-lifeskill.md)
+_Available from Lifeskill at_ [_Global Lifeskill Drops_](/broken/pages/1o2cOMyBzjChY70hlAJk)
 
 <figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 

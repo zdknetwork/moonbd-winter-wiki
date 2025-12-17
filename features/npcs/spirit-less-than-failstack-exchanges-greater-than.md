@@ -1,4 +1,4 @@
-# 🪙 Spirit \<Failstack Exchanges>
+# Spirit \<Failstack Exchanges>
 
 <figure><img src="https://i.imgur.com/klxuXkN.png" alt=""><figcaption></figcaption></figure>
 

@@ -22,7 +22,7 @@ layout:
 <p align="center"><mark style="color:purple;"><strong>Preonne Accesories</strong></mark></p>
 
 {% hint style="danger" %}
-<p align="center"><a href="../../../features/custom-recipes/ancient-memory-fragment-1.md"><mark style="color:green;"><strong>Preonne Accesories enchanting stone is here click for go</strong></mark> </a></p>
+<p align="center"><a href="/broken/pages/mJX8ZfLLg1w3hsJVHTGX"><mark style="color:green;"><strong>Preonne Accesories enchanting stone is here click for go</strong></mark> </a></p>
 {% endhint %}
 
 {% hint style="info" %}
@@ -31,10 +31,9 @@ In order to craft Preonne Accesories you need following the NPC Exchanges
 
 <figure><img src="../../../.gitbook/assets/{F3FB5959-2FE4-4B1E-84DC-07590EB66B5F}.png" alt=""><figcaption></figcaption></figure>
 
-In Velia you will see [<mark style="color:yellow;">**Nemos \<General Exchange NPC>**</mark>](../../../features/custom-npcs/nemos-less-than-general-exchanges-greater-than.md)
+In Velia you will see [<mark style="color:yellow;">**Nemos \<General Exchange NPC>**</mark>](../../../features/npcs/nemos-less-than-general-exchanges-greater-than.md)
 
-\ <mark style="color:$info;">**There have the Exchange for create Preonne Accesories**</mark>\
-
+\ <mark style="color:$info;">**There have the Exchange for create Preonne Accesories**</mark><br>
 
 <figure><img src="../../../.gitbook/assets/{4772634D-A7C1-4754-A42D-92F72A368242}.png" alt=""><figcaption></figcaption></figure>
 

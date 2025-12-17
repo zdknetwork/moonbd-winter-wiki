@@ -1,4 +1,4 @@
-# 🪙 Riona \<Event Exchange NPC>
+# Riona \<Event Exchange NPC>
 
 
 

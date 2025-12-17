@@ -1,4 +1,4 @@
-# 🪙 Pit Of Undying
+# Pit Of Undying
 
 {% hint style="info" %}
 You can find from there how to open [<mark style="color:red;">**Pit of Undying Link**</mark>](https://www.blackdesertfoundry.com/pit-of-undying-crows-nest-questline/)

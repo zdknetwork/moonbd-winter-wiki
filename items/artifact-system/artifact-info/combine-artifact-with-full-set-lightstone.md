@@ -30,6 +30,5 @@ layout:
 
 ◽️ now you got the combined effect of both
 
-\
-
+<br>
 

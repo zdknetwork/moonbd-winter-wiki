@@ -22,7 +22,7 @@ Also you can get all Adventure Book Rewards by completing first 20 main quest (i
 
 **Note:You cant claim Adventure Book stats.Even if you can,it resets after you relog.Moonlight Tome gives all Adventure Book stats.**
 
-## [New Starter Gear Quest](broken-reference)
+## [New Starter Gear Quest](/broken/pages/EGy8oofNfEPemTjLYYtw)
 
 You can get 280+ AP starter gear from Black Spirit.&#x20;
 

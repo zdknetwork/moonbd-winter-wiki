@@ -20,9 +20,9 @@ icon: bow-arrow
 * Advice of Valks II
 * Advice of Valks I
 * Valks' Cry
-* [Choatica Token](../chaotica-token.md)
+* [Choatica Token](/broken/pages/KI4Wio9RNbX6PWc7tLxm)
 
-## [Spawn Times](broken-reference)
+## [Spawn Times](/broken/pages/3WhrVP9PR6z40Sm0YwUl)
 
 ## Spawn Location
 

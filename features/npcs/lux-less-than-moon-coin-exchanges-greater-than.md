@@ -1,10 +1,10 @@
-# 🪙 Lux \<Moon Coin Exchanges>
+# Lux \<Moon Coin Exchanges>
 
 <figure><img src="https://i.imgur.com/6OPtVL9.png" alt=""><figcaption></figcaption></figure>
 
 ## Features
 
-You can exchange Cash Shop items for [Moon Coin](../moon-coin-system.md)
+You can exchange Cash Shop items for [Moon Coin](/broken/pages/Akhw4FgJffYknqL3sqXb)
 
 ## Location
 

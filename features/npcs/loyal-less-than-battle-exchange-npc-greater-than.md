@@ -1,4 +1,4 @@
-# 🪙 Loyal \<Battle Exchange NPC>
+# Loyal \<Battle Exchange NPC>
 
 <figure><img src="https://i.imgur.com/jU1MKQF.png" alt=""><figcaption></figcaption></figure>
 

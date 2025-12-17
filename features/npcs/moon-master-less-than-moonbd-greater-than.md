@@ -1,4 +1,4 @@
-# 🪙 Moon Master \<MoonBD>
+# Moon Master \<MoonBD>
 
 <figure><img src="../../.gitbook/assets/{48894826-6D58-4034-B2AA-A8FC64F1CC83}.png" alt=""><figcaption></figcaption></figure>
 

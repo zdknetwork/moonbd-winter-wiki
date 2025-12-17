@@ -27,9 +27,9 @@ icon: treasure-chest
 * Shakatu Seals (Blue/Yellow)
 * Moon Coin Box
 * According to the ranking you will get random cash shop items
-* [Choatica Token](../chaotica-token.md)
+* [Choatica Token](/broken/pages/KI4Wio9RNbX6PWc7tLxm)
 
-## [Spawn Times](broken-reference)
+## [Spawn Times](/broken/pages/3WhrVP9PR6z40Sm0YwUl)
 
 ## Spawn Location
 

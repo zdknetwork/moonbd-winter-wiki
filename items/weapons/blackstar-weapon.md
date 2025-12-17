@@ -35,6 +35,6 @@ In order to craft Blackstar Mainhand Weapon you need following materials
 ***
 
 {% hint style="danger" %}
-You can go to the [Moon Master NPC](../../features/custom-npcs/moon-master-less-than-moonbd-greater-than.md) in Velia and get the Base Version of the Blackstar Item you want in exchange for 1 Remnants of The Rift.
+You can go to the [Moon Master NPC](../../features/npcs/moon-master-less-than-moonbd-greater-than.md) in Velia and get the Base Version of the Blackstar Item you want in exchange for 1 Remnants of The Rift.
 {% endhint %}
 

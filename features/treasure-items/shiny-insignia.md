@@ -1,4 +1,4 @@
-# 🪙 Shiny Insignia
+# Shiny Insignia
 
 {% hint style="info" %}
 If you wish to use multiple do it for different characters. Cooldown is not shared between characters so you can do that.

@@ -1,4 +1,4 @@
-# 🪙 Neohun \<Fallen Exchange NPC>
+# Neohun \<Fallen Exchange NPC>
 
 <figure><img src="../../.gitbook/assets/{DBC747FB-FB72-44B0-8BC3-2EE3010D921F}.png" alt=""><figcaption></figcaption></figure>
 

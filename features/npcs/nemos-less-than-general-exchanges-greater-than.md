@@ -1,4 +1,4 @@
-# 🪙 Nemos \<General Exchanges>
+# Nemos \<General Exchanges>
 
 <figure><img src="https://i.imgur.com/blZMm0f.png" alt=""><figcaption></figcaption></figure>
 

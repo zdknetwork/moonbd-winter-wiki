@@ -2,7 +2,7 @@
 
 ## [Premium](about-us/moonbd-premium.md)
 
-## [Special Features](features/special-features/)
+## [Special Features](features/special-features.md)
 
 ***
 
@@ -16,7 +16,7 @@
 
 [late-game](grindspots/late-game/ "mention")
 
-[global-drops](grindspots/global-drops/ "mention")
+[global-drops.md](grindspots/global-drops.md "mention")
 
 </details>
 

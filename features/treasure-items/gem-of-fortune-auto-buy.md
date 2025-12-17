@@ -5,7 +5,7 @@ description: >-
   activation key.  Once obtained, its effect is p
 ---
 
-# 🪙 Gem of Fortune - Auto Buy
+# Gem of Fortune - Auto Buy
 
 {% hint style="warning" %}
 This item is not yet available.

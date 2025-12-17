@@ -27,4 +27,4 @@ layout:
 ◽️ NPC [**Dalishain**](https://bdocodex.com/us/npc/59562/1/) will have a Quest that will **Extract** your Infused **Lightstone Combination**
 
 \
-\
+<br>

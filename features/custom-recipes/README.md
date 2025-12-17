@@ -1,6 +1,0 @@
----
-icon: flask
----
-
-# Custom Recipes
-
