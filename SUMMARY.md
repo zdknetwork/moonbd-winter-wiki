@@ -6,7 +6,7 @@
 
 * [💫 Server Features](about-us/readme.md)
 * [🎑 MoonBD Premium](about-us/moonbd-premium.md)
-* [👆 Voting](about-us/voting.md)
+* [👆 Vote for MoonBD](about-us/vote-for-moonbd.md)
 
 ## HOW TO JOIN MOONBD
 
@@ -65,6 +65,8 @@
 
 * [🟥 Brackets](features/brackets.md)
 * [🪁 Special Features](features/special-features.md)
+* [Custom Items & Recipes](features/custom-items-and-recipes.md)
+* [🈴 Exchanges](features/exchanges.md)
 * [👤 NPC's](features/npcs/README.md)
   * [Moon Master \<MoonBD>](features/npcs/moon-master-less-than-moonbd-greater-than.md)
   * [Nemos \<General Exchanges>](features/npcs/nemos-less-than-general-exchanges-greater-than.md)
@@ -74,7 +76,6 @@
   * [Loyal \<Battle Exchange NPC>](features/npcs/loyal-less-than-battle-exchange-npc-greater-than.md)
   * [Riona \<Event Exchange NPC>](features/npcs/riona-less-than-event-exchange-npc-greater-than.md)
   * [Neohun \<Fallen Exchange NPC>](features/npcs/neohun-less-than-fallen-exchange-npc-greater-than.md)
-* [Custom Items/Recipes](features/custom-items-recipes.md)
 * [🌠 Treasure Items](features/treasure-items/README.md)
   * [Rich Merchant's Ring](features/treasure-items/rich-merchants-ring.md)
   * [Gem of Fortune - Auto Buy](features/treasure-items/gem-of-fortune-auto-buy.md)
@@ -82,12 +83,11 @@
   * [Pit Of Undying](features/treasure-items/pit-of-undying.md)
   * [Odore's Spirit Essence](features/treasure-items/odores-spirit-essence.md)
   * [Ornette's Spirit Essence](features/treasure-items/ornettes-spirit-essence.md)
-* [⏭️ Custom Title](features/custom-title.md)
-* [🈴 Exchanges](features/exchanges.md)
 * [👽 Custom World Bosses](features/custom-world-bosses/README.md)
   * [Secret Chest](features/custom-world-bosses/secret-chest.md)
   * [Ancient Parrot](features/custom-world-bosses/ancient-parrot.md)
   * [Zodd](features/custom-world-bosses/zodd.md)
+* [⏭️ Custom Title](features/custom-title.md)
 * [🩸 Altar of Blood](features/altar-of-blood.md)
 * [😎 Outfits](features/outfits.md)
 

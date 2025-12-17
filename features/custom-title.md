@@ -1,3 +1,10 @@
+---
+description: >-
+  A unique personalized title available for purchase with Moon Cash.  Players
+  can order directly through the Discord ticket system by submitting custom
+  details and preferences.
+---
+
 # ⏭️ Custom Title
 
 ## **Custom title is special title only for you**

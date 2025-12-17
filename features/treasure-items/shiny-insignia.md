@@ -1,23 +1,51 @@
+---
+description: >-
+  A permanent craftable item that applies the Blessing of the Insignia buff for
+  12 hours.  Grants increased damage against Elvia monsters and does not stack
+  with existing Elvia weapon buffs.
+---
+
 # Shiny Insignia
 
-{% hint style="info" %}
-If you wish to use multiple do it for different characters. Cooldown is not shared between characters so you can do that.
-{% endhint %}
+### Functionality
 
-<mark style="color:purple;">**Shiny Insignia**</mark> effects;
+* Grants the **Blessing of the Insignia** buff when used.
+* Buff increases **damage against Elvia monsters** for **12 hours**.
+* The item is **permanent** and can be reused after its cooldown.
+* Effect expires even if the player logs out.
+* The **buff cannot stack** with existing **Elvia weapon buffs**.
+* **Cooldown:** 10 minutes
+* **Duration:** 12 hours
 
-* Gives Elvia weapon damage buff for Main and Awakening weapon
-* 12 hours cooldown and lasts for 3 hours
-* Gives buff for 3 hours as Elvia weapon buff with different buff name
-* It can not be stacked with existing elvia weapon buffs and while you have insignia active if you take elvia weapon buff it will not apply
-* It is a permanent item and will not disappear
-* Expires even if player is offline
+Players may use multiple **Shiny Insignias** by activating them on **different characters**, as the cooldown is **character‑based** and not shared across the family.
 
-<figure><img src="../../.gitbook/assets/{148EAD40-A82E-4886-979B-3A0F49C8C878}.png" alt=""><figcaption></figcaption></figure>
+***
 
-<mark style="color:purple;">**Shiny Insignia**</mark>
+### Crafting
 
-* 1000x <mark style="color:red;">**Insignia Shard**</mark>
-* 1000x <mark style="color:blue;">**Shiny Insignia Token**</mark>
-* 25000x <mark style="color:orange;">Caphras Stone</mark>
-* 10000x <mark style="color:orange;">Concentrated Magical Black Gem</mark>
+Full recipe and item details can be found in the **Codex entry**:\
+[Shiny Insignia – MoonBD Codex](https://moonbd.online/codex/item?id=1003102)
+
+***
+
+### Related Items
+
+#### [Shiny Insignia Token](https://moonbd.online/codex/item?id=1003101)
+
+* Material used to craft the **Shiny Insignia**.
+* Obtainable from the **Moon Master NPC Shop**.
+
+#### [Insignia Shard](https://moonbd.online/codex/item?id=1003100)
+
+* Monster drop from all zones, obtainable by defeating enemies with any class.
+* Used as a crafting material in the **Shiny Insignia** recipe.
+
+***
+
+### Usage Notes
+
+* The buff provides bonuses for both **Main** and **Awakening weapon** damage against Elvia monsters.
+* While **Blessing of the Insignia** is active:
+  * Other Elvia weapon buffs cannot be applied.
+  * Taking an Elvia weapon buff while it is active will have no effect.
+* Intended for long grinding sessions in Elvia‑related areas.

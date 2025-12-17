@@ -26,10 +26,6 @@ layout:
 
 ***
 
-## <mark style="color:blue;">**Buffs**</mark> <a href="#buffs" id="buffs"></a>
-
-* [Auto Buy](/broken/pages/OeOfC47ASixjvAf3atzc) +10% Silver Bonus
-
 ## <mark style="color:blue;">**Premium Rewards:**</mark> <a href="#extra-rewards" id="extra-rewards"></a>
 
 Extra Pearls and Loyalty in Challenges Tab (Y)

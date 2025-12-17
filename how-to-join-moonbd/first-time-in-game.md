@@ -1,29 +1,50 @@
+---
+description: >-
+  Quick start instructions for new players joining MoonBD.  Explains how to
+  claim early rewards, get starter gear, and begin progression effectively
+  without doing the main questline.
+---
+
 # 🙋‍♂️ First Time In Game
 
-{% embed url="https://www.youtube.com/watch?v=IL6x26W8_Oo" %}
+### Overview
 
-## _What You Should Do in The **First 3 Minutes at MoonBD**_
+This guide explains what new players should do within the **first 3 minutes** of starting **MoonBD**.\
+It covers how to claim starting rewards, obtain powerful gear, and begin progressing efficiently.
 
-<figure><img src="https://moonbd.online/docs/beginner/3.png" alt=""><figcaption><p><em><strong>Starting Equipment is Given Every Time You Create a New Character</strong></em></p></figcaption></figure>
+***
 
-<figure><img src="https://moonbd.online/docs/beginner/4.png" alt=""><figcaption><p><em><strong>Awakening and Succession can be unlocked at Level 1 and can be used after Level 56</strong></em></p></figcaption></figure>
+### Step 1: Initial Setup and Rewards
 
-<figure><img src="https://moonbd.online/docs/beginner/8.png" alt=""><figcaption><p><em><strong>Behelit Alchemy Stone</strong></em><br><em><strong>(Can NOT be repaired)</strong></em></p></figcaption></figure>
+* Do the **first few quests** in the main questline only (for basic initialization).
+* Accept and complete **custom MoonBD quests** from the **Black Spirit**.
+* Open the **boxes** automatically granted on **character creation**.
+* Press **Y** to open the **Challenge Rewards** menu after playing a few minutes — early login and progression rewards will appear there.
 
-<figure><img src="https://moonbd.online/docs/beginner/7.png" alt=""><figcaption><p><strong>Moonlight Tome gives you all adventure log stats so you don't need to complete adventure logs anymore!</strong></p></figcaption></figure>
+#### Important Note
 
-<figure><img src="https://moonbd.online/docs/beginner/5.png" alt=""><figcaption><p><em><strong>500K Agris Fever for more efficient grind!</strong></em></p></figcaption></figure>
+* **Adventure Book Rewards** are automatically included in the **Moon Master Tome**.
+  * They are **not linked** to the main questline.
+  * Players **cannot** claim individual Adventure Book stat bonuses, and any manual claim resets after relogging.
+* MoonBD **does not support or recommend** completing the full **main questline**, as all essential rewards and stats are already integrated through custom systems.
 
-<figure><img src="https://moonbd.online/docs/beginner/1.png" alt=""><figcaption><p><em><strong>You can level up to 56 with gray foxes. After you reach level 56 use “Helms Post Teleport Scroll”</strong></em></p></figcaption></figure>
+***
 
-<figure><img src="https://moonbd.online/docs/beginner/2.png" alt=""><figcaption><p><em><strong>Helms Post gives lots of EXP&#x26;SP that you can max out all your skills and reach level 60 FAST!</strong></em></p></figcaption></figure>
+### Step 2: Obtain Starter Gear
 
-Also you can get all Adventure Book Rewards by completing first 20 main quest (if it doesnt work create a new character and complete first 3 main quest)
+* Each newly created character receives a **custom starter gear box** automatically.
+* The **Black Spirit** also provides a **Starter Gear Quest**.
+* Completing this quest grants a **starter gear set with 280+ AP**, allowing immediate participation in early-game content.
 
-**Note:You cant claim Adventure Book stats.Even if you can,it resets after you relog.Moonlight Tome gives all Adventure Book stats.**
+***
 
-## [New Starter Gear Quest](/broken/pages/EGy8oofNfEPemTjLYYtw)
+### Summary
 
-You can get 280+ AP starter gear from Black Spirit.&#x20;
+In the first few minutes of MoonBD:
 
-We have added custom quest to give starter gear to every character you create
+1. Complete only the **first few main quests** for initialization.
+2. Accept custom quests from the **Black Spirit**.
+3. Open all **starter boxes** and **challenge rewards**.
+4. Obtain your **Starter Gear** to reach **280+ AP** and begin exploring.
+
+These steps provide everything needed for a strong and efficient start in MoonBD.

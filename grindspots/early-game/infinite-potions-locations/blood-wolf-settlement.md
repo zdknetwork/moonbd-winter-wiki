@@ -52,7 +52,3 @@ Recommended DP: 210
 ***
 
 <div data-full-width="true"><figure><img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FArXmkeBjyK8dPx62v2hv%2Fdemi.png?alt=media&#x26;token=be739620-d521-4a76-ae90-425455adcc23" alt="" width="188"><figcaption><p><strong>Mob type: Demihuman</strong></p></figcaption></figure></div>
-
-***
-
-**Go back**
