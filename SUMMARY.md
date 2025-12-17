@@ -1,10 +1,9 @@
 # Table of contents
 
-* [🏠 Welcome to MoonBD Wiki](README.md)
+* [🏠 Welcome to MoonBD](README.md)
 
 ## About US
 
-* [💫 Server Features](about-us/readme.md)
 * [🎑 MoonBD Premium](about-us/moonbd-premium.md)
 * [👆 Vote for MoonBD](about-us/voting.md)
 
@@ -151,9 +150,9 @@
 ## Events
 
 * [👿 Boss Event](events/boss-event.md)
-* [🔮 Other Events](events/other-events.md)
 * [⚔️ RBF Reward Event](events/rbf-reward-event.md)
 * [🪙 Trash Loot Bonus Event](events/trash-loot-bonus-event.md)
+* [🔮 Other Events](events/other-events.md)
 
 ## 💡 Misc
 

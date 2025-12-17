@@ -1,26 +1,62 @@
 ---
 description: >-
-  We try to be involved with community as much as possible. We do various
-  events, we always announce planned events in our discord #event-announcement
-  channel. Keep eye on our discord.
+  A variety of community, PvP, and surprise events organized to keep the MoonBD
+  world active and engaging.  All official event announcements are made in the
+  Discord #event-announcement channel.
 ---
 
 # 🔮 Other Events
 
-_Sometimes we do random boss events for those who playing actively without noticing in discord so don't surprise if you see an event without notice as well._
+### Overview
 
-## PvP Tournaments
+The **MoonBD Team** frequently hosts community events, tournaments, and random in-game activities to keep the world dynamic and rewarding.\
+All planned events are officially announced on our **Discord (#event-announcement)** channel — make sure to stay updated there.\
+Occasionally, impromptu events may occur without prior notice for active players online.
 
-We organize PvP Tournaments regularly. Depending on the voting players votes. 1v1/2v2/3v3 Arsha PvP Tournaments. Winners get cash rewards and Arsha title.
+***
 
-## Hide and Seek Events
+### Regular Event Types
 
-You try to find a GM in a specific zone and channel. First one to find GM wins precious rewards.
+#### PvP Tournaments
 
-## Giveaways
+* Competitive **1v1**, **2v2**, or **3v3** tournaments hosted on the **Arsha Channel**.
+* Event format depends on **community voting results**.
+* Winners receive:
+  * **Cash rewards**
+  * Exclusive **Arsha Title**
+  * Special **Discord roles or recognition**
 
-We organize Moon Cash giveaways with our partners/streamers. Keep following our discord announcement and streamer channels.
+#### Hide and Seek Events
 
-## Lottery
+* A **GM** hides in a designated region and channel.
+* The first player to locate and interact with the GM earns **valuable rewards**.
+* Clues are often posted in real time on **Discord** for players participating.
 
-Beginning of 2023 we did a Lottery event for new year which was participated by about 300 players with silver pool of 224 T silver. Silver distributed among 10 winners. In future we might do these kind of events again.
+#### Giveaways
+
+* Periodic **Moon Cash** giveaways held through:
+  * **Discord**
+  * **Partner streamers**
+  * **Community contributors**
+* Follow the **announcement** and **streamer** channels to not miss any.
+
+#### Random Boss Events
+
+* **Unannounced surprise events** featuring custom or world bosses.
+* Designed for players who are actively online at unexpected times.
+* Provides spontaneous engagement and exclusive item rewards.
+
+#### Lottery Events
+
+* Example: New Year **Lottery Event (2023)**
+  * Over **300 participants**, **224T Silver** prize pool.
+  * **10 winners** received distributed silver rewards.
+* Similar large-scale community lotteries may return in the future.
+
+***
+
+### Stay Updated
+
+* Join the official [MoonBD Discord](https://discord.gg/3xK6p7rhD4) and regularly check the **#event-announcement** channel.
+* Event schedules, participation requirements, and rewards are always published there first.
+* Surprise events may drop at any moment — good luck and stay prepared!

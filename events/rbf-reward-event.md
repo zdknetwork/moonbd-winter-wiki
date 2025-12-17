@@ -1,15 +1,49 @@
+---
+description: >-
+  Automated Red Battlefield reward multiplier active every weekend (UTC). 
+  Doubles or increases rewards up to 4×, with bonuses delivered directly to the
+  Black Spirit’s Safe after each match.
+---
+
 # ⚔️ RBF Reward Event
 
-**We have enabled automatic Red Battle Field event system**&#x20;
+### Overview
 
-**How it works;**&#x20;
+The **RBF Reward Event** is an automated system that increases rewards earned from the **Red Battlefield**.\
+It activates automatically every **weekend (UTC)** and provides up to **4× the normal rewards**, depending on the current event configuration.
 
-* Every weekend 2x RBF Reward event will be started by the system&#x20;
-* It will automatically increase the reward amount given to players&#x20;
-* However you will not see the multiplied rewards in your system logs chat. Once you teleported out of RBF you will see reward item counts are muıltiplied in Black Spirits Safe (B) menu
+***
 
-_For other events we can enable it easily without restarting RBF server_
+### How It Works
 
+* Activates **automatically on weekends** based on **UTC time**.
+* The system starts the event and applies a **reward multiplier** (usually **2×**, but can reach **3× or 4×**).
+* The standard **weekend event** always provides **2× (100%)** additional rewards.
+* You will **not** see the bonus amount in the in-game system log.
+* After leaving **Red Battlefield**, the total multiplied rewards will appear in your **Black Spirit’s Safe (B)**.
 
+***
 
-<div data-full-width="false"><figure><img src="https://i.imgur.com/G03I7eh.jpeg" alt=""><figcaption></figcaption></figure></div>
+### Notes
+
+* The automatic weekend event requires **no manual activation** or server restart.
+* The event system allows enabling **custom multipliers** for special occasions.
+* Reward multipliers can be stacked with other **server-wide** or **holiday events**.
+* Only the base Red Battlefield reward is affected — win/loss participation bonuses scale equally.
+
+***
+
+### Example Multipliers
+
+| Event Type             | Reward Multiplier | Active Period       |
+| ---------------------- | ----------------- | ------------------- |
+| Standard Weekend Event | **×2 (100%)**     | Every Weekend (UTC) |
+| Special Event          | **×3 (200%)**     | As Announced        |
+| Major Event            | **×4 (300%)**     | As Announced        |
+
+***
+
+### Additional Information
+
+* Use **Black Spirit’s Safe (B)** after match completion to claim boosted rewards.
+* Keep an eye on [**Discord** ](https://discord.gg/3xK6p7rhD4)**announcements** for special RBF booster weekends and global event activations.

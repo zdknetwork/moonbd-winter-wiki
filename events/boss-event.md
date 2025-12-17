@@ -1,4 +1,8 @@
 ---
+description: >-
+  Scheduled and custom boss events featuring powerful enemies and valuable
+  rewards.  Regular world bosses follow the official calendar, while custom boss
+  events are announced exclusively on Discord.
 cover: ../.gitbook/assets/image (44).jpg
 coverY: 0
 layout:
@@ -22,34 +26,68 @@ layout:
 
 # 👿 Boss Event
 
+### Overview
 
+**Boss Events** feature both **regular** and **custom** bosses offering high-value rewards and rare items.\
+Announcements for major events are made **1 day in advance** on the official Discord, except for **random** or **mini-boss** appearances that happen unannounced.
 
-{% hint style="danger" %}
-We are doing Boss Event normal and custom bosses. Announcement will be made 1 day before the event takes place (except random\&mini-boss events).&#x20;
+Join these events for powerful foes, juicy loot, and chances to earn exclusive web and in-game rewards.
 
-Join for juicy drops and more!
-{% endhint %}
+***
 
-<figure><img src="https://moonbd.online/docs/boss/boss-event.png" alt=""><figcaption><p>MoonBD World Boss Event</p></figcaption></figure>
+### Regular World Boss Drops
 
-1. _**Regular World Boss Drop**_**:**
-   * Boss Sealed Weapon Box x1
-   * Belongings of an Adventurer x1 (high chance to get enhanced accessory!)
-   * Gold Bar
-   * Latent Aura
-   * 1.000 Pearl Box x1
-   * Advice of Valks +100 x1
-   * Caphras Stone 1.000+
-2. _**Enhanced World Boss Drop:**_
-   * Enhanced Sealed Weapon Box x1 (high chance to get TET sealed weapon box!)
-   * Belongings of an Adventurer x1 (high chance to get enhanced accessory!)
-   * Gold Bar
-   * Latent Aura
-   * Khan Reward Bundle (Tier 3) x1
-3. _**Custom Boss Drop**_**:**
-   * Moon Cash (Web Shop Currency)
-   * Web Shop exclusive items
-   * Vell's Heart
-   * Khan Reward Bundle (Tier 3)
-   * Inverted Heart of Garmoth
-   * **And Lots More For You To Find Out**....
+Standard world bosses drop the following items:
+
+* **Boss Sealed Weapon Box ×1**
+* **Belongings of an Adventurer ×1** _(high chance for an enhanced accessory)_
+* **Gold Bar (various amounts)**
+* **Latent Aura**
+* **1,000 Pearl Box ×1**
+* **Advice of Valks (+100) ×1**
+* **1,000+ Caphras Stones**
+
+***
+
+### Enhanced World Boss Drops
+
+Enhanced world boss phases offer upgraded rewards and better enhancement chances.
+
+* **Enhanced Sealed Weapon Box ×1** _(high chance for TET-tier sealed weapon)_
+* **Belongings of an Adventurer ×1** _(high chance for an enhanced accessory)_
+* **Gold Bar (various amounts)**
+* **Latent Aura**
+* **Khan Reward Bundle (Tier 3) ×1**
+
+***
+
+### Custom Boss Drops
+
+Custom bosses feature unique rewards and web-exclusive treasures.
+
+* **Moon Cash (Web Shop Currency)**
+* **Exclusive Web Shop Items**
+* **Vell’s Heart**
+* **Khan Reward Bundle (Tier 3)**
+* **Inverted Heart of Garmoth**
+* **Additional Rare Loot** and mystery drops
+
+***
+
+### Boss Spawn Information
+
+* **Regular Boss Spawn Times:**\
+  Viewable at the [Boss Calendar](https://moonbd.online/boss-calendar/)
+* **Boss Timers:**\
+  Track upcoming bosses here → [MoonBD Boss Timer](https://moonbd.online/timers/)
+* **Custom Bosses:**\
+  Occasionally spawn **outside the calendar** and **do not appear on timers**.\
+  These events are announced directly on the **MoonBD Discord**.
+
+***
+
+### Notes
+
+* Players are encouraged to check Discord announcements to stay informed on random boss or mini-event spawns.
+* Custom bosses drop unique, limited, or web-linked items not obtainable elsewhere.
+* Always prepare ahead for event days — enhanced bosses and custom events promise the most valuable rewards.
