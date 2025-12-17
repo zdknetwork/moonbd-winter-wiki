@@ -6,7 +6,7 @@
 
 * [💫 Server Features](about-us/readme.md)
 * [🎑 MoonBD Premium](about-us/moonbd-premium.md)
-* [👆 Vote for MoonBD](about-us/vote-for-moonbd.md)
+* [👆 Vote for MoonBD](about-us/voting.md)
 
 ## HOW TO JOIN MOONBD
 
@@ -65,7 +65,7 @@
 
 * [🟥 Brackets](features/brackets.md)
 * [🪁 Special Features](features/special-features.md)
-* [Custom Items & Recipes](features/custom-items-and-recipes.md)
+* [Custom Items & Recipes](features/custom-items-recipes.md)
 * [🈴 Exchanges](features/exchanges.md)
 * [👤 NPC's](features/npcs/README.md)
   * [Moon Master \<MoonBD>](features/npcs/moon-master-less-than-moonbd-greater-than.md)
@@ -102,16 +102,7 @@
 * [🗡️ Weapons](items/weapons.md)
 * [Armors](items/armors.md)
 * [💍 Accesories](items/accesories/README.md)
-  * [🟪 Kharazad Accesories](items/accesories/kharazad-accesories/README.md)
-    * [🟪 Kharazad Necklace](items/accesories/kharazad-accesories/kharazad-necklace.md)
-    * [🟪 Kharazad Ring](items/accesories/kharazad-accesories/kharazad-ring.md)
-    * [🟪 Kharazad Belt](items/accesories/kharazad-accesories/kharazad-belt.md)
-    * [🟪 Kharazad Earring](items/accesories/kharazad-accesories/kharazad-earring.md)
-    * [🟥 Kharazad Accesories Cup Mode](items/accesories/kharazad-accesories/kharazad-accesories-cup-mode/README.md)
-      * [🟪 Sunstarved Kharazad Ring](items/accesories/kharazad-accesories/kharazad-accesories-cup-mode/sunstarved-kharazad-ring.md)
-      * [🟪 Dawnbound Kharazad Necklace](items/accesories/kharazad-accesories/kharazad-accesories-cup-mode/dawnbound-kharazad-necklace.md)
-      * [🟪 Duskborne Kharazad Belt](items/accesories/kharazad-accesories/kharazad-accesories-cup-mode/duskborne-kharazad-belt.md)
-      * [🟪 Moonhushed Kharazad Earring](items/accesories/kharazad-accesories/kharazad-accesories-cup-mode/moonhushed-kharazad-earring.md)
+  * [🟪 Kharazad Accesories](items/accesories/kharazad-accesories.md)
   * [🟩 Preonne Accesories](items/accesories/preonne-accesories/README.md)
     * [🟩 Preonne Accesories](items/accesories/preonne-accesories/preonne-accesories.md)
 * [🔮 Crystals](items/crystals/README.md)
