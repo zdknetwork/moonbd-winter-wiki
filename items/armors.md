@@ -4,7 +4,7 @@ icon: helmet-battle
 
 # Armors
 
-## Blackstar Weapons/Armors
+## Blackstar Armors
 
 You can go to the Moon Master NPC in Velia and get the Base Version of the Blackstar Item you want in exchange for 1 [Remnants of The Rift.](https://moonbd.online/codex/item?id=43786)
 
