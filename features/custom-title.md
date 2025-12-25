@@ -1,35 +1,35 @@
 ---
 description: >-
-  A unique personalized title available for purchase with Moon Cash.  Players
-  can order directly through the Discord ticket system by submitting custom
-  details and preferences.
+  A personalized cosmetic designation featuring custom text, HEX colors, and
+  visual effects. Players obtain these through the Discord ticket system to
+  distinguish their characters in-game.
 ---
 
 # ⏭️ Custom Title
 
-## **Custom title is special title only for you**
+### Functionality
 
-**Costs 10000 Moon Cash**&#x20;
+* Provides a unique, personalized title displayed above the character's family name.
+* Allows for custom text strings as defined by the player.
+* Supports custom colorization via **HEX color codes**.
+* Features optional visual animations.
 
-If you want to order create ticket in discord ticket system
+### How to Obtain
 
-**Fill out this form send it to one of the developers;**&#x20;
+1. Accumulate **10,000 Moon Cash**.
+2. Open a support ticket via the official **Discord Ticket System**.
+3. Submit the required application form to a developer:
+   * **Family Name**: Target account name.
+   * **Title Name**: Desired text string.
+   * **Title Color**: Specific **HEX color code**.
+   * **Title Effect**: Chosen animation ID/Name.
 
-* Family name:&#x20;
-* Title Name:&#x20;
-* Title Color (HEX color code):&#x20;
-* Title Effect:&#x20;
+### Usage Notes
 
-## [Click me to go to title effects video](https://www.youtube.com/watch?v=FUkcUPGdfCA)
+* All title effects are included in the flat rate of **10,000 Moon Cash**.
+* Bulk purchases for guilds are eligible for discounted rates via the ticket system.
+* Custom titles are manual injections processed by the development team.
 
-{% hint style="warning" %}
-Some effects costs extra 5000 Moon Cash
-{% endhint %}
+### Additional Information
 
-{% hint style="info" %}
-You can use discord tickets to contact us about your questions or order of custom title
-{% endhint %}
-
-{% hint style="info" %}
-If you want to order custom title for multiple players (Example: for whole guild members) you need to contact us about cash costs for it
-{% endhint %}
+* **Preview:** [Title Effects Demonstration Video](https://www.youtube.com/watch?v=FUkcUPGdfCA)
