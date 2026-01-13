@@ -2,7 +2,7 @@
 
 
 
-_Available drop at_ [_<mark style="color:red;">**Altar of Blood**</mark>_](../../features/altar-of-blood.md)
+_Available drop at_ [_<mark style="color:red;">**Altar of Blood**</mark>_](../../features/altar-of-blood.md) _<mark style="color:red;">**&**</mark>_ [_<mark style="color:red;">**Manes Hideout (Elvia)**</mark>_](../../grindspots/late-game/elvia-mediah-zone/manes-hideout.md)
 
 <figure><img src="../../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
 
