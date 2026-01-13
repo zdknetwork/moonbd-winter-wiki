@@ -35,8 +35,8 @@ Recommended DP: 400
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FB0oM0bZJVpi6LYQ52LB3%2Fimage.png?alt=media&#x26;token=14e64531-514e-4a6d-8d27-5f6857341599" alt="" data-size="line"><mark style="color:blue;">Imperfect Lightstones</mark>
 * <img src="../../../.gitbook/assets/image (95).png" alt="" data-size="line"> <mark style="color:yellow;">Sealed Black Magic Crystal</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2Ft5MNBbXGVYVFGt99dDgv%2Fimage.png?alt=media&#x26;token=eda8aec5-094e-458c-98be-a0cd25bbddb7" alt="" data-size="line"> <mark style="color:yellow;">Crystallized Despair</mark>
-* <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:yellow;">Embers of Resonance</mark>
-* <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line"><mark style="color:yellow;">Flame of Resonance</mark>
+* <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="line"> <mark style="color:yellow;">Embers of Resonance</mark>
+* <img src="../../../.gitbook/assets/image (1) (1).png" alt="" data-size="line"><mark style="color:yellow;">Flame of Resonance</mark>
 * <img src="../../../.gitbook/assets/image (154).png" alt="" data-size="line"> <mark style="color:orange;">Blessed Soul Fragment</mark>
 
 ***
