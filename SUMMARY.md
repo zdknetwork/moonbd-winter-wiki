@@ -124,6 +124,7 @@
     * [💎 JIN Dawn Crystal - Black Spirit's Rage](items/crystals/jin-crystals/jin-dawn-crystal-black-spirits-rage.md)
   * [🟢 Life Crystals](items/crystals/life-crystals.md)
 * [Alchemy Stones](items/alchemy-stones/README.md)
+  * [🟪 Alchemy System](items/alchemy-stones/alchemy-system.md)
   * [🟪 Alchemy Stone Enhancement](items/alchemy-stones/alchemy-stone-enhancement/README.md)
     * [🟪 Blessed Soul Fragment](items/alchemy-stones/alchemy-stone-enhancement/blessed-soul-fragment.md)
     * [🟪 Exalted Soul Fragment](items/alchemy-stones/alchemy-stone-enhancement/exalted-soul-fragment.md)
