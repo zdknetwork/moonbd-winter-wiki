@@ -52,6 +52,7 @@
   * [🟥 Crypt of Resting Thoughts](grindspots/late-game/crypt-of-resting-thoughts.md)
   * [🟥 Gahaz Bandit's Lair](grindspots/late-game/gahaz-bandits-lair.md)
   * [🟥 Crescent Shrine](grindspots/late-game/crescent-shrine.md)
+  * [🟥 Pila Ku Jail](grindspots/late-game/pila-ku-jail.md)
   * [❤️ Elvia Calpheon Zone](grindspots/late-game/elvia-calpheon-zone/README.md)
     * [🟥 Rhutum Outstation](grindspots/late-game/elvia-calpheon-zone/rhutum-outstation.md)
     * [🟥 Saunil Camp](grindspots/late-game/elvia-calpheon-zone/saunil-camp.md)

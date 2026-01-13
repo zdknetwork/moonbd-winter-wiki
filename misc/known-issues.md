@@ -2,7 +2,7 @@
 
 ### Accessory Crystal Socketing
 
-#### Karahzad & Preonne Limitations
+#### Kharazad & Preonne Limitations
 
 There is a known UI discrepancy regarding **Karahzad** and **Preonne** accessories. While the socketing interface may display all **Versatile Crystals**, these items are currently restricted.
 
