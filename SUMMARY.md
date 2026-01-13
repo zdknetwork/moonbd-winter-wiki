@@ -58,6 +58,8 @@
     * [🟥 Giant Post](grindspots/late-game/elvia-calpheon-zone/giant-post.md)
     * [🟥 Hexe Sanctuary](grindspots/late-game/elvia-calpheon-zone/hexe-sanctuary.md)
     * [🟥 Troll Habitat](grindspots/late-game/elvia-calpheon-zone/troll-habitat.md)
+  * [❤️ Elvia Mediah Zone](grindspots/late-game/elvia-mediah-zone/README.md)
+    * [🟥 Manes Hideout](grindspots/late-game/elvia-mediah-zone/manes-hideout.md)
 * [⬜ Global Drops](grindspots/global-drops.md)
 
 ## FEATURES
