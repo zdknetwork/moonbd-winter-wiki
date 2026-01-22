@@ -48,6 +48,7 @@
   * [🔶 Gyfin Rhasia Temple](grindspots/mid-game/gyfin-rhasia-temple.md)
 * [❤️ Late Game](grindspots/late-game/README.md)
   * [🟥 Olun's Valley (Party of 3)](grindspots/late-game/oluns-valley-party-of-3.md)
+  * [🟥 Orzekea's Lair (Party of 2)](grindspots/late-game/orzekeas-lair-party-of-2.md)
   * [🟥 Ash Forest](grindspots/late-game/ash-forest.md)
   * [🟥 Crypt of Resting Thoughts](grindspots/late-game/crypt-of-resting-thoughts.md)
   * [🟥 Gahaz Bandit's Lair](grindspots/late-game/gahaz-bandits-lair.md)
