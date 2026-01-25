@@ -98,10 +98,6 @@
 ## Items
 
 * [Artifact System](items/artifact-system/README.md)
-  * [◻️ Artifact Info](items/artifact-system/artifact-info/README.md)
-    * [◻️ Artifact Types](items/artifact-system/artifact-info/artifact-types.md)
-    * [◻️ Combine Artifact with Full Set Lightstone](items/artifact-system/artifact-info/combine-artifact-with-full-set-lightstone.md)
-    * [◻️ Extract Lightstone Combination from Artifact](items/artifact-system/artifact-info/extract-lightstone-combination-from-artifact.md)
   * [◻️ Lightstone Info](items/artifact-system/lightstone-info.md)
 * [🗡️ Weapons](items/weapons.md)
 * [Armors](items/armors.md)
