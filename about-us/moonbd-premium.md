@@ -67,7 +67,6 @@ Available as **30‑day** and **90‑day** packages, it grants both in‑game bo
 
 * (T9) Horse Emblem: **Dream Arduanatt (Pegasus)**
 * **Tier 4 Fairy**
-* **Advice of Valks (+250)** ×1
 * **Advice of Valks (+150)** ×1
 
 ***
