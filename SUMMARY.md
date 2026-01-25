@@ -126,6 +126,7 @@
     * [🟪 Blessed Soul Fragment](items/alchemy-stones/alchemy-stone-enhancement/blessed-soul-fragment.md)
     * [🟪 Exalted Soul Fragment](items/alchemy-stones/alchemy-stone-enhancement/exalted-soul-fragment.md)
 * [Consumables](items/consumables/README.md)
+  * [Party Harmony Draughts](items/consumables/party-harmony-draughts.md)
   * [Perfume of Bracing Spirits & Immortal](items/consumables/perfume-of-bracing-spirits-and-immortal.md)
   * [Frenzy Draught of Corruption & Immortal](items/consumables/frenzy-draught-of-corruption-and-immortal.md)
   * [Fury Draught & Immortal](items/consumables/fury-draught-and-immortal.md)
