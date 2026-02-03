@@ -1,109 +1,35 @@
----
-description: >-
-  Discover the world of MoonBD — a refined Black Desert experience focused on
-  faster progression, rich content, and quality-of-life improvements.
----
-
 # 🏠 Welcome to MoonBD
 
 ### Overview
 
-**MoonBD** is a modern and refined **Black Desert** private world featuring enhanced progression, quality-of-life systems, and rebalanced class updates.\
-Every player begins fully equipped, globally connected, and ready to explore every feature without unnecessary grind.
-
-Visit: [moonbd.online/features](https://moonbd.online/features/)
-
-***
-
-### Key Features
-
-* All classes updated to the latest **2023 balance version**
-* Start with **complete Journal stats** and **unlocked systems**
-* **Beginner-friendly** environment with fast in-game and technical support
-* Fully functional **Artifacts & Lightstones** system
-* Craftable end-game gear:
-  * **Sovereign Weapons**
-  * **Kharazad**, **Dahn’s Gloves**, **Ator’s Shoes**
-  * **Preonne Accessories**
-* **PvP Tournaments** and seasonal **server-wide events**
-* Expanded **grind zones** and reworked drop tables
-* Exclusive **outfits**, **titles**, and custom systems like:
-  * **Mysterious Shop**
-  * **Auto Arena**
-  * **Loot Events**
-
-***
+**MoonBD** is a modern and refined Black Desert private world. The server features enhanced progression, quality-of-life systems, and rebalanced class updates. Every player begins fully equipped and globally connected. You can explore every feature without an unnecessary grind.
 
 ### Starter Bonuses
 
-All new players start with massive convenience upgrades and combat readiness.
+New players receive massive convenience upgrades and immediate combat readiness. Claim these rewards to begin your journey:
 
-* **200 Energy** (appears after a few minutes and relog)
-* **200 Contribution Points** (claimable from Challenge Menu **Y**)
-* **672+ GS Starter Gear Set**
-* **Awakening & Succession unlocked** from the start
-* **Fully revealed World Map** (claim from Black Spirit \[MoonBD] Starter Quest)
-* **All Adventure Log Buffs** unlocked
-* **All Processing Knowledges** unlocked
-* **3-Day Infinite Potion Buff**
-* **30,000 Pearls**, **10,000 Loyalties**, and **90m Silver**
-* Choose **one T9 Horse** (Permanent **Celestial Horse Calling Horn** included)
-* **9 Tier-4 Pets**
-* **7 Days of MoonBD Premium**
-* **Shudad Black Premium Outfit Box**
-* **Naphart Campsite**
-* **500x Ornette’s Dark Honey Wine**
-* **Daily Beginner Lifeskill Set** via Challenge Rewards
-* **Pearl Boxes** drop from all monsters
+* **672+ GS Starter Gear Set**: Provided immediately to all new characters.
+* **Instant Unlocks**: Awakening, Succession, and all **Adventure Log** buffs are active from the start.
+* **World Map**: Fully revealed via the **Black Spirit \[MoonBD] Starter Quest**.
+* **Resources**: 30,000 Pearls, 10,000 Loyalties, and 90 million Silver.
+* **Character Stats**: 200 Energy and 200 Contribution Points (claimable from the **Challenge Menu Y**).
+* **Essentials**: Naphart Campsite, 9 Tier-4 Pets, and a 3-Day Infinite Potion Buff.
+* **Mounts**: Choose one **T9 Dream Horse** with a permanent **Celestial Horse Calling Horn**.
 
-***
+### Server Features & Enhancements
 
-### Server Systems & Enhancements
+MoonBD offers several custom systems to improve the gameplay experience:
 
-* **Jetina Quest** is now **daily** instead of weekly
-* **Maximum Pet Count:** 9 active pets
-* **Custom Bosses** and enhanced PvE encounters
-* **Improved Red Battlefield, Node, and Conquest War rewards**
-* **Custom Lifeskill Mastery Brackets & Bonuses**
-* **Infinite Weight** for Central Market warehouse
-* **Teleport System** for Premium users (F3 → Loyalties section)
-* **Free Pearls & Loyalties** through gameplay
-* Continuous **event rotations**, **QoL updates**, and **community contests**
+* **Daily Jetina**: The **Jetina Quest** resets daily instead of weekly for faster progression.
+* **Active Pets**: You can have up to **9 active pets** at once.
+* **Premium Teleports**: Premium users can teleport via the **Pearl Shop (F3)** in the **Loyalties** section.
+* **Global Drops**: **Pearl Boxes** drop from all monsters, allowing you to earn shop currency through gameplay.
+* **End-Game Crafting**: Fully functional systems for **Sovereign Weapons**, **Kharazad Gear**, **Preonne Accessories and Artifacts**.
+* **Infinite Warehouse**: The **Central Market** warehouse features infinite weight.
 
-***
+### Combat & World Systems
 
-### Combat and Life Rates
-
-| Category                        | Rate      |
-| ------------------------------- | --------- |
-| Combat EXP                      | ×20       |
-| Skill EXP                       | ×1000     |
-| Life EXP                        | ×30       |
-| Breath / Strength / Health EXP  | ×50       |
-| Horse EXP                       | ×30       |
-| Item Drop Rate                  | ×20 – ×50 |
-| Life Item Quantity              | ×3        |
-| Trash Item Quantity             | ×3        |
-| Hedgehog (Auto Gathering)       | +130%     |
-| Sailing EXP Gain                | +2500%    |
-| Sailor EXP (While Moving)       | +200%     |
-| Horse Wagon EXP                 | +2500%    |
-| Gathering Respawn Time          | 30%       |
-| Monster Respawn Time            | -30%      |
-| Family Fame Silver              | +600%     |
-| Monster AP (Night)              | +70%      |
-| EXP from Monsters (Night)       | +200%     |
-| Drop Rate from Monsters (Night) | +200%     |
-| Sailing EXP to Next Level       | -35%      |
-| Barter EXP to Next Level        | -35%      |
-| Guild Skill Point EXP           | +50%      |
-
-***
-
-### Developer Highlights
-
-* 5+ Years of advanced development experience
-* Dedicated stability, optimization, and balance updates
-* Active community events and consistent staff engagement
-
-Join the adventure — experience **MoonBD**, where convenience meets challenge.
+* **Latest Balance**: All classes use the latest 2023 balance versions.
+* **Custom Spots**: Expanded grind zones with reworked drop tables for better silver per hour.
+* **PvP Rewards**: Massive rewards for **Red Battlefield**, **Node**, and **Conquest Wars**, including trillions of Silver and **Cron Stones**.
+* **Developer Support**: Over 5 years of development experience ensures server stability and consistent updates.

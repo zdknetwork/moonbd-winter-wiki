@@ -5,6 +5,7 @@
 ## About US
 
 * [🎑 MoonBD Premium](about-us/moonbd-premium.md)
+* [🔼 Server Progression and Rates](about-us/server-progression-and-rates.md)
 * [👆 Vote for MoonBD](about-us/voting.md)
 
 ## HOW TO JOIN MOONBD
