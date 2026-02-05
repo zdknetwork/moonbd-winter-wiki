@@ -32,5 +32,5 @@ description: >-
 
 ### Additional Information
 
-* **Preview:** [**New 2026 Titles**](https://www.youtube.com/watch?v=CM7r0-WorHc)
-* **Preview:** [Title Effects Demonstration Video](https://www.youtube.com/watch?v=FUkcUPGdfCA)
+* **Preview:** [**New Title List 2026**](https://www.youtube.com/watch?v=CM7r0-WorHc)
+* **Preview:** [Old Title List](https://www.youtube.com/watch?v=FUkcUPGdfCA)
