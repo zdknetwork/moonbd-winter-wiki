@@ -2,13 +2,8 @@
 description: >-
   Overview of MoonBD Premium benefits, including experience buffs, drop rate
   increases, and package rewards for 30-day and 90-day subscriptions.
-cover: ../.gitbook/assets/image (45).jpg
-coverY: 1.155543212890625
 layout:
   width: default
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:

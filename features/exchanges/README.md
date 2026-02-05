@@ -1,8 +1,7 @@
 ---
 description: >-
-  Full list of all current item exchanges in MoonBD.  Includes Failstack, Boss
-  Weapon, Life Material, Catalyst, and Dream Horse Emblem exchanges with correct
-  directions and links.
+  A comprehensive list of item exchanges available through various NPCs
+  including materials, gear, and rare rewards.
 ---
 
 # 🈴 Exchanges

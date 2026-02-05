@@ -3,13 +3,8 @@ description: >-
   Support MoonBD by voting on our partner sites and earn Mysterious Tokens
   daily.  Each vote helps expand the community while rewarding players with
   valuable currency.
-cover: ../.gitbook/assets/image (10).jpg
-coverY: 0
 layout:
   width: default
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:

@@ -64,9 +64,15 @@
 ## FEATURES
 
 * [🟥 Brackets](features/brackets.md)
-* [🪁 Special Features](features/special-features.md)
+* [🪁 Server Features](features/server-features.md)
 * [Custom Items & Recipes](features/custom-items-recipes.md)
-* [🈴 Exchanges](features/exchanges.md)
+* [🈴 Exchanges](features/exchanges/README.md)
+  * [Moon Master Exchanges](features/exchanges/moon-master-exchanges.md)
+  * [Nemos Exchanges](features/exchanges/nemos-exchanges.md)
+  * [Loyal Exchange](features/exchanges/loyal-exchange.md)
+  * [Spirit Exchanges](features/exchanges/spirit-exchanges.md)
+  * [Lux Exchanges](features/exchanges/lux-exchanges.md)
+  * [Chaotica Exchanges](features/exchanges/chaotica-exchanges.md)
 * [👤 NPC's](features/npcs/README.md)
   * [Moon Master \<MoonBD>](features/npcs/moon-master-less-than-moonbd-greater-than.md)
   * [Nemos \<General Exchanges>](features/npcs/nemos-less-than-general-exchanges-greater-than.md)

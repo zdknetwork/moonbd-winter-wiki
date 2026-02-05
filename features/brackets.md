@@ -1,40 +1,34 @@
 ---
 description: >-
-  External reference hub for AP/DP/DR brackets and Life Skill Mastery charts. 
-  Provides quick access to trusted bracket data sources for progression
-  planning.
+  A collection of external resources and official data tables for AP, DP, and
+  Mastery scaling. This page links to specialized calculators and charts for
+  progression planning.
 ---
 
 # 🟥 Brackets
 
 ### Overview
 
-This page provides direct access to official and community-maintained resources for **combat** and **life skill** bracket data.\
-These references are essential for understanding scaling systems such as **AP**, **DP**, **DR**, and **Mastery** progression.
-
-***
+This page provides direct access to resources for combat and life skill bracket data. These references assist in understanding scaling systems such as **AP**, **DP**, **DR**, and **Mastery** progression.
 
 ### Mastery Brackets
 
-Comprehensive breakdown of general **Mastery Brackets** including scaling thresholds and bonus values.
+Life skill efficiency scales based on specific **Mastery** thresholds. Use the following resource to view scaling values and bonus effects:
 
-**Reference:**\
-[Mastery Brackets – Garmoth](https://garmoth.com/mastery-brackets/)
-
-***
+* [Mastery Brackets Guide](https://garmoth.com/guides/post/mastery-brackets)
 
 ### Life Skill Mastery Chart
 
-Displays **Life Mastery gained per Life Skill level**, covering all major life skills such as Gathering, Alchemy, and Cooking.
+**Life Mastery** increases based on the character's life skill level. This chart covers progression for **Gathering**, **Alchemy**, **Cooking**, and other professions:
 
-**Reference:**\
-[Life Mastery Level Chart – GrumpyGreen Cricket](https://grumpygreen.cricket/bdo-life-skill-mastery-levels/)
-
-***
+* [Life Mastery Level Chart](https://grumpygreen.cricket/bdo-life-mastery-level-chart/)
 
 ### AP / DP / DR Brackets
 
-Full list of **Attack Power**, **Defense Power**, and **Damage Reduction** brackets, showing how stat scaling impacts combat performance.
+Combat performance changes significantly when reaching specific stat milestones. These brackets provide bonus hidden stats:
 
-**Reference:**\
-[AP / DP / DR Brackets – Garmoth](https://garmoth.com/brackets)
+* [AP / DP / DR Brackets](https://garmoth.com/guides/post/ap-dp-and-dr-brackets)
+
+### Summary
+
+Use these links to optimize gear progression. Reaching the next bracket provides a significant boost to combat power or life skill yield.
