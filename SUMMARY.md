@@ -1,16 +1,11 @@
 # Table of contents
 
-* [🏠 Welcome to MoonBD](README.md)
-
 ## About US
 
-* [🎑 MoonBD Premium](about-us/moonbd-premium.md)
-* [🔼 Server Progression and Rates](about-us/server-progression-and-rates.md)
-* [👆 Vote for MoonBD](about-us/voting.md)
-
-## HOW TO JOIN MOONBD
-
-* [🙋‍♂️ First Time In Game](how-to-join-moonbd/first-time-in-game.md)
+* [🏠 Welcome](README.md)
+* [🎗️ Premium](about-us/premium.md)
+* [🛎️ Voting](about-us/voting.md)
+* [🎮 First Time In Game](about-us/first-time-in-game.md)
 
 ## GRINDSPOTS
 

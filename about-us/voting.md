@@ -24,46 +24,35 @@ layout:
     visible: true
 ---
 
-# 👆 Vote for MoonBD
+# 🛎️ Voting
 
-### Overview
+### **Overview**
 
-Players can support **MoonBD** by voting on partner sites once every **24 hours**.\
-Each successful round of voting rewards **2 Mysterious Tokens** per day, which can be used in the [Mysterious Shop](https://moonbd.online/account/mysterious-shop/).
+Players can support MoonBD by voting on partner sites once every 24 hours. Your participation helps the project grow and reach a wider community. Each successful round of voting rewards **2 Mysterious Tokens** per day.
 
-Your participation directly helps our project grow and reach a wider community.
+### **How to Participate**
 
-***
+Follow these steps to cast your vote and claim rewards:
 
-### How to Participate
-
-1. Log in to the official **MoonBD website**: [moonbd.online/account/profile](https://moonbd.online/account/profile/)
+1. Log in to the official **MoonBD Website**: [moonbd.online/account/profile](https://moonbd.online/account/profile).
 2. Locate and click the **Vote** button on your profile page.
-3. A pop‑up window will appear with two voting links:
+3. A pop-up window will display two voting links:
    * **GTop100**
    * **ArenaTop100**
 4. Click each button to open or copy the voting URL.
-5. Complete the vote on both sites to receive your **2 Mysterious Tokens**.
+5. Complete the vote on both sites to receive your rewards.
 
-Tokens are delivered automatically to your account after successful voting.
+### **Reward Summary**
 
-***
+Tokens are delivered automatically to your account upon successful completion of both votes.
 
-### Reward Summary
+| Item                 | Quantity | Frequency      |
+| -------------------- | -------- | -------------- |
+| **Mysterious Token** | 2        | Every 24 Hours |
 
-| Action                 | Reward                  | Limit               |
-| ---------------------- | ----------------------- | ------------------- |
-| Vote on GTop100        | 1 Mysterious Token      | Once every 24 hours |
-| Vote on ArenaTop100    | 1 Mysterious Token      | Once every 24 hours |
-| **Total Daily Tokens** | **2 Mysterious Tokens** | **Per day**         |
+### **Usage Notes**
 
-***
-
-### Notes
-
-* Votes reset every **24 hours**, allowing daily participation.
-* Tokens can be used to purchase items from the **Mysterious Shop**.
-* The Vote interface on the website includes buttons to **open** or **copy** the voting links for convenience.
-
-Your continued support is invaluable to the growth of the **MoonBD** community.\
-Thank you for helping others discover the world of MoonBD.
+* **Reset:** Voting resets every 24 hours. Check back daily to maximize your token income.
+* **Mysterious Shop:** Use your **Mysterious Tokens** at the dedicated shop NPC to purchase exclusive items.
+* **Interface:** The website interface includes buttons to copy links if the pop-up does not open automatically.
+* **Verification:** Ensure you complete the captcha or verification on the partner sites to ensure the vote registers.

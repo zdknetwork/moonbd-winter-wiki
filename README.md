@@ -1,35 +1,55 @@
-# 🏠 Welcome to MoonBD
+---
+description: >-
+  A comprehensive guide for new players exploring MoonBD. Learn about starter
+  gear, server rates, custom features, and leveling rewards.
+---
 
-### Overview
+# 🏠 Welcome
 
-**MoonBD** is a modern and refined Black Desert private world. The server features enhanced progression, quality-of-life systems, and rebalanced class updates. Every player begins fully equipped and globally connected. You can explore every feature without an unnecessary grind.
+### **Overview**
 
-### Starter Bonuses
+MoonBD is a refined Black Desert private world. The server features enhanced progression, quality-of-life systems, and rebalanced class updates. Every player begins fully equipped and globally connected to explore all features without an unnecessary grind.
 
-New players receive massive convenience upgrades and immediate combat readiness. Claim these rewards to begin your journey:
+### **Starter Bonuses**
 
-* **672+ GS Starter Gear Set**: Provided immediately to all new characters.
-* **Instant Unlocks**: Awakening, Succession, and all **Adventure Log** buffs are active from the start.
-* **World Map**: Fully revealed via the **Black Spirit \[MoonBD] Starter Quest**.
-* **Resources**: 30,000 Pearls, 10,000 Loyalties, and 90 million Silver.
-* **Character Stats**: 200 Energy and 200 Contribution Points (claimable from the **Challenge Menu Y**).
-* **Essentials**: Naphart Campsite, 9 Tier-4 Pets, and a 3-Day Infinite Potion Buff.
-* **Mounts**: Choose one **T9 Dream Horse** with a permanent **Celestial Horse Calling Horn**.
+New characters receive immediate combat readiness and convenience upgrades via the **Challenge Menu** (`Y`) or the **Black Spirit** (`/`):
 
-### Server Features & Enhancements
+* **Gear:** 672+ GS Starter Gear Set.
+* **Unlocks:** Instant Awakening, Succession, and all Adventure Log buffs.
+* **World Map:** Fully revealed via the **\[MoonBD] Starter Quest**.
+* **Currencies:** 30,000 Pearls, 10,000 Loyalties, and 90 million Silver.
+* **Stats:** 200 Energy and 200 Contribution Points.
+* **Account Essentials:** **Naphart Campsite**, 9 Tier-4 Pets, and a 3-Day Infinite Potion Buff.
+* **Mount:** One T9 Dream Horse and a permanent **Celestial Horse Calling Horn**.
 
-MoonBD offers several custom systems to improve the gameplay experience:
+### **Server Features & Rates**
 
-* **Daily Jetina**: The **Jetina Quest** resets daily instead of weekly for faster progression.
-* **Active Pets**: You can have up to **9 active pets** at once.
-* **Premium Teleports**: Premium users can teleport via the **Pearl Shop (F3)** in the **Loyalties** section.
-* **Global Drops**: **Pearl Boxes** drop from all monsters, allowing you to earn shop currency through gameplay.
-* **End-Game Crafting**: Fully functional systems for **Sovereign Weapons**, **Kharazad Gear**, **Preonne Accessories and Artifacts**.
-* **Infinite Warehouse**: The **Central Market** warehouse features infinite weight.
+MoonBD offers custom systems and increased rates to improve the gameplay experience:
 
-### Combat & World Systems
+* **Experience:** Streamlined leveling with a soft cap at Level 66 and a maximum cap at Level 70.
+* **Agris Fever:** Permanent 200% bonus to all players for increased trash loot.
+* **Energy Recovery:** Base recovery of 100 Energy every 5 minutes. **MoonBD Premium** users recover 10 Energy every minute.
+* **Contribution Cap:** Soft cap at 1,000, hard cap at 2,000, and a maximum limit of 5,000 points.
+* **Global Drops:** Pearl Boxes drop from all monsters worldwide.
+* **Warehouse:** The **Central Market** features infinite weight.
+* **Pet Limit:** Up to 9 active pets allowed simultaneously.
 
-* **Latest Balance**: All classes use the latest 2023 balance versions.
-* **Custom Spots**: Expanded grind zones with reworked drop tables for better silver per hour.
-* **PvP Rewards**: Massive rewards for **Red Battlefield**, **Node**, and **Conquest Wars**, including trillions of Silver and **Cron Stones**.
-* **Developer Support**: Over 5 years of development experience ensures server stability and consistent updates.
+### **Combat & World Rules**
+
+* **PvP Access:** Players must reach Level 64 to engage in open-world PvP or guild wars.
+* **Class Balance:** All classes utilize the latest 2023 balance versions.
+* **Teleportation:** **Premium** users can teleport via the **Pearl Shop** (`F3`) in the **Loyalties** section.
+* **Progression:** **Daily Jetina** quests reset daily. Specialized systems exist for **Sovereign Weapons**, **Kharazad Gear**, and **Preonne** items.
+
+### **Leveling Rewards**
+
+Reaching milestones grants rewards through the **Challenge Menu** (`Y`):
+
+<table><thead><tr><th width="82">Level</th><th>Key Rewards</th></tr></thead><tbody><tr><td><strong>67</strong></td><td><strong>Advice of Valks (+150)</strong>, Gold Bars</td></tr><tr><td><strong>68</strong></td><td><strong>Advice of Valks (+250)</strong>, <strong>Essence of Dawn</strong>, or <strong>Name Change Coupon</strong></td></tr><tr><td><strong>69</strong></td><td><strong>Advice of Valks (+300)</strong>, <strong>Inverted Garmoth's Heart</strong></td></tr><tr><td><strong>70</strong></td><td><strong>Advice of Valks (+500)</strong>, <strong>Moon Coin Boxes</strong>, <strong>Baby Elephant</strong>, or <strong>Hedgehog</strong></td></tr></tbody></table>
+
+### **Summary**
+
+* Claim all rewards from the `Y` menu immediately.
+* Complete the **Black Spirit** starter quest to reveal the map.
+* Reach Level 64 to unlock PvP features.
+* Utilize the 200% Agris Fever bonus for efficient grinding.
