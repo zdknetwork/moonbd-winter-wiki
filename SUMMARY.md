@@ -63,7 +63,18 @@
 
 ## FEATURES
 
-* [🟥 Brackets](features/brackets.md)
+* [🟥 Brackets](features/brackets/README.md)
+  * [AP Brackets](features/brackets/ap-brackets.md)
+  * [DP/DR Brackets](features/brackets/dp-dr-brackets.md)
+  * [Life Level Mastery Bonuses](features/brackets/life-level-mastery-bonuses.md)
+  * [Gathering Brackets](features/brackets/gathering-brackets.md)
+  * [Fishing Brackets](features/brackets/fishing-brackets.md)
+  * [Cooking Brackets](features/brackets/cooking-brackets.md)
+  * [Alchemy Brackets](features/brackets/alchemy-brackets.md)
+  * [Processing Brackets](features/brackets/processing-brackets.md)
+  * [Hunting Brackets](features/brackets/hunting-brackets.md)
+  * [Sailing Brackets](features/brackets/sailing-brackets.md)
+  * [Training Brackets](features/brackets/training-brackets.md)
 * [🪁 Server Features](features/server-features.md)
 * [Custom Items & Recipes](features/custom-items-recipes.md)
 * [🈴 Exchanges](features/exchanges/README.md)
