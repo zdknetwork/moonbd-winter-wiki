@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 🟢 Manos Hunting Bag
 
 <figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>

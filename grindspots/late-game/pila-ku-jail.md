@@ -1,23 +1,6 @@
 ---
 cover: ../../.gitbook/assets/Pila_Ku_Jail.JPG.webp
 coverY: -87.4798206278027
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟥 Pila Ku Jail

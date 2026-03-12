@@ -1,23 +1,6 @@
 ---
 cover: ../../.gitbook/assets/Crescent_Shrine.JPG.jpg
 coverY: 64
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟥 Crescent Shrine

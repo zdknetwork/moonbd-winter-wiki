@@ -1,23 +1,6 @@
 ---
 cover: ../../.gitbook/assets/image (29).jpg
 coverY: 30.04444091796875
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟥 Ash Forest

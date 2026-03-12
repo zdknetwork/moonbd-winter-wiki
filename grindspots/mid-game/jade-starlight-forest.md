@@ -1,23 +1,6 @@
 ---
 cover: ../../.gitbook/assets/image (13).jpg
 coverY: -75.1111181640625
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🔶 Jade Starlight Forest
@@ -33,7 +16,7 @@ Recommended DP: 340
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FX8zbODSQYAOKwpNYY2Vv%2Fimage.png?alt=media&#x26;token=7b5aa6ea-2038-4d4c-a147-8d5a59719753" alt="" data-size="line"> <mark style="color:blue;">Caphras Stone</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FB0oM0bZJVpi6LYQ52LB3%2Fimage.png?alt=media&#x26;token=14e64531-514e-4a6d-8d27-5f6857341599" alt="" data-size="line"><mark style="color:blue;">Imperfect Lightstones</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FC7JGw3sW1DP1ZfSL2JkB%2Fimage.png?alt=media&#x26;token=4909189a-1af3-44e9-ad34-2309552c31a7" alt="" data-size="line"> <mark style="color:blue;">Dragon Scale Fossil</mark>
-* ![](<../../.gitbook/assets/image (114).png>) <mark style="color:blue;">Starlit Jade's Breath</mark>
+* <img src="../../.gitbook/assets/image (114).png" alt="" data-size="line"> <mark style="color:blue;">Starlit Jade's Breath</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FbazJUa1KeJNyKfEv2F0T%2Fimage.png?alt=media&#x26;token=56650b7f-05b6-419f-af6c-b68c7c3a049a" alt="" data-size="line"> <mark style="color:yellow;">Embers of Frost</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FxrvqkiVUz5G8C7HRQZII%2Fimage.png?alt=media&#x26;token=830f08b4-19f3-4db4-a8b7-04b92bf87644" alt="" data-size="line"> <mark style="color:yellow;">Flame of Frost</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FH5SN9Wyj5QLbF0pE6rt0%2Fimage.png?alt=media&#x26;token=d3bab4b4-713e-44d6-835e-f208863fe9b6" alt="" data-size="line"> <mark style="color:yellow;">Iridescent Lightstone</mark>

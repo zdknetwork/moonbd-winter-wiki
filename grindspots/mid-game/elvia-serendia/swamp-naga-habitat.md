@@ -1,23 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/image (17).jpg
 coverY: -84.35555908203125
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟢 Swamp Naga Habitat

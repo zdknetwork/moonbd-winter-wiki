@@ -1,23 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/image (22).jpg
 coverY: -8.054329837696839
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟢 Sycraia Underwater Ruins (Upper Zone)

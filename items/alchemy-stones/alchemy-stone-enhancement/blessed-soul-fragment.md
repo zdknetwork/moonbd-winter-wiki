@@ -1,23 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/image (42).jpg
 coverY: 62.4
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟪 Blessed Soul Fragment

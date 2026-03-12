@@ -1,23 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/image (35).jpg
 coverY: 74.83986499193483
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟩 Blood Wolf Settlement

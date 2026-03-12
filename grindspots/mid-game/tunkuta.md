@@ -1,23 +1,6 @@
 ---
 cover: ../../.gitbook/assets/image (25).jpg
 coverY: 115.62964070638021
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🔶 Tunkuta

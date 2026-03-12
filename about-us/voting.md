@@ -3,20 +3,6 @@ description: >-
   Support MoonBD by voting on our partner sites and earn Mysterious Tokens
   daily.  Each vote helps expand the community while rewarding players with
   valuable currency.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🛎️ Voting

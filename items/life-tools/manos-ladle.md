@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 🟢 Manos Ladle
 
 <figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>

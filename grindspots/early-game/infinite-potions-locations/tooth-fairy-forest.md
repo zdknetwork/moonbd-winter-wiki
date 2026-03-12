@@ -1,23 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/image (2).jpg
 coverY: 98.10186195373535
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 🟩 Tooth Fairy Forest
