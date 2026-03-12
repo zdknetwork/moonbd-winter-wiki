@@ -1,59 +1,58 @@
 ---
 description: >-
-  A permanent item that unlocks access to the hidden Central Market Auto Buy
-  system.  It no longer grants any tax bonuses and functions solely as a system
-  activation key.  Once obtained, its effect is p
+  Gem of Fortune is a permanent item that unlocks the Central Market Auto Buy
+  system. Once obtained, the item activates an invisible background system that
+  automatically purchases eligible market.
 ---
 
 # Gem of Fortune - Auto Buy
 
-{% hint style="warning" %}
-This item is not yet available.
-{% endhint %}
+### Overview
 
-### Functionality
+The **Gem of Fortune** is a permanent system item that activates the **Central Market Auto Buy system**. This item functions as an account-bound activation key that enables a background marketplace feature designed to maintain healthy item circulation.
 
-* Grants access to the **Central Market Auto Buy** system, an invisible background feature not directly accessible through any menu or interface.
-* Without this item, the **Auto Buy** system and all related functions remain disabled.
-* The system operates only under specific market conditions and does not affect ordinary player-initiated trades.
+Once obtained, the system operates automatically without requiring any interface interaction or menu access. The feature runs silently in the background and only activates when specific market conditions are met.
 
-#### Auto Buy Behavior
+The **Gem of Fortune** does not provide tax bonuses, instant-sale benefits, or marketplace advantages. Its sole purpose is to unlock the automated market support system.
 
-* The system automatically purchases eligible items from the market at their **current market price**, not their listed price.
-* When an item is bought by this system:
-  * The seller receives **30% of the item’s current price** via in-game mail.
-  * The item must remain listed for 7 **days** before being eligible for Auto Buy.
-    * If relisted during this time, the timer resets.
-  * Items priced over **1 trillion silver (1,000,000,000,000)** per unit are **excluded**.
-  * Purchases made through this system **do not add** to the item’s total trade count, in order to prevent influencing price adjustments.
-* **Pearl items** and any **NPC-purchasable items** are never purchased by the Auto Buy system.
+### Mechanics
 
-#### Tax and Duration
+The **Central Market Auto Buy system** operates as a hidden background process that automatically purchases certain marketplace listings under defined conditions.
 
-* The **Gem of Fortune** no longer provides any tax benefits or instant-sell options.
-* It functions solely to activate Auto Buy.
-* The item is **permanent** and does not expire.
-* If the system detects a missing or expired effect, it automatically restores it.
+When active, the system may purchase eligible items from the market using the item's **current market price**, not the seller's listed price.
+
+When a purchase occurs:
+
+* The seller receives **30% of the item's current market price** through in-game mail. This can be converted to Black Spirit Safe silver. Ensure to check both.
+* The item must remain listed on the market for **7 days** before becoming eligible.
+* If the item is relisted during this period, the **eligibility timer resets**.
+* Items priced above **1,000,000,000,000 Silver** per unit are excluded.
+* Purchases performed by this system **do not increase the item's trade count**, preventing price manipulation.
+
+Certain item categories are never purchased by the system:
+
+* **Pearl Shop items**
+* **NPC-purchasable items**
+
+These restrictions exist to prevent economic exploitation and preserve marketplace stability.
 
 ### How to Obtain
 
-1. **Cash Shop Purchase** – Can be bought directly from the **Cash Shop**.
-2. **Moon Coin Exchange** – Exchange **Moon Coins** for the **Gem of Fortune**.
-3. **Item Combination** – Combine the following treasure pieces vertically ( | ) in the player’s inventory:
-   * **Everlasting Flower**
-   * **Lost Writings**
-   * **Almighty Void**
-   * **Egg of The Emperor**
+The **Gem of Fortune** can be acquired through several methods:
+
+* **Cash Shop Purchase** — Available directly through the in-game Cash Shop.
+* **Moon Coin Exchange** — Exchange Moon Coins for the item.
+
+Once acquired and used by RMB, the item permanently unlocks the Auto Buy system.
 
 ### Usage Notes
 
-* Required to enable the **Auto Buy** system.
-* The feature remains invisible to players but functions automatically once the Gem is owned.
-* The **Gem of Fortune** does not need renewal or reactivation.
-* Once obtained, its effect is tied permanently to the player’s account.
+* The **Gem of Fortune** is **permanent** and does not expire.
+* No renewal, activation, or maintenance is required after obtaining the item.
+* The system functions **automatically in the background**.
+* The feature remains **invisible to players** and does not appear in any menu or interface.
+* The item's effect becomes **permanently tied to the account** once obtained.
 
-### Additional Information
+### Summary
 
-* Removal of the previous tax bonus ensures market balance in price adjustments.
-* The **Auto Buy** system's activity is unnoticeable to players but contributes to maintaining item circulation without manual listing.
-* System design prevents exploitation through pearl or NPC-tradeable items.
+The **Gem of Fortune** introduces an automated marketplace support system designed to maintain item circulation while remaining completely unobtrusive to players. By activating the **Central Market Auto Buy system**, the item ensures long-term market stability without altering normal player trading behavior.
