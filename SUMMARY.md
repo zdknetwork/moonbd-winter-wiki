@@ -172,5 +172,6 @@
 
 ## 💡 Misc
 
+* [🖥️ Performance](misc/performance.md)
 * [📶 Exitlag! Guide](misc/exitlag-guide.md)
 * [🐞 Known Issues](misc/known-issues.md)
