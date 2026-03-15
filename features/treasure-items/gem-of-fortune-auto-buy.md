@@ -9,23 +9,29 @@ description: >-
 
 ### Overview
 
-The **Gem of Fortune** is a permanent system item that activates the **Central Market Auto Buy system**. This item functions as an account-bound activation key that enables a background marketplace feature designed to maintain healthy item circulation.
+The **Gem of Fortune** is a permanent system item that activates the **Central Market Auto Buy** system. This item functions as an account-bound activation key that enables a background marketplace feature designed to maintain healthy item circulation.
 
-Once obtained, the system operates automatically without requiring any interface interaction or menu access. The feature runs silently in the background and only activates when specific market conditions are met.
+Once obtained, the system operates automatically without requiring any interface interaction or menu access. The feature runs silently in the background and activates only when specific market conditions are met.
 
-The **Gem of Fortune** does not provide tax bonuses, instant-sale benefits, or marketplace advantages. Its sole purpose is to unlock the automated market support system.
+The **Gem of Fortune** does **not** provide tax bonuses, instant-sale benefits, or direct marketplace advantages. Its sole purpose is to unlock the automated market support system.
+
+Marketplace tax bonuses are instead provided by items such as the [**Rich Merchant's Ring**](https://moonbd.online/codex/item?id=12034), which grants a **10% tax bonus** to Central Market sales.
 
 ### Mechanics
 
-The **Central Market Auto Buy system** operates as a hidden background process that automatically purchases certain marketplace listings under defined conditions.
+The **Central Market Auto Buy** system operates as a hidden background process that automatically purchases certain marketplace listings under defined conditions.
 
 When active, the system may purchase eligible items from the market using the item's **current market price**, not the seller's listed price.
 
 When a purchase occurs:
 
-* The seller receives **30% of the item's current market price** through in-game mail. This can be converted to Black Spirit Safe silver. Ensure to check both.
+* The seller receives **30% of the item's current market price** through in-game mail.
+* This silver may appear either in **mail** or inside the **Black Spirit Safe**.
 * The item must remain listed on the market for **7 days** before becoming eligible.
-* If the item is relisted during this period, the **eligibility timer resets**.
+* If the item is relisted during this period, the eligibility timer resets.
+
+Additional system rules include:
+
 * Items priced above **1,000,000,000,000 Silver** per unit are excluded.
 * Purchases performed by this system **do not increase the item's trade count**, preventing price manipulation.
 
@@ -41,18 +47,18 @@ These restrictions exist to prevent economic exploitation and preserve marketpla
 The **Gem of Fortune** can be acquired through several methods:
 
 * **Cash Shop Purchase** — Available directly through the in-game Cash Shop.
-* **Moon Coin Exchange** — Exchange Moon Coins for the item.
+* **Moon Coin Exchange** — Exchange **Moon Coins** for the item.
 
-Once acquired and used by RMB, the item permanently unlocks the Auto Buy system.
+Once acquired, using the item with **RMB** permanently unlocks the **Central Market Auto Buy** system.
 
 ### Usage Notes
 
 * The **Gem of Fortune** is **permanent** and does not expire.
-* No renewal, activation, or maintenance is required after obtaining the item.
-* The system functions **automatically in the background**.
-* The feature remains **invisible to players** and does not appear in any menu or interface.
-* The item's effect becomes **permanently tied to the account** once obtained.
+* No renewal, activation, or maintenance is required after the item is used.
+* The system functions automatically in the background.
+* The feature remains invisible to players and does not appear in any menu or interface.
+* The effect becomes permanently tied to the account once activated.
 
 ### Summary
 
-The **Gem of Fortune** introduces an automated marketplace support system designed to maintain item circulation while remaining completely unobtrusive to players. By activating the **Central Market Auto Buy system**, the item ensures long-term market stability without altering normal player trading behavior.
+The **Gem of Fortune** introduces an automated marketplace support system designed to maintain item circulation while remaining completely unobtrusive to players. By activating the **Central Market Auto Buy** system, the item helps stabilize the in-game economy without altering standard player trading behavior.
