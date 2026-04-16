@@ -37,7 +37,7 @@
   * [🔶 Sycraia Ruins](grindspots/mid-game/sycraia-ruins/README.md)
     * [🟢 Sycraia Underwater Ruins (Upper Zone)](grindspots/mid-game/sycraia-ruins/sycraia-underwater-ruins-upper-zone.md)
   * [🔶 Tunkuta](grindspots/mid-game/tunkuta.md)
-  * [🔶 Abandoned Monastery](grindspots/mid-game/abandoned-monastery.md)
+  * [🔶 Desert Naga Temple](grindspots/mid-game/desert-naga-temple.md)
   * [🔶 Gyfin Rhasia Temple](grindspots/mid-game/gyfin-rhasia-temple.md)
 * [❤️ Late Game](grindspots/late-game/README.md)
   * [🟥 Olun's Valley (Party of 3)](grindspots/late-game/oluns-valley-party-of-3.md)
