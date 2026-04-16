@@ -21,5 +21,5 @@ Recommended DP: 460
 * <img src="../../.gitbook/assets/image (326).png" alt="" data-size="line"> <mark style="color:orange;">Ancient Memory Fragment</mark>
 * <img src="../../.gitbook/assets/image (327).png" alt="" data-size="line"> <mark style="color:yellow;">Piece of Edana</mark>
 * <img src="../../.gitbook/assets/image (328).png" alt="" data-size="line"> <mark style="color:yellow;">Mass of Pure Magic</mark>
-* <img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line"> <mark style="color:yellow;">Serap's Necklace</mark>
+* <img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line"> <mark style="color:yellow;">Serap's Necklace</mark>
 

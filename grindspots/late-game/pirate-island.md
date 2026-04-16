@@ -8,11 +8,13 @@ coverY: -32.82604817127565
 {% hint style="info" %}
 Recommended AP: 405\
 Recommended DP: 480
+
+Trash Loot: 650.000
 {% endhint %}
 
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2F6ubuz0pe0dAoS53tcEWh%2Fimage.png?alt=media&#x26;token=546dfdba-0c80-4909-9a85-12eb03e4ce31" alt="" data-size="line"> <mark style="color:red;">Black Stone</mark>
-* <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> <mark style="color:red;">Origin Bloodstone</mark>
-* <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> <mark style="color:red;">Ancient Memory Fragment</mark>
+* <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> <mark style="color:red;">Origin Bloodstone</mark>
+* <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">Ancient Memory Fragment</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FQ20JV0n9kIpiY6DyLf30%2Fimage.png?alt=media&#x26;token=070f0656-498d-4d1f-9648-18873635da11" alt="" data-size="line"><mark style="color:green;">Ancient Spirit Dust</mark>
 * <img src="../../.gitbook/assets/image (95).png" alt="" data-size="line"> <mark style="color:yellow;">Sealed Black Magic Crystal</mark>
 * <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"><mark style="color:yellow;">Deboreka Earring</mark>

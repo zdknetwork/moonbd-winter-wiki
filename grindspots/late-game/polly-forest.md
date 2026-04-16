@@ -24,7 +24,7 @@ Recommended DP: 430
 * <img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:yellow;">Primordial Crystal</mark>
 * <img src="../../.gitbook/assets/image (327).png" alt="" data-size="line"><mark style="color:yellow;">Piece of Edana</mark>
 * <img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"><mark style="color:yellow;">Herald's Crystal</mark>
-* <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> <mark style="color:red;">Ancient Memory Fragment</mark>
+* <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">Ancient Memory Fragment</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2Fr1XS7i3VErKOV3ez6SRw%2Fimage.png?alt=media&#x26;token=db20b837-faba-4714-8075-453bd11e2354" alt="" data-size="line"><mark style="color:yellow;">Marsh's Artifact - Melee AP</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2Fc8wPAsclwhggsBrKm4aI%2Fimage.png?alt=media&#x26;token=e0aac9be-3970-4dc2-9ddc-a08608c38fe6" alt="" data-size="line"><mark style="color:yellow;">Marsh's Artifact - Melee Damage Reduction</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2Fc8wPAsclwhggsBrKm4aI%2Fimage.png?alt=media&#x26;token=e0aac9be-3970-4dc2-9ddc-a08608c38fe6" alt="" data-size="line"><mark style="color:yellow;">Marsh's Artifact - Melee Evasion</mark>
