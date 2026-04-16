@@ -14,7 +14,6 @@ Recommended DP: 480
 * <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> <mark style="color:red;">Origin Bloodstone</mark>
 * <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> <mark style="color:red;">Ancient Memory Fragment</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FQ20JV0n9kIpiY6DyLf30%2Fimage.png?alt=media&#x26;token=070f0656-498d-4d1f-9648-18873635da11" alt="" data-size="line"><mark style="color:green;">Ancient Spirit Dust</mark>
-* <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2F0X1tnHoBepVDNwajk3qk%2Fimage.png?alt=media&#x26;token=54f4284c-2268-449c-9412-bd4a23312e4c" alt="" data-size="line"><mark style="color:blue;">Caphras Stone</mark>
 * <img src="../../.gitbook/assets/image (95).png" alt="" data-size="line"> <mark style="color:yellow;">Sealed Black Magic Crystal</mark>
 * <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"><mark style="color:yellow;">Deboreka Earring</mark>
 * <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line"><mark style="color:yellow;">Deboreka Belt</mark>
