@@ -42,6 +42,8 @@
 * [❤️ Late Game](grindspots/late-game/README.md)
   * [🟥 Olun's Valley (Party of 3)](grindspots/late-game/oluns-valley-party-of-3.md)
   * [🟥 Orzekea's Lair (Party of 2)](grindspots/late-game/orzekeas-lair-party-of-2.md)
+  * [🟥 Abandoned Monastery (Party of 2)](grindspots/late-game/abandoned-monastery-party-of-2.md)
+  * [🟥 Pirate Island](grindspots/late-game/pirate-island.md)
   * [🟥 Sycraia Underwater Ruins (Lower Zone)](grindspots/late-game/sycraia-underwater-ruins-lower-zone.md)
   * [🟥 Polly Forest](grindspots/late-game/polly-forest.md)
   * [🟥 Stars End](grindspots/late-game/stars-end.md)

@@ -17,6 +17,6 @@ Recommended DP: 380
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FX8zbODSQYAOKwpNYY2Vv%2Fimage.png?alt=media&#x26;token=7b5aa6ea-2038-4d4c-a147-8d5a59719753" alt="" data-size="line"><mark style="color:blue;">Caphras Stone</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FB0oM0bZJVpi6LYQ52LB3%2Fimage.png?alt=media&#x26;token=14e64531-514e-4a6d-8d27-5f6857341599" alt="" data-size="line"> <mark style="color:blue;">Imperfect Lightstones</mark>
 * <img src="../../.gitbook/assets/image (95).png" alt="" data-size="line"> <mark style="color:yellow;">Sealed Black Magic Crystal</mark>
-* <img src="../../.gitbook/assets/image.png" alt="" data-size="line"><mark style="color:yellow;">Herald's Crystal</mark>
-* <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> <mark style="color:red;">Ancient Memory Fragment</mark>
+* <img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"><mark style="color:yellow;">Herald's Crystal</mark>
+* <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> <mark style="color:red;">Ancient Memory Fragment</mark>
 

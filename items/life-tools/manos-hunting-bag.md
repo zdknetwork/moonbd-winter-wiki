@@ -15,8 +15,8 @@
 {% hint style="info" %}
 In order to craft <img src="../../.gitbook/assets/image (293).png" alt="" data-size="line"> [<mark style="color:orange;">**Manos Hunting Bag**</mark>](https://bdocodex.com/us/item/705542/) you need following materials
 
-* <img src="../../.gitbook/assets/image (8) (1).png" alt="" data-size="line">[<mark style="color:yellow;">**Manos Stone**</mark>](https://bdocodex.com/us/item/4915/) **x5**
-* <img src="../../.gitbook/assets/image (10) (1).png" alt="" data-size="line">[<mark style="color:$info;">**Magical Shard**</mark>](https://bdocodex.com/us/item/4918/) **x50**
+* <img src="../../.gitbook/assets/image (8) (1) (1).png" alt="" data-size="line">[<mark style="color:yellow;">**Manos Stone**</mark>](https://bdocodex.com/us/item/4915/) **x5**
+* <img src="../../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line">[<mark style="color:$info;">**Magical Shard**</mark>](https://bdocodex.com/us/item/4918/) **x50**
 * <img src="../../.gitbook/assets/image (295).png" alt="" data-size="line">[<mark style="color:$info;">**Leather Gaze**</mark>](https://bdocodex.com/us/item/6183/) **x30**
 * <img src="../../.gitbook/assets/image (296).png" alt="" data-size="line">[<mark style="color:green;">**Damaged Hide**</mark>](https://bdocodex.com/us/item/7751/) **x50**
 {% endhint %}

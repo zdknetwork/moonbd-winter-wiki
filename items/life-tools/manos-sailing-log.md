@@ -15,9 +15,9 @@
 {% hint style="info" %}
 In order to craft <img src="../../.gitbook/assets/image (298).png" alt="" data-size="line"> [<mark style="color:orange;">**Manos Sailing Log**</mark>](https://bdocodex.com/us/item/760943/) you need following materials
 
-* <img src="../../.gitbook/assets/image (8) (1).png" alt="" data-size="line">[<mark style="color:yellow;">**Manos Stone**</mark>](https://bdocodex.com/us/item/4915/) **x5**
-* <img src="../../.gitbook/assets/image (10) (1).png" alt="" data-size="line">[<mark style="color:$info;">**Magical Shard**</mark>](https://bdocodex.com/us/item/4918/) **x50**
-* <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line">[<mark style="color:$info;">**Essence of Nature**</mark>](https://bdocodex.com/us/item/5206/) **x20**
+* <img src="../../.gitbook/assets/image (8) (1) (1).png" alt="" data-size="line">[<mark style="color:yellow;">**Manos Stone**</mark>](https://bdocodex.com/us/item/4915/) **x5**
+* <img src="../../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line">[<mark style="color:$info;">**Magical Shard**</mark>](https://bdocodex.com/us/item/4918/) **x50**
+* <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line">[<mark style="color:$info;">**Essence of Nature**</mark>](https://bdocodex.com/us/item/5206/) **x20**
 * <img src="../../.gitbook/assets/image (299).png" alt="" data-size="line">[<mark style="color:$info;">**Supreme Tough Hide**</mark>](https://bdocodex.com/us/item/6168/) **x50**
 {% endhint %}
 

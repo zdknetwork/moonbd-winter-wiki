@@ -15,8 +15,8 @@
 {% hint style="info" %}
 In order to craft <img src="../../.gitbook/assets/image (301).png" alt="" data-size="line"> [<mark style="color:orange;">**Manos Ladle**</mark>](https://bdocodex.com/us/item/705545/) you need following materials
 
-* <img src="../../.gitbook/assets/image (8) (1).png" alt="" data-size="line">[<mark style="color:yellow;">**Manos Stone**</mark>](https://bdocodex.com/us/item/4915/) **x5**
-* <img src="../../.gitbook/assets/image (10) (1).png" alt="" data-size="line">[<mark style="color:$info;">**Magical Shard**</mark>](https://bdocodex.com/us/item/4918/) **x50**
+* <img src="../../.gitbook/assets/image (8) (1) (1).png" alt="" data-size="line">[<mark style="color:yellow;">**Manos Stone**</mark>](https://bdocodex.com/us/item/4915/) **x5**
+* <img src="../../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line">[<mark style="color:$info;">**Magical Shard**</mark>](https://bdocodex.com/us/item/4918/) **x50**
 * <img src="../../.gitbook/assets/image (302).png" alt="" data-size="line">[<mark style="color:$info;">**Iron Ingot**</mark>](https://bdocodex.com/us/item/4052/) **x10**
 * <img src="../../.gitbook/assets/image (303).png" alt="" data-size="line">[<mark style="color:$info;">**Fundamentals of Cooking**</mark>](https://bdocodex.com/us/item/5867/) **x10**
 {% endhint %}

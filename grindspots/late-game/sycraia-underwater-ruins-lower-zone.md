@@ -19,7 +19,7 @@ Recommended DP: 430
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FjWz2R2XifAHnJPB8ZDuH%2Fimage.png?alt=media&#x26;token=930e4a18-402b-49b6-9871-52e63be6894b" alt="" data-size="line"> <mark style="color:yellow;">Tungrad Ring</mark>
 * <img src="../../.gitbook/assets/image (95).png" alt="" data-size="line"> <mark style="color:yellow;">Sealed Black Magic Crystal</mark>
 * <img src="../../.gitbook/assets/image (331).png" alt="" data-size="line"><mark style="color:yellow;">Essence of Devour</mark>
-* <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> <mark style="color:red;">Ancient Memory Fragment</mark>
+* <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> <mark style="color:red;">Ancient Memory Fragment</mark>
 * <img src="../../.gitbook/assets/image (333).png" alt="" data-size="line"><mark style="color:yellow;">Sycraia Shard</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FQ5ZKibWEk4Mwrq61mAR6%2Fimage.png?alt=media&#x26;token=7fc6432e-7099-4aca-9ba3-5942a8949d7b" alt="" data-size="line"> <mark style="color:blue;">Abyssal Essence</mark>
 * <img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FO4FLeGZUuOwddvRdzkQ2%2Fimage.png?alt=media&#x26;token=46cc925f-3fe0-47d2-9fb0-29e207576779" alt="" data-size="line"> <mark style="color:yellow;">Sycrid's Song</mark>

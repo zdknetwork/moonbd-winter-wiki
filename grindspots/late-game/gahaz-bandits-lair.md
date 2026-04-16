@@ -22,7 +22,7 @@ Recommended DP: 430
 * <img src="../../.gitbook/assets/image (91).png" alt="" data-size="line"> <mark style="color:yellow;">Crystal of Darkness</mark>
 * <img src="../../.gitbook/assets/image (92).png" alt="" data-size="line"> <mark style="color:yellow;">Crystal of Bitterness</mark>
 * <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> <mark style="color:yellow;">Kuadir Fragment</mark>
-* <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> <mark style="color:yellow;">Primordial Crystal</mark>
+* <img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:yellow;">Primordial Crystal</mark>
 
 ***
 
