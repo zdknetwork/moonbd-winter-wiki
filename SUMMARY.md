@@ -170,6 +170,7 @@
 * [👿 Boss Event](events/boss-event.md)
 * [⚔️ RBF Reward Event](events/rbf-reward-event.md)
 * [🪙 Trash Loot Bonus Event](events/trash-loot-bonus-event.md)
+* [💵 Cash Bonus Event](events/cash-bonus-event.md)
 * [🔮 Other Events](events/other-events.md)
 
 ## 💡 Misc
