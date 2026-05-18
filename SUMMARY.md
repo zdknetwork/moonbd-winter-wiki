@@ -172,7 +172,7 @@
 * [🪙 Trash Loot Bonus Event](events/trash-loot-bonus-event.md)
 * [💵 Cash Bonus Event](events/cash-bonus-event.md)
 * [🔮 Other Events](events/other-events.md)
-* [War and Siege Rewards](events/war-and-siege-rewards.md)
+* [🚩 War and Siege Rewards](events/war-and-siege-rewards.md)
 
 ## 💡 Misc
 

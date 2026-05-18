@@ -5,7 +5,7 @@ description: >-
   categories.
 ---
 
-# War and Siege Rewards
+# 🚩 War and Siege Rewards
 
 ### Overview
 
