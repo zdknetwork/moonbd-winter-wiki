@@ -1,36 +1,68 @@
 # 🐞 Known Issues
 
-### Accessory Crystal Socketing
+#### Pets & Collision
 
-#### Kharazad & Preonne Limitations
+* Certain pets such as Dragons, Bears, and Eggs may cause collision or movement issues in some situations.
+* If your character becomes stuck, please switch to a different pet while we continue working on a fix.
 
-There is a known UI discrepancy regarding **Karahzad** and **Preonne** accessories. While the socketing interface may display all **Versatile Crystals**, these items are currently restricted.
+#### Hunting Matchlock Issues
 
-* **Requirement:** Only **Dawn Crystals** can be successfully socketed into these accessories.
-* **The Issue:** The UI does not filtered out incompatible crystals, allowing them to be selected in the menu.
-* **Error:** Attempting to socket a non-Dawn crystal will result in an `Item Restricted` error.
+* Hunting Matchlocks may currently display retry or usage errors.
+* As a temporary workaround, players can now exchange Matchlocks into the Ranger-exclusive [Huntress Bow](https://moonbd.online/codex/item/1007558).
+* Added exchange support through the Velia **\<New Class Weapons & Matchlock Exchange>** NPC **Minotavros**.
+* The Huntress Bow is intended as a temporary replacement hunting weapon until Matchlock functionality is fully restored.
+* Once the issue is resolved, Huntress Bows will be converted back into Matchlocks automatically.
 
-***
+#### Maegu Skill Issues
 
-### Crystal Management
+* Maegu Fox summons may not properly appear during certain skills.
+* Some Maegu skills may occasionally fail to register the first hit correctly.
+* We are continuing investigation and combat testing for these issues.
 
-#### Stacked Item Conflict
+#### Buff Display Issues
 
-A technical limitation prevents crystals from being pushed onto items if they are part of a stacked pile in the inventory. If the system detects a quantity greater than one, the socketing action will fail.
+* Drakania, Woosa, and Maegu E-Buff icons may not appear in the buff bar even though the buff effects are functioning normally.
 
-**How to Fix:**
+#### Accessory Crystal Socketing
 
-1. Open your **Storage** or **Market Warehouse**.
-2. Move the entire stack of crystals into the storage.
-3. Withdraw exactly **one (1)** crystal into your character's inventory.
-4. Proceed with socketing the item.
+**Kharazad & Preonne Limitations**
 
-***
+* There is currently a known UI discrepancy involving Kharazad and Preonne accessories.
+* The socketing interface may incorrectly display all Versatile Crystals as available options.
+* At this time, these accessories only support Dawn Crystals.
 
-### Technical Support
+**Current Requirement**
 
-If you encounter an `Item Restricted` error or socketing failure that is not covered by the scenarios above, please follow these steps:
+* Only Dawn Crystals can be successfully socketed into Kharazad and Preonne accessories.
 
-1. Ensure the crystal matches the item requirements (e.g., **Dawn Crystals** for **Karahzad**).
-2. Verify you only have a single unit of the crystal in your bag.
-3. If the issue persists, capture a screenshot of the error and open a ticket in the **Discord Ticket System**.
+**Known UI Issue**
+
+* The interface does not properly filter incompatible crystals from the socketing menu.
+
+**Result**
+
+* Attempting to socket unsupported crystals will trigger an `Item Restricted` error.
+
+#### Crystal Management
+
+**Stacked Item Conflict**
+
+* There is currently a technical limitation involving stacked crystals in inventory.
+* If a crystal exists in a stack with a quantity greater than one, socketing may fail.
+
+**How To Fix**
+
+* Open your Storage or Market Warehouse.
+* Move the full crystal stack into storage.
+* Withdraw exactly one crystal into your inventory.
+* Attempt the socketing process again.
+
+#### Technical Support
+
+If you continue encountering `Item Restricted` errors or socketing failures:
+
+* Verify the crystal matches the accessory requirements.
+* Ensure only a single crystal exists in your inventory.
+* If the issue persists:
+  * Capture a screenshot of the error.
+  * Open a ticket through the Discord Ticket System for support.
