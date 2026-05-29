@@ -110,6 +110,7 @@
   * [Training Brackets](features/brackets/training-brackets.md)
 * [🔵 Class Balance Ratios](features/class-balance-ratios.md)
 * [😎 Outfits](features/outfits.md)
+* [🐶 Custom Pets](features/custom-pets.md)
 
 ## Items
 
