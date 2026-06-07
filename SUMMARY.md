@@ -5,7 +5,7 @@
 * [🏠 Welcome](README.md)
 * [🎗️ Premium](about-us/premium.md)
 * [🛎️ Voting](about-us/voting.md)
-* [🎮 First Time In Game](about-us/first-time-in-game.md)
+* [🎮 Beginner Guide](about-us/first-time-in-game.md)
 
 ## GRINDSPOTS
 
