@@ -142,16 +142,16 @@ Crafting the base **Slumbering Origin** armor is a prerequisite for higher armor
 
 #### Edana Armor Upgrades
 
-The base **Slumbering Origin** armor pieces are enhanced up to `TET (+4)`. Once achieved, opening the Processing menu (`L`) and combining the pieces with **Cron Stones** exchanges them for the **Edana** set:
+The base **Slumbering Origin** armor pieces can only be enhanced up to `TET (+4)`. Once `TET (+4)` is achieved, opening the Processing menu (`L` -> **Manufacture**) and combining the pieces with the required materials exchanges them for the **Edana** set:
 
-* **Edana Helmet**: 1x `TET (+4)` [Labreska's Helmet](https://moonbd.online/codex/?q=Labreska%27s+Helmet\&lim=25) + 500,000x [Cron Stone](https://moonbd.online/codex/?q=Cron+Stone\&lim=25)
-* **Edana Armor**: 1x `TET (+4)` [Fallen God's Armor](https://moonbd.online/codex/?q=Fallen+God%27s+Armor\&lim=25) + 500,000x [Cron Stone](https://moonbd.online/codex/?q=Cron+Stone\&lim=25)
-* **Edana Gloves**: 1x `TET (+4)` [Dahn's Gloves](https://moonbd.online/codex/?q=Dahn%27s+Gloves\&lim=25) + 500,000x [Cron Stone](https://moonbd.online/codex/?q=Cron+Stone\&lim=25)
-* **Edana Shoes**: 1x `TET (+4)` [Ator's Shoes](https://moonbd.online/codex/?q=Ator%27s+Shoes\&lim=25) + 500,000x [Cron Stone](https://moonbd.online/codex/?q=Cron+Stone\&lim=25)
+* **Edana Helmet**: 1x `TET (+4)` [Labreska's Helmet](https://moonbd.online/codex/?q=Labreska%27s+Helmet\&lim=25) + 20,000x [Caphras Stone](https://moonbd.online/codex/?q=Caphras+Stone\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25) + 100x [Piece of Edana](https://moonbd.online/codex/?q=Piece+of+Edana\&lim=25)
+* **Edana Armor**: 1x `TET (+4)` [Fallen God's Armor](https://moonbd.online/codex/?q=Fallen+God%27s+Armor\&lim=25) + 20,000x [Caphras Stone](https://moonbd.online/codex/?q=Caphras+Stone\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25) + 100x [Piece of Edana](https://moonbd.online/codex/?q=Piece+of+Edana\&lim=25)
+* **Edana Gloves**: 1x `TET (+4)` [Dahn's Gloves](https://moonbd.online/codex/?q=Dahn%27s+Gloves\&lim=25) + 20,000x [Caphras Stone](https://moonbd.online/codex/?q=Caphras+Stone\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25) + 100x [Piece of Edana](https://moonbd.online/codex/?q=Piece+of+Edana\&lim=25)
+* **Edana Shoes**: 1x `TET (+4)` [Ator's Shoes](https://moonbd.online/codex/?q=Ator%27s+Shoes\&lim=25) + 20,000x [Caphras Stone](https://moonbd.online/codex/?q=Caphras+Stone\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25) + 100x [Piece of Edana](https://moonbd.online/codex/?q=Piece+of+Edana\&lim=25)
 
 #### Blood Genesis Set
 
-After transitioning to the **Edana** set, pieces can be enhanced to a maximum of `+10`. Upon reaching `+10` on an **Edana** piece, opening the Processing menu (`L`) and combining it with **Origin Bloodstones** and **Cron Stones** upgrades the item to the ultimate gear tier: **Blood Genesis**.
+After transitioning to the **Edana** set, pieces can be enhanced up to a maximum of `+10`. Once `+10` is reached on an **Edana** piece, opening the Processing menu (`L`) and combining it with **Origin Bloodstones** and **Cron Stones** upgrades the item to the ultimate gear tier: **Blood Genesis**.
 
 * **Blood Genesis Helmet**: 1x `+10` [Edana Helmet](https://moonbd.online/codex/?q=Edana+Helmet\&lim=25) + 5x [Origin Bloodstone](https://moonbd.online/codex/?q=Origin+Bloodstone\&lim=25) + 500,000x [Cron Stone](https://moonbd.online/codex/?q=Cron+Stone\&lim=25)
 * **Blood Genesis Armor**: 1x `+10` [Edana Armor](https://moonbd.online/codex/?q=Edana+Armor\&lim=25) + 5x [Origin Bloodstone](https://moonbd.online/codex/?q=Origin+Bloodstone\&lim=25) + 500,000x [Cron Stone](https://moonbd.online/codex/?q=Cron+Stone\&lim=25)
