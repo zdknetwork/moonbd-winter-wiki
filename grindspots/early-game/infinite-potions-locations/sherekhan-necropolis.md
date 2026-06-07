@@ -1,6 +1,27 @@
 ---
 cover: ../../../.gitbook/assets/image (3).jpg
 coverY: 99.55556742350261
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🟩 Sherekhan Necropolis

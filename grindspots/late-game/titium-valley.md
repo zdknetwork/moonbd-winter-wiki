@@ -2,6 +2,27 @@
 cover: >-
   ../../.gitbook/assets/titium-valley-black-desert-online-database-altar-of-gaming.webp
 coverY: -182.18834080717488
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🟥 Titium Valley

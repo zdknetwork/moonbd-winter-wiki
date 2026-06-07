@@ -1,6 +1,27 @@
 ---
 cover: ../../../.gitbook/assets/image (4).jpg
 coverY: 130.57777954101562
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🟩 Navarn Steppe

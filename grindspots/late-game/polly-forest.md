@@ -3,6 +3,27 @@ cover:
   light: ../../.gitbook/assets/image (28).jpg
   dark: ../../.gitbook/assets/Polly%27s_Forest.JPG.webp
 coverY: -159.4210430948358
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🟥 Polly Forest

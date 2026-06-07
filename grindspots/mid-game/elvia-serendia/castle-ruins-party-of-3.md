@@ -1,6 +1,27 @@
 ---
 cover: ../../../.gitbook/assets/image (16).jpg
 coverY: -64.7111181640625
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🟢 Castle Ruins (Party of 3)

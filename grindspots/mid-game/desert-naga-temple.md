@@ -1,6 +1,27 @@
 ---
 cover: ../../.gitbook/assets/Naga_Desert_Temple.JPG.webp
 coverY: -160.28135383689897
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🔶 Desert Naga Temple

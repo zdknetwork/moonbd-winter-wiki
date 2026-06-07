@@ -1,6 +1,27 @@
 ---
 cover: ../../.gitbook/assets/image (37).jpg
 coverY: -75.64813944498698
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Odore's Spirit Essence

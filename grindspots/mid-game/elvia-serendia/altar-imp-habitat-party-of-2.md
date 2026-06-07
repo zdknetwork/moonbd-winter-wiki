@@ -1,6 +1,27 @@
 ---
 cover: ../../../.gitbook/assets/image (15).jpg
 coverY: 190.66667724609374
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🟢 Altar Imp Habitat (Party of 2)

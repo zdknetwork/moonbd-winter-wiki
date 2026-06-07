@@ -1,6 +1,27 @@
 ---
 cover: ../../.gitbook/assets/image (27).jpg
 coverY: 40.11759590148926
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🔶 Gyfin Rhasia Temple

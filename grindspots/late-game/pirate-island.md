@@ -1,6 +1,27 @@
 ---
 cover: ../../.gitbook/assets/images.jpg
 coverY: -32.82604817127565
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🟥 Pirate Island
