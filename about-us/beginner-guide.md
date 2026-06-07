@@ -142,7 +142,7 @@ Crafting the base **Slumbering Origin** armor is a prerequisite for higher armor
 
 #### Edana Armor Upgrades
 
-The base **Slumbering Origin** armor pieces can only be enhanced up to `TET (+4)`. Once `TET (+4)` is achieved, opening the Processing menu (`L` -> **Manufacture**) and combining the pieces with the required materials exchanges them for the **Edana** set:
+The base **Slumbering Origin** armor pieces are best enhanced only up to `TET (+4)`. Once `TET (+4)` is achieved, opening the Processing menu (`L` -> **Manufacture**) and combining the pieces with the required materials exchanges them for the **Edana** set:
 
 * **Edana Helmet**: 1x `TET (+4)` [Labreska's Helmet](https://moonbd.online/codex/?q=Labreska%27s+Helmet\&lim=25) + 20,000x [Caphras Stone](https://moonbd.online/codex/?q=Caphras+Stone\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25) + 100x [Piece of Edana](https://moonbd.online/codex/?q=Piece+of+Edana\&lim=25)
 * **Edana Armor**: 1x `TET (+4)` [Fallen God's Armor](https://moonbd.online/codex/?q=Fallen+God%27s+Armor\&lim=25) + 20,000x [Caphras Stone](https://moonbd.online/codex/?q=Caphras+Stone\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25) + 100x [Piece of Edana](https://moonbd.online/codex/?q=Piece+of+Edana\&lim=25)
