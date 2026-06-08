@@ -114,8 +114,7 @@
 
 ## Items
 
-* [Artifact System](items/artifact-system/README.md)
-  * [◻️ Lightstone Info](items/artifact-system/lightstone-info.md)
+* [Artifact System](items/artifact-system.md)
 * [🗡️ Weapons](items/weapons.md)
 * [Armors](items/armors.md)
 * [💍 Accesories](items/accesories/README.md)
