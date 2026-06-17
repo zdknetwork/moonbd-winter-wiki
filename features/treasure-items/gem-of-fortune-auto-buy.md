@@ -27,7 +27,7 @@ When active, the system may purchase eligible items from the market using the it
 
 * The seller receives **30% of the item's current market price** through in-game mail.
 * Silver may be delivered via mail or stored in the **Black Spirit Safe**.
-* Items must remain listed on the market for **7 days** before becoming eligible.
+* Items must remain listed on the market for **3 days** before becoming eligible.
 * Relisting an item resets its eligibility timer.
 
 #### System Restrictions
