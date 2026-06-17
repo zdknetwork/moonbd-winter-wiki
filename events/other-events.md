@@ -10,7 +10,7 @@ description: >-
 ### Overview
 
 The **MoonBD Team** frequently hosts community events, tournaments, and random in-game activities to keep the world dynamic and rewarding.\
-All planned events are officially announced on our **Discord (#event-announcement)** channel — make sure to stay updated there.\
+All planned events are officially announced on the **Discord (#event-announcement)** channel, where players can stay updated.\
 Occasionally, impromptu events may occur without prior notice for active players online.
 
 ***
@@ -57,6 +57,6 @@ Occasionally, impromptu events may occur without prior notice for active players
 
 ### Stay Updated
 
-* Join the official [MoonBD Discord](https://discord.gg/3xK6p7rhD4) and regularly check the **#event-announcement** channel.
+* Players can join the official [MoonBD Discord](https://discord.gg/3xK6p7rhD4) and regularly check the **#event-announcement** channel.
 * Event schedules, participation requirements, and rewards are always published there first.
-* Surprise events may drop at any moment — good luck and stay prepared!
+* Surprise events may drop at any moment - good luck and preparation is recommended.

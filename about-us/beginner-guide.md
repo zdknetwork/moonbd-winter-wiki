@@ -52,7 +52,7 @@ The following resources and benefits are active immediately after completing the
 The **Shiny Insignia** is a craftable, permanent item that functions as a portable, reusable Elvia Weapon Buff:
 
 * **Effect**: Grants a massive damage increase against **Elvia** monsters for 12 hours (Mainhand and Awakening). It has a 10-minute character-bound cooldown and does not stack with standard zone weapon drops.
-* **Crafting**: Combining 1x **Shiny Insignia Token** (purchased from the NPC **Moon Master** shop) with **Insignia Shards** (obtained as monster drops from any zone) crafts the item.
+* **Crafting**: Combining 1x **Shiny Insignia Token** (purchased from the [**Moon Master**](https://moonbd.online/codex/npc/900994) shop) with **Insignia Shards** (obtained as monster drops from any zone) crafts the item.
 
 #### Pit of Undying
 
@@ -60,10 +60,10 @@ Daily matches in the **Pit of Undying** arena must be completed to collect **Cro
 
 The upgrade path is gated by daily limits:
 
-* **PRI (I) to DUO (II)**: Requires 10x jewels (5 obtained per day) — Takes 2 days.
-* **DUO (II) to TRI (III)**: Requires 50x jewels (10 obtained per day) — Takes 5 days.
-* **TRI (III) to TET (IV)**: Requires 100x jewels (10 obtained per day) — Takes 10 days.
-* **TET (IV) to PEN (V)**: Requires 150x jewels (15 obtained per day) — Takes 15 days.
+* **PRI (I) to DUO (II)**: Requires 10x jewels (5 obtained per day) - Takes 2 days.
+* **DUO (II) to TRI (III)**: Requires 50x jewels (10 obtained per day) - Takes 5 days.
+* **TRI (III) to TET (IV)**: Requires 100x jewels (10 obtained per day) - Takes 10 days.
+* **TET (IV) to PEN (V)**: Requires 150x jewels (15 obtained per day) - Takes 15 days.
 
 **Total Time Investment**: 32 days of consecutive daily completions.
 
@@ -121,7 +121,7 @@ The server features a specialized recipe utilizing the starter gear:
 * **Sovereign Weapon Recipe**: 1x `PEN (V)` [Blackstar Weapon](https://moonbd.online/codex/?q=Blackstar\&lim=25) + 1x `PEN (V)` **Blackstar Starter Weapon** + 1x [Gem of Twilight](https://moonbd.online/codex/?q=Gem+of+Twilight\&lim=25).
 * **Gem of Twilight Crafting**: Opening the Processing menu (`L` -> Heating) and combining 20,000x [Caphras Stone](https://moonbd.online/codex/?q=Caphras+Stone\&lim=25) and 100x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25) crafts the gem.
 
-**Base Blackstar Acquisition**: A base (`+0`) **Blackstar Weapon** of choice can be obtained by exchanging 1x **Remnants of the Rift** at NPC **Moon Master** in **Velia**.
+**Base Blackstar Acquisition**: A base (`+0`) **Blackstar Weapon** of choice can be obtained by exchanging 1x **Remnants of the Rift** at [**Moon Master**](https://moonbd.online/codex/npc/900994) in **Velia**.
 
 #### Slumbering Origin Armor
 

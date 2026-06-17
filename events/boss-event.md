@@ -94,4 +94,4 @@ Custom bosses feature unique rewards and web-exclusive treasures.
 
 * Players are encouraged to check Discord announcements to stay informed on random boss or mini-event spawns.
 * Custom bosses drop unique, limited, or web-linked items not obtainable elsewhere.
-* Always prepare ahead for event days — enhanced bosses and custom events promise the most valuable rewards.
+* Always prepare ahead for event days - enhanced bosses and custom events promise the most valuable rewards.

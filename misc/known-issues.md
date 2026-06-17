@@ -9,7 +9,7 @@
 
 * Hunting Matchlocks may currently display retry or usage errors.
 * As a temporary workaround, players can now exchange Matchlocks into the Ranger-exclusive [Huntress Bow](https://moonbd.online/codex/item/1007558).
-* Added exchange support through the Velia **\<New Class Weapons & Matchlock Exchange>** NPC **Minotavros**.
+* Added exchange support through the Velia **\<New Class Weapons & Matchlock Exchange>** [**Minotavros**](https://moonbd.online/codex/npc/901009).
 * The Huntress Bow is intended as a temporary replacement hunting weapon until Matchlock functionality is fully restored.
 * Once the issue is resolved, Huntress Bows will be converted back into Matchlocks automatically.
 

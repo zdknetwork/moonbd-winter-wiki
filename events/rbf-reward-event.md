@@ -29,7 +29,7 @@ It activates automatically every **weekend (UTC)** and provides up to **4× the 
 * The automatic weekend event requires **no manual activation** or server restart.
 * The event system allows enabling **custom multipliers** for special occasions.
 * Reward multipliers can be stacked with other **server-wide** or **holiday events**.
-* Only the base Red Battlefield reward is affected — win/loss participation bonuses scale equally.
+* Only the base Red Battlefield reward is affected - win/loss participation bonuses scale equally.
 
 ***
 

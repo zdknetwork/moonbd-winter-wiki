@@ -1,18 +1,26 @@
-# Pit Of Undying
+---
+description: Guide to the Pit of the Undying arena progression and crows black jewel requirements on MoonBD.
+---
 
-{% hint style="info" %}
-You can find from there how to open [<mark style="color:red;">**Pit of Undying Link**</mark>](https://www.blackdesertfoundry.com/pit-of-undying-crows-nest-questline/)
-{% endhint %}
+# Pit of the Undying
 
-Reworked on [**Pit of The Undying**](https://www.blackdesertfoundry.com/pit-of-undying-crows-nest-questline/)
+### Overview
 
-* &#x20;<mark style="color:blue;">**Pri to Duo: You have to get 10 Crow's Black Jewel, with daily missions you get 5 per day, total 2 days to get the Duo**</mark>
-* <mark style="color:purple;">**Duo to Tri: You have to get 50 Crow's Black Jewel, with daily missions you get 10 per day, total 5 days to get the Tri**</mark>
-* <mark style="color:orange;">**Tri to Tet: You have to get 100 Crow's Black Jewel, with daily missions you get 10 per day, total 10 days to get the Tet**</mark>&#x20;
-* <mark style="color:green;">**Tet to Pen: You have to get 150 Crow's Black Jewel, with daily missions you get 15 per day, total 15 days to get the Pen TOTAL: 32 days**</mark>
+The **Pit of the Undying** is a daily solo arena where players face various bosses to earn **Crow's Black Jewels**. These jewels are used to upgrade the **Undying Crow's Insignia** through different tiers.
 
-{% hint style="info" %}
-Pit of Undying Stats
-{% endhint %}
+---
 
-<figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+### Insignia Upgrades
+
+* **PRI &rarr; DUO:** Requires 10x **Crow's Black Jewel** (obtainable in 2 days at 5 per day).
+* **DUO &rarr; TRI:** Requires 50x **Crow's Black Jewel** (obtainable in 5 days at 10 per day).
+* **TRI &rarr; TET:** Requires 100x **Crow's Black Jewel** (obtainable in 10 days at 10 per day).
+* **TET &rarr; PEN:** Requires 150x **Crow's Black Jewel** (obtainable in 15 days at 15 per day).
+
+Total progression time from base to PEN is 32 days.
+
+---
+
+### External Guide
+
+Detailed walkthroughs for the questline and boss mechanics are available on the [**Black Desert Foundry Pit of Undying Guide**](https://www.blackdesertfoundry.com/pit-of-undying-crows-nest-questline/).

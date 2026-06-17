@@ -12,7 +12,7 @@ description: >-
 This page displays all **outfits added to MoonBD** from newer versions of the original game client.\
 Some of these sets appear in the **Pearl Shop**, while others are available through the **Cash Shop** section on the website.
 
-If the outfit you want is not listed, players can **submit outfit requests** via the **Discord suggestion forum** — but please ensure that the outfit is not already implemented.
+If the outfit you want is not listed, players can **submit outfit requests** via the **Discord suggestion forum** - but please ensure that the outfit is not already implemented.
 
 **Direct Link:**\
 [MoonBD Account Shop – Outfit Section](https://moonbd.online/account/shop/?ctg=Outfit)

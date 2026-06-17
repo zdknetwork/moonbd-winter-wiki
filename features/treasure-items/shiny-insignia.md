@@ -30,7 +30,7 @@ Full recipe and item details can be found in the **Codex entry**:\
 #### [**Shiny Insignia Token**](https://moonbd.online/codex/item//1003101)
 
 * Material used to craft the **Shiny Insignia**.
-* Obtainable from the **Moon Master** NPC Shop.
+* Obtainable from the [**Moon Master**](https://moonbd.online/codex/npc/900994) Shop.
 
 #### [**Insignia Shard**](https://moonbd.online/codex/item//1003100)
 

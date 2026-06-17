@@ -10,9 +10,9 @@ All detailed exchange recipes, rates, and requirements are managed directly thro
 
 ---
 
-### **Moon Master**
+### [**Moon Master**](https://moonbd.online/codex/npc/900994)
 * **Role**: All-in-One Service NPC
-* **Description**: **Moon Master** provides general utility services in major and minor cities. These services include storage access, currency exchange, skill add-on configurations, Central Market access, equipment type swaps, and basic material conversions.
+* **Description**: [**Moon Master**](https://moonbd.online/codex/npc/900994) provides general utility services in major and minor cities. These services include storage access, currency exchange, skill add-on configurations, Central Market access, equipment type swaps, and basic material conversions.
 * **Codex Link**: [Codex Database Page](https://moonbd.online/codex/npc/900994)
 
 ### **Nemos**
@@ -35,9 +35,9 @@ All detailed exchange recipes, rates, and requirements are managed directly thro
 * **Description**: **Chaotica** handles progression exchanges using **Chaotica Tokens**. These include boss items (such as **Vell's Heart** and **Garmoth's Heart**), sleeping origin armor **Flames** (**Flame of Frost**, **Flame of Resonance**, **Flame of Hongik**, **Flame of Despair**), and **Dream Horse** emblems.
 * **Codex Link**: [Codex Database Page](https://moonbd.online/codex/npc/900990)
 
-### **Lux**
+### [**Lux**](https://moonbd.online/codex/npc/900991)
 * **Role**: Moon Coin Exchange NPC
-* **Description**: **Lux** manages **Moon Coin** exchanges. Players can exchange **Moon Coins** for premium perks (such as **MoonBD Premium** time), pets, mounts, ship registrations, and custom titles.
+* **Description**: [**Lux**](https://moonbd.online/codex/npc/900991) manages **Moon Coin** exchanges. Players can exchange **Moon Coins** for premium perks (such as **MoonBD Premium** time), pets, mounts, ship registrations, and custom titles.
 * **Codex Link**: [Codex Database Page](https://moonbd.online/codex/npc/900991)
 
 ### **Riona**
@@ -45,9 +45,9 @@ All detailed exchange recipes, rates, and requirements are managed directly thro
 * **Description**: **Riona** handles event-specific item redemptions. These exchanges are only active during server event periods.
 * **Codex Link**: [Codex Database Page](https://moonbd.online/codex/npc/900996)
 
-### **Minotavros**
+### [**Minotavros**](https://moonbd.online/codex/npc/901009)
 * **Role**: Weapons & Matchlock Exchange
-* **Description**: **Minotavros** manages matchlock exchanges and equipment conversions for new classes.
+* **Description**: [**Minotavros**](https://moonbd.online/codex/npc/901009) manages matchlock exchanges and equipment conversions for new classes.
 * **Codex Link**: [Codex Database Page](https://moonbd.online/codex/npc/901009)
 
 ### **Neohun**

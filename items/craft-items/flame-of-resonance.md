@@ -1,27 +1,18 @@
-# 🪙 Flame of Resonance
+---
+description: Guide to Flame of Resonance on MoonBD.
+---
 
+# Flame of Resonance
 
+### Overview
 
-_Available drop at_ [_<mark style="color:red;">**Altar of Blood**</mark>_](../../features/altar-of-blood.md) _<mark style="color:red;">**&**</mark>_ [_<mark style="color:red;">**Manes Hideout (Elvia)**</mark>_](../../grindspots/late-game/elvia-mediah-zone/manes-hideout.md)
+**Flame of Resonance** is a high-grade crafting material used to manufacture Slumbering Origin armor pieces.
 
-<figure><img src="../../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
+---
 
-<p align="center"><a href="https://bdocodex.com/us/item/65318/"><mark style="color:yellow;"><strong>Embers of Resonance</strong></mark></a></p>
+### Codex Links
 
-***
+* [**Flame of Resonance**](https://moonbd.online/codex/item//65317)
+* [**Embers of Resonance**](https://moonbd.online/codex/item//65318)
 
-{% hint style="warning" %}
-**How to Obtain**: Processing (L) - <img src="../../.gitbook/assets/QQ截图20221109033105.png" alt="" data-size="line"> **Heating** With Following Materials.
-{% endhint %}
-
-***
-
-
-
-{% hint style="info" %}
-_Crafting_ ![](<../../.gitbook/assets/image (283).png>) [<mark style="color:yellow;">**Flame of Resonance**</mark>](https://bdocodex.com/us/item/65317/)
-
-* ![](<../../.gitbook/assets/image (284).png>) [<mark style="color:yellow;">**Embers of Resonance**</mark>](https://bdocodex.com/us/item/65318/) x100
-{% endhint %}
-
-***
+All crafting recipes, required materials, and processing methods are available on the respective Codex pages.

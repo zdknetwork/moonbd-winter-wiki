@@ -53,4 +53,4 @@ Once active, ExitLag will automatically optimize your network route for smoother
 
 * Always start ExitLag **before launching MoonBD**.
 * If you change servers or regions, recheck the routing settings.
-* ExitLag offers a **free trial period** — no credit card required on the initial download.
+* ExitLag offers a **free trial period** - no credit card required on the initial download.

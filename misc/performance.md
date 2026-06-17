@@ -1,7 +1,7 @@
 # 🖥️ Performance
 
 {% hint style="danger" %}
-Make sure you understand what you're doing before making any changes - we do not take responsibility for any misconfiguration you perform
+Understanding the configuration changes is recommended before proceeding - the MoonBD team assumes no responsibility for any misconfiguration.
 {% endhint %}
 
 ### UI/ Notification Clean-Up <a href="#ui-notification-clean-up" id="ui-notification-clean-up"></a>
@@ -265,7 +265,7 @@ This may help with other applications as well since Windows 10 does a pretty bad
 <figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Make sure you put ISLC in a folder location you won’t accidentally delete it. from.
+Placing ISLC in a permanent folder location prevents accidental deletion.
 {% endhint %}
 
 * You want your RAM hardware to be as performant as possible if you’re building your own system to play BDO on.
@@ -305,7 +305,7 @@ Don’t do this if you’re using firmware TPM and have Bitlocker drive encrypti
 * This free software is really useful for automatically switching to power saving profiles when you’re AFK, and then switching back on its own to high performance power profiles when you’re playing actively.
 
 {% hint style="warning" %}
-Just remember to disable it if you have to do something computationally heavy while AFK such as rendering a video.
+Disabling the utility is recommended when performing computationally heavy tasks while AFK, such as video rendering.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
@@ -423,12 +423,12 @@ I’m not going to cover manual overclocking in this guide at all. If you’d li
 [https://www.overclock.net/forums/](https://www.overclock.net/forums/)
 
 {% hint style="info" %}
-Make sure you have good cooling and awesome airflow in your computer case before you enable these settings or manually overclock.
+Ensuring good cooling and airflow in the computer case is recommended before enabling these settings or manually overclocking.
 {% endhint %}
 
 Keep in mind you might go beyond the abilities of your motherboard’s voltage regulator modules (VRM) if you manually overclock. I don’t recommend manually overclocking if you’re using a super cheap motherboard with not even a heat spreader over the VRMs, or high quality VRM power phases. Experts at overclock.net will be able to tell you more if you provide them information about your specific motherboard, cooling, and processor.
 
-If manually overclocking, you may want to make sure your vcore and frequency settings do not cause your CPU’s power consumption to exceed your power supply’s capabilities. You can get an estimate of your computer’s power consumption at:
+If manually overclocking, players should ensure that vcore and frequency settings do not cause CPU power consumption to exceed power supply capabilities. You can get an estimate of your computer’s power consumption at:
 
 [https://outervision.com/power-supply-calculator.](https://outervision.com/power-supply-calculator.)
 

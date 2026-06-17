@@ -1,30 +1,17 @@
 ---
-description: Using Alchemy Stones Enchant
+description: Guide to the Stone of Alchemist enhancement material on MoonBD.
 ---
 
-# 🪙 Stone of Alchemist
+# Stone of Alchemist
 
-<figure><img src="../../.gitbook/assets/StoneofAlchemy.png" alt=""><figcaption></figcaption></figure>
+### Overview
 
-<p align="center"><mark style="color:yellow;"><strong>Stone of Alchemist</strong></mark></p>
+The **Stone of Alchemist** is a key custom material used to perform risk-free enhancement on **Alchemy Stones**. 
 
-***
+---
 
-{% hint style="warning" %}
-**How to Obtain**: Processing (L) - <img src="../../.gitbook/assets/QQ截图20221109033105.png" alt="" data-size="line"> **Heating** With Following Materials.
-{% endhint %}
+### Codex Links
 
-***
+* [**Stone of Alchemist**](https://moonbd.online/codex/?q=Stone+of+Alchemist&lim=25)
 
-
-
-{% hint style="info" %}
-_Crafting_ <img src="../../.gitbook/assets/StoneofAlchemy.png" alt="" data-size="line"> <mark style="color:yellow;">**Stone of Alchemist**</mark>
-
-* <img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" data-size="line"><mark style="color:yellow;">**Cron Stone**</mark> x200 (2000 for Mass)
-* <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"><mark style="color:blue;">**Alchemy Stone Shard**</mark> x200 (2000 for Mass)
-* <img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line">**Weeds x1  (Just For Mass Processing)**
-{% endhint %}
-
-***
-
+All crafting recipes, required materials (including **Cron Stone** and **Alchemy Stone Shard**), and enhancement processes are available on the respective Codex search page.

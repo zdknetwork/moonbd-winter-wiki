@@ -29,7 +29,7 @@ The Alchemy UI includes a **Skip Button** for **Recharge**, **Polish**, and **Gr
 
 #### Moon Master (All-in-One NPC)
 
-The **Moon Master** NPC in **Velia** provides multiple services in a single location:
+The [**Moon Master**](https://moonbd.online/codex/npc/900994) in **Velia** provides multiple services in a single location:
 
 * **Storage** and **Currency Exchange**
 * **Central Market** access
@@ -40,7 +40,7 @@ The **Moon Master** NPC in **Velia** provides multiple services in a single loca
 **Moon Coins** serve as a specialized currency for **Cash Shop** items.
 
 * Purchase **Moon Coin Box (1000)** in the `Cash Shop` -> `Custom` section.
-* Exchange these coins at the NPC **Lux** in **Velia** for **Central Market** cash items.
+* Exchange these coins at the [**Lux**](https://moonbd.online/codex/npc/900991) in **Velia** for **Central Market** cash items.
 * **Moon Coins** are non-tradable.
 
 ### Item & Mail Mechanics

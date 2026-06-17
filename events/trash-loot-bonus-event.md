@@ -26,7 +26,7 @@ The system is designed to reward active grinding and applies to both **custom** 
   * **Character swapping**
   * Or returning to the **Character Select screen**
 
-If certain monsters or items do not display the bonus properly, contact the staff with the **item name** or **Codex link** for review.
+If certain monsters or items do not display the bonus properly, players can contact the staff with the **item name** or **Codex link** for review.
 
 ***
 
@@ -56,4 +56,4 @@ For example, if a **+25% Trash Loot Event** is active, Arsha Channel players wil
 * Bonus values may change between events or seasons.
 * This event can run independently or stack with other **Loot Rate** or **Arsha Channel** bonuses.
 
-Enjoy your hunt and make sure to relog after long grind sessions to claim your extra loot!
+Relogging after long grind sessions is recommended to claim all extra loot.

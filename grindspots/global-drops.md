@@ -1,33 +1,33 @@
 # ⬜ Global Drops
 
-## Monster Spots
+### Monster Spots
 
 {% hint style="warning" %}
-**Items here are dropping from all monsters**
+The items listed below drop globally from all monsters.
 {% endhint %}
 
-* <img src="../.gitbook/assets/image (107).png" alt="" data-size="line"><mark style="color:orange;">**BON Dawn Crystal - Accuracy**</mark>
-* <img src="../.gitbook/assets/image (106).png" alt="" data-size="line"><mark style="color:orange;">**BON Dawn Crystal - All AP**</mark>
-* <img src="../.gitbook/assets/image (105).png" alt="" data-size="line"><mark style="color:orange;">**BON Dawn Crystal - Black Spirit's Rage**</mark>
-* <img src="../.gitbook/assets/image (104).png" alt="" data-size="line"><mark style="color:orange;">**BON Dawn Crystal - Damage Reduction**</mark>
-* <img src="../.gitbook/assets/image (108).png" alt="" data-size="line"><mark style="color:orange;">**BON Dawn Crystal - Evasion**</mark>
-* <img src="../.gitbook/assets/image (109).png" alt="" data-size="line"><mark style="color:orange;">**WON Dawn Crystal - Accuracy**</mark>
-* <img src="../.gitbook/assets/image (110).png" alt="" data-size="line"><mark style="color:orange;">**WON Dawn Crystal - All AP**</mark>
-* <img src="../.gitbook/assets/image (111).png" alt="" data-size="line"><mark style="color:orange;">**WON Dawn Crystal - Black Spirit's Rage**</mark>
-* <img src="../.gitbook/assets/image (112).png" alt="" data-size="line"><mark style="color:orange;">**WON Dawn Crystal - Damage Reduction**</mark>
-* <img src="../.gitbook/assets/image (113).png" alt="" data-size="line"> <mark style="color:orange;">**WON Dawn Crystal - Evasion**</mark>
-* <img src="../.gitbook/assets/image (89).png" alt="" data-size="line"><mark style="color:blue;">**Imperfect Lightstones**</mark>
+* [**BON Dawn Crystal - Accuracy**](https://moonbd.online/codex/?q=BON+Dawn+Crystal+-+Accuracy&lim=25)
+* [**BON Dawn Crystal - All AP**](https://moonbd.online/codex/?q=BON+Dawn+Crystal+-+All+AP&lim=25)
+* [**BON Dawn Crystal - Black Spirit's Rage**](https://moonbd.online/codex/?q=BON+Dawn+Crystal+-+Black+Spirit's+Rage&lim=25)
+* [**BON Dawn Crystal - Damage Reduction**](https://moonbd.online/codex/?q=BON+Dawn+Crystal+-+Damage+Reduction&lim=25)
+* [**BON Dawn Crystal - Evasion**](https://moonbd.online/codex/?q=BON+Dawn+Crystal+-+Evasion&lim=25)
+* [**WON Dawn Crystal - Accuracy**](https://moonbd.online/codex/?q=WON+Dawn+Crystal+-+Accuracy&lim=25)
+* [**WON Dawn Crystal - All AP**](https://moonbd.online/codex/?q=WON+Dawn+Crystal+-+All+AP&lim=25)
+* [**WON Dawn Crystal - Black Spirit's Rage**](https://moonbd.online/codex/?q=WON+Dawn+Crystal+-+Black+Spirit's+Rage&lim=25)
+* [**WON Dawn Crystal - Damage Reduction**](https://moonbd.online/codex/?q=WON+Dawn+Crystal+-+Damage+Reduction&lim=25)
+* [**WON Dawn Crystal - Evasion**](https://moonbd.online/codex/?q=WON+Dawn+Crystal+-+Evasion&lim=25)
+* [**Imperfect Lightstone**](https://moonbd.online/codex/?q=Imperfect+Lightstone&lim=25)
 
-***
+---
 
-## Lifeskill Drops
+### Lifeskill Drops
 
 {% hint style="warning" %}
-**Items here are dropping from all lifeskill types**
+The items listed below drop globally from all lifeskill activities.
 {% endhint %}
 
-* <img src="../.gitbook/assets/image (189).png" alt="" data-size="line"> <mark style="color:yellow;">**Forest Crystal**</mark>
-* <img src="../.gitbook/assets/image (190).png" alt="" data-size="line"> <mark style="color:yellow;">**Hedgehog (Tier 4) / (Tier 3) / (Tier 2) / Base**</mark>
-* <img src="../.gitbook/assets/image (193).png" alt="" data-size="line"><mark style="color:yellow;">**Golden Hedgehog**</mark>
-* <img src="../.gitbook/assets/image (192).png" alt="" data-size="line"><mark style="color:yellow;">**Artifacts (Life),**</mark>
-* <img src="../.gitbook/assets/image (89).png" alt="" data-size="line"><mark style="color:blue;">**Imperfect Lightstones**</mark>
+* [**Forest Crystal**](https://moonbd.online/codex/item//15814)
+* [**Hedgehog**](https://moonbd.online/codex/?q=Hedgehog&lim=25) (Tier 4 / Tier 3 / Tier 2 / Base)
+* [**Golden Hedgehog**](https://moonbd.online/codex/?q=Golden+Hedgehog&lim=25)
+* [**Artifact (Life)**](https://moonbd.online/codex/?q=Artifact&lim=25)
+* [**Imperfect Lightstone**](https://moonbd.online/codex/?q=Imperfect+Lightstone&lim=25)

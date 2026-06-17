@@ -1,28 +1,19 @@
-# 🪙 Alustin's Alchemy Utensil
+---
+description: Guide to Alustin's Alchemy Utensil on MoonBD.
+---
 
+# Alustin's Alchemy Utensil
 
+### Overview
 
-This item is available for purchase from the [**Moon Master**](https://moonbd.online/codex/npc/900994) NPC Shop.
+**Alustin's Alchemy Utensil** is a supreme alchemy tool that provides faster processing speed and unique durability benefits.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+---
 
-<p align="center"><a href="https://bdocodex.com/us/item/3744/"><mark style="color:yellow;"><strong>Supreme Alchemy Tool</strong></mark></a></p>
+### Codex Links
 
-***
+* [**Alustin's Alchemy Utensil**](https://moonbd.online/codex/item//900401)
+* [**Alustin's Secret**](https://moonbd.online/codex/item//900400)
+* [**Supreme Alchemy Tool**](https://moonbd.online/codex/item//3744)
 
-{% hint style="warning" %}
-**How to Obtain**: Processing (L) - <img src="../../.gitbook/assets/QQ截图20221109033029.png" alt="" data-size="line"> **Manufacturing** With Following Materials.
-{% endhint %}
-
-***
-
-
-
-{% hint style="info" %}
-_Crafting_ <img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> **Alustin's Alchemy Utensil**
-
-* <img src="../../.gitbook/assets/AlustinsSecret.png" alt="" data-size="line"> <mark style="color:orange;">Alustin's Secret</mark> x1
-* <img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" data-size="line">[<mark style="color:yellow;">**Supreme Alchemy Tool**</mark>](https://bdocodex.com/us/item/3744/) <mark style="color:yellow;">**x1**</mark>
-{% endhint %}
-
-***
+All crafting recipes, required materials, and processing methods are available on the respective Codex pages.

@@ -167,80 +167,80 @@ The updated system separates set bonuses from raw stats and follows a two-part p
 
 **3-Stone EXP Sets**
 
-* **Gathering EXP (3x)**: 3x [**Flora: Plains**](https://moonbd.online/codex/?q=Flora:+Plains\&lim=25) — **Gathering EXP** +14%
-* **Fishing EXP (3x)**: 3x [**Flora: Bite**](https://moonbd.online/codex/?q=Flora:+Bite\&lim=25) — **Fishing EXP** +14%
-* **Hunting EXP (3x)**: 3x [**Flora: Trap**](https://moonbd.online/codex/?q=Flora:+Trap\&lim=25) — **Hunting EXP** +14%
-* **Cooking EXP (3x)**: 3x [**Flora: Secret**](https://moonbd.online/codex/?q=Flora:+Secret\&lim=25) — **Cooking EXP** +14%
-* **Alchemy EXP (3x)**: 3x [**Flora: Time**](https://moonbd.online/codex/?q=Flora:+Time\&lim=25) — **Alchemy EXP** +14%
-* **Processing EXP (3x)**: 3x [**Flora: Tool**](https://moonbd.online/codex/?q=Flora:+Tool\&lim=25) — **Processing EXP** +14%
-* **Training EXP (3x)**: 3x [**Flora: Gallop**](https://moonbd.online/codex/?q=Flora:+Gallop\&lim=25) — **Training EXP** +14%
-* **Trading EXP (3x)**: 3x [**Flora: Wagon**](https://moonbd.online/codex/?q=Flora:+Wagon\&lim=25) — **Trading EXP** +14%
-* **Farming EXP (3x)**: 3x [**Flora: Harvest**](https://moonbd.online/codex/?q=Flora:+Harvest\&lim=25) — **Farming EXP** +14%
-* **Sailing EXP (3x)**: 3x [**Flora: Uncharted**](https://moonbd.online/codex/?q=Flora:+Uncharted\&lim=25) — **Sailing EXP** +14%
-* **Bartering EXP (3x)**: 3x [**Flora: Haggler**](https://moonbd.online/codex/?q=Flora:+Haggler\&lim=25) — **Bartering EXP** +14%
+* **Gathering EXP (3x)**: 3x [**Flora: Plains**](https://moonbd.online/codex/?q=Flora:+Plains\&lim=25) - **Gathering EXP** +14%
+* **Fishing EXP (3x)**: 3x [**Flora: Bite**](https://moonbd.online/codex/?q=Flora:+Bite\&lim=25) - **Fishing EXP** +14%
+* **Hunting EXP (3x)**: 3x [**Flora: Trap**](https://moonbd.online/codex/?q=Flora:+Trap\&lim=25) - **Hunting EXP** +14%
+* **Cooking EXP (3x)**: 3x [**Flora: Secret**](https://moonbd.online/codex/?q=Flora:+Secret\&lim=25) - **Cooking EXP** +14%
+* **Alchemy EXP (3x)**: 3x [**Flora: Time**](https://moonbd.online/codex/?q=Flora:+Time\&lim=25) - **Alchemy EXP** +14%
+* **Processing EXP (3x)**: 3x [**Flora: Tool**](https://moonbd.online/codex/?q=Flora:+Tool\&lim=25) - **Processing EXP** +14%
+* **Training EXP (3x)**: 3x [**Flora: Gallop**](https://moonbd.online/codex/?q=Flora:+Gallop\&lim=25) - **Training EXP** +14%
+* **Trading EXP (3x)**: 3x [**Flora: Wagon**](https://moonbd.online/codex/?q=Flora:+Wagon\&lim=25) - **Trading EXP** +14%
+* **Farming EXP (3x)**: 3x [**Flora: Harvest**](https://moonbd.online/codex/?q=Flora:+Harvest\&lim=25) - **Farming EXP** +14%
+* **Sailing EXP (3x)**: 3x [**Flora: Uncharted**](https://moonbd.online/codex/?q=Flora:+Uncharted\&lim=25) - **Sailing EXP** +14%
+* **Bartering EXP (3x)**: 3x [**Flora: Haggler**](https://moonbd.online/codex/?q=Flora:+Haggler\&lim=25) - **Bartering EXP** +14%
 
 **4-Stone EXP Sets**
 
-* **Gathering EXP (4x)**: 4x [**Flora: Plains**](https://moonbd.online/codex/?q=Flora:+Plains\&lim=25) — **Gathering EXP** +20%
-* **Fishing EXP (4x)**: 4x [**Flora: Bite**](https://moonbd.online/codex/?q=Flora:+Bite\&lim=25) — **Fishing EXP** +20%
-* **Hunting EXP (4x)**: 4x [**Flora: Trap**](https://moonbd.online/codex/?q=Flora:+Trap\&lim=25) — **Hunting EXP** +20%
-* **Cooking EXP (4x)**: 4x [**Flora: Secret**](https://moonbd.online/codex/?q=Flora:+Secret\&lim=25) — **Cooking EXP** +20%
-* **Alchemy EXP (4x)**: 4x [**Flora: Time**](https://moonbd.online/codex/?q=Flora:+Time\&lim=25) — **Alchemy EXP** +20%
-* **Processing EXP (4x)**: 4x [**Flora: Tool**](https://moonbd.online/codex/?q=Flora:+Tool\&lim=25) — **Processing EXP** +20%
-* **Training EXP (4x)**: 4x [**Flora: Gallop**](https://moonbd.online/codex/?q=Flora:+Gallop\&lim=25) — **Training EXP** +20%
-* **Trading EXP (4x)**: 4x [**Flora: Wagon**](https://moonbd.online/codex/?q=Flora:+Wagon\&lim=25) — **Trading EXP** +20%
-* **Farming EXP (4x)**: 4x [**Flora: Harvest**](https://moonbd.online/codex/?q=Flora:+Harvest\&lim=25) — **Farming EXP** +20%
-* **Sailing EXP (4x)**: 4x [**Flora: Uncharted**](https://moonbd.online/codex/?q=Flora:+Uncharted\&lim=25) — **Sailing EXP** +20%
-* **Bartering EXP (4x)**: 4x [**Flora: Haggler**](https://moonbd.online/codex/?q=Flora:+Haggler\&lim=25) — **Bartering EXP** +20%
+* **Gathering EXP (4x)**: 4x [**Flora: Plains**](https://moonbd.online/codex/?q=Flora:+Plains\&lim=25) - **Gathering EXP** +20%
+* **Fishing EXP (4x)**: 4x [**Flora: Bite**](https://moonbd.online/codex/?q=Flora:+Bite\&lim=25) - **Fishing EXP** +20%
+* **Hunting EXP (4x)**: 4x [**Flora: Trap**](https://moonbd.online/codex/?q=Flora:+Trap\&lim=25) - **Hunting EXP** +20%
+* **Cooking EXP (4x)**: 4x [**Flora: Secret**](https://moonbd.online/codex/?q=Flora:+Secret\&lim=25) - **Cooking EXP** +20%
+* **Alchemy EXP (4x)**: 4x [**Flora: Time**](https://moonbd.online/codex/?q=Flora:+Time\&lim=25) - **Alchemy EXP** +20%
+* **Processing EXP (4x)**: 4x [**Flora: Tool**](https://moonbd.online/codex/?q=Flora:+Tool\&lim=25) - **Processing EXP** +20%
+* **Training EXP (4x)**: 4x [**Flora: Gallop**](https://moonbd.online/codex/?q=Flora:+Gallop\&lim=25) - **Training EXP** +20%
+* **Trading EXP (4x)**: 4x [**Flora: Wagon**](https://moonbd.online/codex/?q=Flora:+Wagon\&lim=25) - **Trading EXP** +20%
+* **Farming EXP (4x)**: 4x [**Flora: Harvest**](https://moonbd.online/codex/?q=Flora:+Harvest\&lim=25) - **Farming EXP** +20%
+* **Sailing EXP (4x)**: 4x [**Flora: Uncharted**](https://moonbd.online/codex/?q=Flora:+Uncharted\&lim=25) - **Sailing EXP** +20%
+* **Bartering EXP (4x)**: 4x [**Flora: Haggler**](https://moonbd.online/codex/?q=Flora:+Haggler\&lim=25) - **Bartering EXP** +20%
 
 **Endgame EXP Sets (With Iridescent Wildcard)**
 
-* **Gathering EXP**: 3x [**Flora: Plains**](https://moonbd.online/codex/?q=Flora:+Plains\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Gathering EXP** +25%
-* **Fishing EXP**: 3x [**Flora: Bite**](https://moonbd.online/codex/?q=Flora:+Bite\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Fishing EXP** +25%
-* **Hunting EXP**: 3x [**Flora: Trap**](https://moonbd.online/codex/?q=Flora:+Trap\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Hunting EXP** +25%
-* **Cooking EXP**: 3x [**Flora: Secret**](https://moonbd.online/codex/?q=Flora:+Secret\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Cooking EXP** +25%
-* **Alchemy EXP**: 3x [**Flora: Time**](https://moonbd.online/codex/?q=Flora:+Time\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Alchemy EXP** +25%
-* **Processing EXP**: 3x [**Flora: Tool**](https://moonbd.online/codex/?q=Flora:+Tool\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Processing EXP** +25%
-* **Training EXP**: 3x [**Flora: Gallop**](https://moonbd.online/codex/?q=Flora:+Gallop\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Training EXP** +25%
-* **Trading EXP**: 3x [**Flora: Wagon**](https://moonbd.online/codex/?q=Flora:+Wagon\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Trading EXP** +25%
-* **Farming EXP**: 3x [**Flora: Harvest**](https://moonbd.online/codex/?q=Flora:+Harvest\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Farming EXP** +25%
-* **Sailing EXP**: 3x [**Flora: Uncharted**](https://moonbd.online/codex/?q=Flora:+Uncharted\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Sailing EXP** +25%
-* **Bartering EXP**: 3x [**Flora: Haggler**](https://moonbd.online/codex/?q=Flora:+Haggler\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Bartering EXP** +25%
+* **Gathering EXP**: 3x [**Flora: Plains**](https://moonbd.online/codex/?q=Flora:+Plains\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Gathering EXP** +25%
+* **Fishing EXP**: 3x [**Flora: Bite**](https://moonbd.online/codex/?q=Flora:+Bite\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Fishing EXP** +25%
+* **Hunting EXP**: 3x [**Flora: Trap**](https://moonbd.online/codex/?q=Flora:+Trap\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Hunting EXP** +25%
+* **Cooking EXP**: 3x [**Flora: Secret**](https://moonbd.online/codex/?q=Flora:+Secret\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Cooking EXP** +25%
+* **Alchemy EXP**: 3x [**Flora: Time**](https://moonbd.online/codex/?q=Flora:+Time\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Alchemy EXP** +25%
+* **Processing EXP**: 3x [**Flora: Tool**](https://moonbd.online/codex/?q=Flora:+Tool\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Processing EXP** +25%
+* **Training EXP**: 3x [**Flora: Gallop**](https://moonbd.online/codex/?q=Flora:+Gallop\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Training EXP** +25%
+* **Trading EXP**: 3x [**Flora: Wagon**](https://moonbd.online/codex/?q=Flora:+Wagon\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Trading EXP** +25%
+* **Farming EXP**: 3x [**Flora: Harvest**](https://moonbd.online/codex/?q=Flora:+Harvest\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Farming EXP** +25%
+* **Sailing EXP**: 3x [**Flora: Uncharted**](https://moonbd.online/codex/?q=Flora:+Uncharted\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Sailing EXP** +25%
+* **Bartering EXP**: 3x [**Flora: Haggler**](https://moonbd.online/codex/?q=Flora:+Haggler\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Bartering EXP** +25%
 
 **Pure Life Mastery Sets**
 
 **3-Stone Mastery Sets**
 
-* **Gathering Mastery (3x)**: 3x [**Flora: Forest**](https://moonbd.online/codex/?q=Flora:+Forest\&lim=25) — **Gathering Mastery** +23
-* **Fishing Mastery (3x)**: 3x [**Flora: Patience**](https://moonbd.online/codex/?q=Flora:+Patience\&lim=25) — **Fishing Mastery** +23
-* **Hunting Mastery (3x)**: 3x [**Flora: Track**](https://moonbd.online/codex/?q=Flora:+Track\&lim=25) — **Hunting Mastery** +23
-* **Cooking Mastery (3x)**: 3x [**Flora: Stir**](https://moonbd.online/codex/?q=Flora:+Stir\&lim=25) — **Cooking Mastery** +23
-* **Alchemy Mastery (3x)**: 3x [**Flora: Malleable**](https://moonbd.online/codex/?q=Flora:+Malleable\&lim=25) — **Alchemy Mastery** +23
-* **Processing Mastery (3x)**: 3x [**Flora: Deft**](https://moonbd.online/codex/?q=Flora:+Deft\&lim=25) — **Processing Mastery** +23
-* **Training Mastery (3x)**: 3x [**Flora: Steed**](https://moonbd.online/codex/?q=Flora:+Steed\&lim=25) — **Training Mastery** +23
-* **Sailing Mastery (3x)**: 3x [**Flora: Blue**](https://moonbd.online/codex/?q=Flora:+Blue\&lim=25) — **Sailing Mastery** +23
+* **Gathering Mastery (3x)**: 3x [**Flora: Forest**](https://moonbd.online/codex/?q=Flora:+Forest\&lim=25) - **Gathering Mastery** +23
+* **Fishing Mastery (3x)**: 3x [**Flora: Patience**](https://moonbd.online/codex/?q=Flora:+Patience\&lim=25) - **Fishing Mastery** +23
+* **Hunting Mastery (3x)**: 3x [**Flora: Track**](https://moonbd.online/codex/?q=Flora:+Track\&lim=25) - **Hunting Mastery** +23
+* **Cooking Mastery (3x)**: 3x [**Flora: Stir**](https://moonbd.online/codex/?q=Flora:+Stir\&lim=25) - **Cooking Mastery** +23
+* **Alchemy Mastery (3x)**: 3x [**Flora: Malleable**](https://moonbd.online/codex/?q=Flora:+Malleable\&lim=25) - **Alchemy Mastery** +23
+* **Processing Mastery (3x)**: 3x [**Flora: Deft**](https://moonbd.online/codex/?q=Flora:+Deft\&lim=25) - **Processing Mastery** +23
+* **Training Mastery (3x)**: 3x [**Flora: Steed**](https://moonbd.online/codex/?q=Flora:+Steed\&lim=25) - **Training Mastery** +23
+* **Sailing Mastery (3x)**: 3x [**Flora: Blue**](https://moonbd.online/codex/?q=Flora:+Blue\&lim=25) - **Sailing Mastery** +23
 
 **4-Stone Mastery Sets**
 
-* **Gathering Mastery (4x)**: 4x [**Flora: Forest**](https://moonbd.online/codex/?q=Flora:+Forest\&lim=25) — **Gathering Mastery** +35
-* **Fishing Mastery (4x)**: 4x [**Flora: Patience**](https://moonbd.online/codex/?q=Flora:+Patience\&lim=25) — **Fishing Mastery** +35
-* **Hunting Mastery (4x)**: 4x [**Flora: Track**](https://moonbd.online/codex/?q=Flora:+Track\&lim=25) — **Hunting Mastery** +35
-* **Cooking Mastery (4x)**: 4x [**Flora: Stir**](https://moonbd.online/codex/?q=Flora:+Stir\&lim=25) — **Cooking Mastery** +35
-* **Alchemy Mastery (4x)**: 4x [**Flora: Malleable**](https://moonbd.online/codex/?q=Flora:+Malleable\&lim=25) — **Alchemy Mastery** +35
-* **Processing Mastery (4x)**: 4x [**Flora: Deft**](https://moonbd.online/codex/?q=Flora:+Deft\&lim=25) — **Processing Mastery** +35
-* **Training Mastery (4x)**: 4x [**Flora: Steed**](https://moonbd.online/codex/?q=Flora:+Steed\&lim=25) — **Training Mastery** +35
-* **Sailing Mastery (4x)**: 4x [**Flora: Blue**](https://moonbd.online/codex/?q=Flora:+Blue\&lim=25) — **Sailing Mastery** +35
+* **Gathering Mastery (4x)**: 4x [**Flora: Forest**](https://moonbd.online/codex/?q=Flora:+Forest\&lim=25) - **Gathering Mastery** +35
+* **Fishing Mastery (4x)**: 4x [**Flora: Patience**](https://moonbd.online/codex/?q=Flora:+Patience\&lim=25) - **Fishing Mastery** +35
+* **Hunting Mastery (4x)**: 4x [**Flora: Track**](https://moonbd.online/codex/?q=Flora:+Track\&lim=25) - **Hunting Mastery** +35
+* **Cooking Mastery (4x)**: 4x [**Flora: Stir**](https://moonbd.online/codex/?q=Flora:+Stir\&lim=25) - **Cooking Mastery** +35
+* **Alchemy Mastery (4x)**: 4x [**Flora: Malleable**](https://moonbd.online/codex/?q=Flora:+Malleable\&lim=25) - **Alchemy Mastery** +35
+* **Processing Mastery (4x)**: 4x [**Flora: Deft**](https://moonbd.online/codex/?q=Flora:+Deft\&lim=25) - **Processing Mastery** +35
+* **Training Mastery (4x)**: 4x [**Flora: Steed**](https://moonbd.online/codex/?q=Flora:+Steed\&lim=25) - **Training Mastery** +35
+* **Sailing Mastery (4x)**: 4x [**Flora: Blue**](https://moonbd.online/codex/?q=Flora:+Blue\&lim=25) - **Sailing Mastery** +35
 
 **Endgame Mastery Sets (With Iridescent Wildcard)**
 
-* **Gathering Mastery**: 3x [**Flora: Forest**](https://moonbd.online/codex/?q=Flora:+Forest\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Gathering Mastery** +45
-* **Fishing Mastery**: 3x [**Flora: Patience**](https://moonbd.online/codex/?q=Flora:+Patience\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Fishing Mastery** +45
-* **Hunting Mastery**: 3x [**Flora: Track**](https://moonbd.online/codex/?q=Flora:+Track\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Hunting Mastery** +45
-* **Cooking Mastery**: 3x [**Flora: Stir**](https://moonbd.online/codex/?q=Flora:+Stir\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Cooking Mastery** +45
-* **Alchemy Mastery**: 3x [**Flora: Malleable**](https://moonbd.online/codex/?q=Flora:+Malleable\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Alchemy Mastery** +45
-* **Processing Mastery**: 3x [**Flora: Deft**](https://moonbd.online/codex/?q=Flora:+Deft\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Processing Mastery** +45
-* **Training Mastery**: 3x [**Flora: Steed**](https://moonbd.online/codex/?q=Flora:+Steed\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Training Mastery** +45
-* **Sailing Mastery**: 3x [**Flora: Blue**](https://moonbd.online/codex/?q=Flora:+Blue\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) — **Sailing Mastery** +45
+* **Gathering Mastery**: 3x [**Flora: Forest**](https://moonbd.online/codex/?q=Flora:+Forest\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Gathering Mastery** +45
+* **Fishing Mastery**: 3x [**Flora: Patience**](https://moonbd.online/codex/?q=Flora:+Patience\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Fishing Mastery** +45
+* **Hunting Mastery**: 3x [**Flora: Track**](https://moonbd.online/codex/?q=Flora:+Track\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Hunting Mastery** +45
+* **Cooking Mastery**: 3x [**Flora: Stir**](https://moonbd.online/codex/?q=Flora:+Stir\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Cooking Mastery** +45
+* **Alchemy Mastery**: 3x [**Flora: Malleable**](https://moonbd.online/codex/?q=Flora:+Malleable\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Alchemy Mastery** +45
+* **Processing Mastery**: 3x [**Flora: Deft**](https://moonbd.online/codex/?q=Flora:+Deft\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Processing Mastery** +45
+* **Training Mastery**: 3x [**Flora: Steed**](https://moonbd.online/codex/?q=Flora:+Steed\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Training Mastery** +45
+* **Sailing Mastery**: 3x [**Flora: Blue**](https://moonbd.online/codex/?q=Flora:+Blue\&lim=25) + [**Iridescent Lightstone**](https://moonbd.online/codex/?q=Iridescent+Lightstone\&lim=25) - **Sailing Mastery** +45
 
 **Specialized Life Hybrid Sets**
 

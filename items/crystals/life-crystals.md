@@ -1,51 +1,21 @@
-# 🟢 Life Crystals
+---
+description: Guide to Forest Crystal, Life Crystal, and Vital Crystal lifeskilling options on MoonBD.
+---
 
+# Life Crystals
 
+### Overview
 
-_Available from Lifeskill at_ [_Global Lifeskill Drops_](/broken/pages/1o2cOMyBzjChY70hlAJk)
+**Life Crystals** and **Vital Crystals** are magic crystals designed to enhance lifeskilling efficiency by providing bonuses to Life Experience or Life Mastery.
 
-<figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+These crystals are obtainable through activities like sniper rifle hunting, fishing, or node excavation in the Land of the Morning Light. Further details on drop rates and nodes are available on the [**Global Drops**](/grindspots/global-drops.md) guide.
 
-<p align="center"><mark style="color:yellow;"><strong>Forest Crystal</strong></mark></p>
+---
 
-***
+### Codex Links
 
-{% hint style="warning" %}
-**How to Obtain**: Processing (L) - <img src="../../.gitbook/assets/QQ截图20221109033054.png" alt="" data-size="line"> **Simple Alchemy** With Following Materials
-{% endhint %}
+* [**Forest Crystal**](https://moonbd.online/codex/item//15814)
+* [**Life Crystal**](https://moonbd.online/codex/item//15815)
+* [**Vital Crystal**](https://moonbd.online/codex/item//15816)
 
-<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
-
-<p align="center"><mark style="color:yellow;"><strong>Life Crystal</strong></mark></p>
-
-<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
-
-<p align="center"><mark style="color:yellow;"><strong>Vital Crystal</strong></mark></p>
-
-***
-
-
-
-{% hint style="info" %}
-_Crafting_ ![](<../../.gitbook/assets/image (198).png>) <mark style="color:yellow;">**Life Crystal**</mark>
-
-* ![](<../../.gitbook/assets/image (199).png>)<mark style="color:yellow;">**Forest Crystal**</mark>**&#x20;x1**
-* ![](<../../.gitbook/assets/image (201).png>)**Trace of Nature x50**
-* ![](<../../.gitbook/assets/image (85).png>) **Magical Shard x50**
-* ![](<../../.gitbook/assets/image (87).png>) <mark style="color:blue;">**Magical Lightstone Crystal**</mark>**&#x20;x100**
-* ![](<../../.gitbook/assets/image (203).png>)**Spirit's Leaf x10**
-{% endhint %}
-
-***
-
-{% hint style="info" %}
-_Crafting_ ![](<../../.gitbook/assets/image (204).png>) <mark style="color:yellow;">**Vital Crystal**</mark>
-
-* ![](<../../.gitbook/assets/image (199).png>)<mark style="color:yellow;">**Forest Crystal**</mark>**&#x20;x1**
-* ![](<../../.gitbook/assets/image (201).png>)**Trace of Nature x50**
-* ![](<../../.gitbook/assets/image (85).png>) **Magical Shard x50**
-* ![](<../../.gitbook/assets/image (86).png>) <mark style="color:blue;">**Magical Lightstone Crystal**</mark>**&#x20;x100**
-* ![](<../../.gitbook/assets/image (88).png>)**Bloody Tree Knot x10**
-{% endhint %}
-
-***
+All crafting recipes, required materials (including **Trace of Nature**, **Magical Shard**, **Magical Lightstone Crystal**, **Spirit's Leaf**, and **Bloody Tree Knot**), and exact stats are available on the respective Codex pages.
