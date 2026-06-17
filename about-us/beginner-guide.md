@@ -118,13 +118,13 @@ The server features a specialized recipe utilizing the starter gear:
 Crafting the base **Slumbering Origin** armor is a prerequisite for higher armor tiers. Boss armor pieces must be enhanced to Caphras Level 10, characters must be Level 60, and all Quest Types must be enabled at the bottom of the Quest Log (`O`).
 
 * **Fallen God's Armor**:
-  * NPC: [**Dorin Mogrim**](https://moonbd.online/codex/?q=Dorin+Mogrim&lim=50&t=npcs) (located in the cave beneath **Helms Post**).
+  * NPC: [**Dorin Morgrim**](https://moonbd.online/codex/?q=Dorin+Morgrim&lim=50&t=npcs) (located in the cave beneath **Helms Post**).
   * Requirement: Players can obtain [**Fallen God's Armor**](https://moonbd.online/codex/?q=Fallen+God%27s+Armor&lim=25) by exchanging a `PEN (V)` Boss Armor at Caphras Level 10 and a [**Flame of Despair**](https://moonbd.online/codex/?q=Flame+of+Despair&lim=25). Details are available on the MoonBD Codex database.
 * **Labreska's Helmet**:
   * NPC: [**Floki**](https://moonbd.online/codex/?q=Floki&lim=50&t=npcs) (located in the cave at **Jade Starlight Forest**).
   * Requirement: Players can obtain [**Labreska's Helmet**](https://moonbd.online/codex/?q=Labreska%27s+Helmet&lim=25) by exchanging a `PEN (V)` Boss Helmet at Caphras Level 10 and a [**Flame of Frost**](https://moonbd.online/codex/?q=Flame+of+Frost&lim=25). Details are available on the MoonBD Codex database.
 * **Dahn's Gloves (Damage Reduction version)**:
-  * NPC: [**Dorin Mogrim**](https://moonbd.online/codex/?q=Dorin+Mogrim&lim=50&t=npcs) (located in the cave beneath **Helms Post**).
+  * NPC: [**Dorin Morgrim**](https://moonbd.online/codex/?q=Dorin+Morgrim&lim=50&t=npcs) (located in the cave beneath **Helms Post**).
   * Requirement: Players can obtain [**Dahn's Gloves**](https://moonbd.online/codex/?q=Dahn%27s+Gloves&lim=25) by exchanging a `PEN (V)` Boss Gloves at Caphras Level 10 and a [**Flame of Hongik**](https://moonbd.online/codex/?q=Flame+of+Hongik&lim=25). Details are available on the MoonBD Codex database.
 * **Ator's Shoes**:
   * NPC: [**Nightwing**](https://moonbd.online/codex/?q=Nightwing&lim=50&t=npcs) (located in **Velia**, adjacent to NPC **Alustin**).
