@@ -2,7 +2,7 @@
 
 
 
-_Available from @_[moon-master-less-than-moonbd-greater-than.md](../../features/npcs/moon-master-less-than-moonbd-greater-than.md "mention") NPC Shop
+This item is available for purchase from the [**Moon Master**](https://moonbd.online/codex/npc/900994) NPC Shop.
 
 <figure><img src="../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
 

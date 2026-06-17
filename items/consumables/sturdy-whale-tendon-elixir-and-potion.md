@@ -6,7 +6,7 @@ icon: flask
 
 
 
-_Available from drop_ Reward from defeating monster summoned via [<mark style="color:red;">**Manshaum Narc's Stone (assemble Manshaum Voodoo Dolls)**</mark>](https://bdocodex.com/us/item/41619/) <mark style="color:yellow;">**have Exchange on**</mark> [<mark style="color:yellow;">**Moon Master NPC**</mark>](../../features/npcs/moon-master-less-than-moonbd-greater-than.md)
+This item is obtained as a drop reward from defeating monsters summoned via the [**Manshaum Narc's Stone**](https://moonbd.online/codex/item//41619). Players can exchange the materials at the [**Moon Master**](https://moonbd.online/codex/npc/900994) NPC.
 
 <figure><img src="../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
