@@ -84,3 +84,58 @@ When linking to official services or UI routes, agents must use the absolute dom
 * **Character Directory:** `https://moonbd.online/account/characters`
 * **Mysterious Shop:** `https://moonbd.online/account/mysterious-shop`
 * **Account Transaction History:** `https://moonbd.online/account/history`
+
+---
+
+## 6. GitBook Styling & Common Practices
+
+To maintain visual consistency and leverage GitBook's rendering engine, developers and agents should use the following block styles and formatting conventions:
+
+### Custom Hint Blocks (Alerts)
+Use GitBook hint blocks for callouts, notes, warnings, and guidelines.
+* **Info Callout:** For general tips, AP/DP recommendations, and guidelines.
+  ```markdown
+  {% hint style="info" %}
+  Recommended AP: 360 | Recommended DP: 430
+  {% endhint %}
+  ```
+* **Warning Callout:** For manufacturing instructions, durability alerts, or crafting requirements.
+  ```markdown
+  {% hint style="warning" %}
+  Processing (L) - Manufacturing requires the exact items in the table below.
+  {% endhint %}
+  ```
+* **Danger Callout:** For critical penalties, failed enhancement outcomes (e.g. durability reduction), or irreversible actions.
+  ```markdown
+  {% hint style="danger" %}
+  Failed enhancement attempts reduce maximum durability by 20.
+  {% endhint %}
+  ```
+
+### Custom Highlighting (Mark Tags)
+Use HTML `<mark>` tags inside text for specific color-coded status elements or item grading:
+* `<mark style="color:green;">**Green Text**</mark>` - Positive, basic, or safe features.
+* `<mark style="color:yellow;">**Yellow Text**</mark>` - Moderate or mid-tier features.
+* `<mark style="color:orange;">**Orange Text**</mark>` - High-tier or advanced features.
+* `<mark style="color:red;">**Red Text**</mark>` - Hard, end-game, or high-risk features.
+* `<mark style="color:purple;">**Purple Text**</mark>` - Rare, unique, or custom items.
+
+### Table Enhancements
+* **Full-Width Tables:** For large matrices or wide directories (such as class balance grids), explicitly tell GitBook to render full-width:
+  ```html
+  <table data-full-width="true">
+  ```
+* **Column Widths:** To enforce clean horizontal spacing in custom item grids, specify pixel widths on header cells:
+  ```html
+  <th width="170">Item Name</th>
+  ```
+
+### Image layouts & Full-Width Media
+* **Captions:** Use standard GitBook figures for captioned illustrations:
+  ```html
+  <figure><img src="url_to_image" alt=""><figcaption>Figure Caption</figcaption></figure>
+  ```
+* **Expanded Map Images:** For map routes and spawn location screenshots, wrap the figure in a full-width container to maximize details on large monitors:
+  ```html
+  <div data-full-width="true"><figure><img src="url_to_image" alt=""></figure></div>
+  ```
