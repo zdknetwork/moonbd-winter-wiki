@@ -34,7 +34,7 @@ Recommended DP: 330
 ### Drop Table
 
 Loot drops and rate details are available via the official MoonBD Codex search query for this zone:
-[**Castle Ruins (Party of 3) Codex Search**](https://moonbd.online/codex/?q=Castle+Ruins+(Party+of+3)&lim=25)
+[**Castle Ruins (Party of 3) Codex Search**](https://moonbd.online/codex/?q=Castle+Ruins+%28Party+of+3%29&lim=25)
 
 
 ***

@@ -34,7 +34,7 @@ Recommended DP: 340
 ### Drop Table
 
 Loot drops and rate details are available via the official MoonBD Codex search query for this zone:
-[**Padix Island (Party of 2) Codex Search**](https://moonbd.online/codex/?q=Padix+Island+(Party+of+2)&lim=25)
+[**Padix Island (Party of 2) Codex Search**](https://moonbd.online/codex/?q=Padix+Island+%28Party+of+2%29&lim=25)
 
 
 ***

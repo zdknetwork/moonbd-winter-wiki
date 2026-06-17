@@ -29,7 +29,7 @@ Occasionally, impromptu events may occur without prior notice for active players
 #### Hide and Seek Events
 
 * A **GM** hides in a designated region and channel.
-* The first player to locate and interact with the GM earns **valuable rewards**.
+* The first player who locates and interacts with the GM earns **valuable rewards**.
 * Clues are often posted in real time on **Discord** for players participating.
 
 #### Giveaways
@@ -38,7 +38,7 @@ Occasionally, impromptu events may occur without prior notice for active players
   * **Discord**
   * **Partner streamers**
   * **Community contributors**
-* Follow the **announcement** and **streamer** channels to not miss any.
+* Players can follow the **announcement** and **streamer** channels to ensure no giveaways are missed.
 
 #### Random Boss Events
 
@@ -59,4 +59,4 @@ Occasionally, impromptu events may occur without prior notice for active players
 
 * Players can join the official [MoonBD Discord](https://discord.gg/3xK6p7rhD4) and regularly check the **#event-announcement** channel.
 * Event schedules, participation requirements, and rewards are always published there first.
-* Surprise events may drop at any moment - good luck and preparation is recommended.
+* Surprise events may drop at any moment; active players are encouraged to remain prepared.

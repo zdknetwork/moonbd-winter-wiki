@@ -19,8 +19,8 @@ It activates automatically every **weekend (UTC)** and provides up to **4× the 
 * Activates **automatically on weekends** based on **UTC time**.
 * The system starts the event and applies a **reward multiplier** (usually **2×**, but can reach **3× or 4×**).
 * The standard **weekend event** always provides **2× (100%)** additional rewards.
-* You will **not** see the bonus amount in the in-game system log.
-* After leaving **Red Battlefield**, the total multiplied rewards will appear in your **Black Spirit’s Safe (B)**.
+* The bonus amount is **not** displayed in the in-game system log.
+* After leaving the **Red Battlefield**, the total multiplied rewards appear in the player's **Black Spirit’s Safe (B)**.
 
 ***
 
@@ -45,5 +45,5 @@ It activates automatically every **weekend (UTC)** and provides up to **4× the 
 
 ### Additional Information
 
-* Use **Black Spirit’s Safe (B)** after match completion to claim boosted rewards.
-* Keep an eye on [**Discord** ](https://discord.gg/3xK6p7rhD4)**announcements** for special RBF booster weekends and global event activations.
+* Players can open the **Black Spirit’s Safe (B)** after match completion to claim boosted rewards.
+* Players can monitor [**Discord**](https://discord.gg/3xK6p7rhD4) announcements for special RBF booster weekends and global event activations.

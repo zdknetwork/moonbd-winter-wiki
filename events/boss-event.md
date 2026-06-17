@@ -39,42 +39,23 @@ Join these events for powerful foes, juicy loot, and chances to earn exclusive w
 
 ***
 
-### Regular World Boss Drops
+### World Boss Changes
 
-Standard world bosses drop the following items:
+{% hint style="info" %}
+Standard world bosses are removed. Only enhanced world boss variants spawn on the server:
+* [**Nightmarish Kzarka**](https://moonbd.online/codex/?q=Nightmarish+Kzarka&lim=50&t=npcs)
+* [**Stormbringer Karanda**](https://moonbd.online/codex/?q=Stormbringer+Karanda&lim=50&t=npcs)
+* [**Thundercloud Kutum**](https://moonbd.online/codex/?q=Thundercloud+Kutum&lim=50&t=npcs)
+* [**Bloodstorm Nouver**](https://moonbd.online/codex/?q=Bloodstorm+Nouver&lim=50&t=npcs)
+{% endhint %}
 
-* **Boss Sealed Weapon Box ×1**
-* **Belongings of an Adventurer ×1** _(high chance for an enhanced accessory)_
-* **Gold Bar (various amounts)**
-* **Latent Aura**
-* **1,000 Pearl Box ×1**
-* **Advice of Valks (+100) ×1**
-* **1,000+ Caphras Stones**
+### World Boss & Event Loot
 
-***
+All drop rates, chest contents, and item rewards are dynamically managed. Players can search for specific boss loot pools, event rewards, and drop tables directly on the [**MoonBD Codex**](https://moonbd.online/codex):
 
-### Enhanced World Boss Drops
-
-Enhanced world boss phases offer upgraded rewards and better enhancement chances.
-
-* **Enhanced Sealed Weapon Box ×1** _(high chance for TET-tier sealed weapon)_
-* **Belongings of an Adventurer ×1** _(high chance for an enhanced accessory)_
-* **Gold Bar (various amounts)**
-* **Latent Aura**
-* **Khan Reward Bundle (Tier 3) ×1**
-
-***
-
-### Custom Boss Drops
-
-Custom bosses feature unique rewards and web-exclusive treasures.
-
-* **Moon Cash (Web Shop Currency)**
-* **Exclusive Web Shop Items**
-* **Vell’s Heart**
-* **Khan Reward Bundle (Tier 3)**
-* **Inverted Heart of Garmoth**
-* **Additional Rare Loot** and mystery drops
+* **Enhanced Sealed Weapon Boxes:** Contain high-tier weapons and progression materials.
+* **Belongings of an Adventurer:** Contain random enhanced accessories.
+* **Custom Boss Loot:** Includes web shop currency, rare hearts, and custom boxes.
 
 ***
 

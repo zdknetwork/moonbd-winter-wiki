@@ -34,7 +34,7 @@ Recommended DP: 280
 ### Drop Table
 
 Loot drops and rate details are available via the official MoonBD Codex search query for this zone:
-[**Sycraia Underwater Ruins (Upper Zone) Codex Search**](https://moonbd.online/codex/?q=Sycraia+Underwater+Ruins+(Upper+Zone)&lim=25)
+[**Sycraia Underwater Ruins (Upper Zone) Codex Search**](https://moonbd.online/codex/?q=Sycraia+Underwater+Ruins+%28Upper+Zone%29&lim=25)
 
 
 ***

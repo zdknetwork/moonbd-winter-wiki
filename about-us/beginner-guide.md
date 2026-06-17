@@ -52,7 +52,7 @@ The following resources and benefits are active immediately after completing the
 The **Shiny Insignia** is a craftable, permanent item that functions as a portable, reusable Elvia Weapon Buff:
 
 * **Effect**: Grants a massive damage increase against **Elvia** monsters for 12 hours (Mainhand and Awakening). It has a 10-minute character-bound cooldown and does not stack with standard zone weapon drops.
-* **Crafting**: Combining 1x **Shiny Insignia Token** (purchased from the [**Moon Master**](https://moonbd.online/codex/npc/900994) shop) with **Insignia Shards** (obtained as monster drops from any zone) crafts the item.
+* **Crafting**: The [**Shiny Insignia**](https://moonbd.online/codex/item//1003102) can be crafted via Manufacturing using a [**Shiny Insignia Token**](https://moonbd.online/codex/item//1003101) and [**Insignia Shards**](https://moonbd.online/codex/item//1003100). Details on the required materials are available on the MoonBD Codex database page.
 
 #### Pit of Undying
 
@@ -80,21 +80,14 @@ Infinite potions provide a non-consumable, permanent source of recovery. Grindin
 
 **Exalted Potion Upgrades**
 
-Once the base potions are acquired, players can upgrade them to the **Exalted** tier through the Processing menu (`L` -> Heating) using [Cron Stones](https://moonbd.online/codex/?q=Cron+Stone\&lim=25):
+Once the base potions are acquired, players can upgrade them to the **Exalted** tier through the Processing menu (`L` -> Heating) using [**Cron Stones**](https://moonbd.online/codex/?q=Cron+Stone&lim=25):
 
-* **Exalted Ornette's Spirit Essence (HP)** (Recovers 800 HP): Combining 4x [Ornette's Spirit Essence](https://moonbd.online/codex/?q=Ornette%27s+Spirit+Essence\&lim=25) and 500,000x [Cron Stone](https://moonbd.online/codex/?q=Cron+Stone\&lim=25) upgrades the potion.
-* **Exalted Odore's Spirit Essence (MP/WP/SP)** (Recovers 625 MP/WP/SP): Combining 4x [Odore's Spirit Essence](https://moonbd.online/codex/?q=Odore%27s+Spirit+Essence\&lim=25) and 500,000x [Cron Stone](https://moonbd.online/codex/?q=Cron+Stone\&lim=25) upgrades the potion.
+* **Exalted Ornette's Spirit Essence (HP)** (Recovers 800 HP): Players can upgrade the potion to the Exalted version using [**Ornette's Spirit Essence**](https://moonbd.online/codex/?q=Ornette%27s+Spirit+Essence&lim=25) and [**Cron Stones**](https://moonbd.online/codex/?q=Cron+Stone&lim=25). Complete recipe details are available on the MoonBD Codex database.
+* **Exalted Odore's Spirit Essence (MP/WP/SP)** (Recovers 625 MP/WP/SP): Players can upgrade the potion to the Exalted version using [**Odore's Spirit Essence**](https://moonbd.online/codex/?q=Odore%27s+Spirit+Essence&lim=25) and [**Cron Stones**](https://moonbd.online/codex/?q=Cron+Stone&lim=25). Complete recipe details are available on the MoonBD Codex database.
 
 **Base Infinite Potion Drop Locations**
 
-| Potion Ingredient                                                                           | Drop Location             | Acquisition Method      |
-| ------------------------------------------------------------------------------------------- | ------------------------- | ----------------------- |
-| [Sherekhan's Panacea](https://moonbd.online/codex/?q=Sherekhan%27s+Panacea\&lim=25)         | **Sherekhan Necropolis**  | Monster Drop            |
-| [Ron's Tintinnabulum](https://moonbd.online/codex/?q=Ron%27s+Tintinnabulum\&lim=25)         | **Forest Ronaros**        | Monster Drop            |
-| [Ash Halfmoon Kagtunak](https://moonbd.online/codex/?q=Ash+Halfmoon+Kagtunak\&lim=25)       | **Blood Wolf Settlement** | Monster Drop            |
-| [Valtarra's Clairvoyance](https://moonbd.online/codex/?q=Valtarra%27s+Clairvoyance\&lim=25) | **Navarn Steppe**         | Tanning Defeated Beasts |
-| [Markthanan's Gland](https://moonbd.online/codex/?q=Markthanan%27s+Gland\&lim=25)           | **Tshira Ruins**          | Monster Drop            |
-| [Narc's Crimson Tear](https://moonbd.online/codex/?q=Narc%27s+Crimson+Tear\&lim=25)         | **Manshaum Forest**       | Monster Drop            |
+Drop locations and monster sources for the base infinite potion ingredients - such as [**Sherekhan's Panacea**](https://moonbd.online/codex/?q=Sherekhan%27s+Panacea&lim=25), [**Ron's Tintinnabulum**](https://moonbd.online/codex/?q=Ron%27s+Tintinnabulum&lim=25), [**Ash Halfmoon Kagtunak**](https://moonbd.online/codex/?q=Ash+Halfmoon+Kagtunak&lim=25), [**Valtarra's Clairvoyance**](https://moonbd.online/codex/?q=Valtarra%27s+Clairvoyance&lim=25), [**Markthanan's Gland**](https://moonbd.online/codex/?q=Markthanan%27s+Gland&lim=25), and [**Narc's Crimson Tear**](https://moonbd.online/codex/?q=Narc%27s+Crimson+Tear&lim=25) - are available on the MoonBD Codex database.
 
 #### Kharazad Accessories
 
@@ -102,10 +95,7 @@ Once the base potions are acquired, players can upgrade them to the **Exalted** 
 
 Crafting is performed via the Processing menu (`L` -> **Manufacture**):
 
-* **Kharazad Necklace**: 1x [Deboreka Necklace](https://moonbd.online/codex/?q=Deboreka+Necklace\&lim=25) (+0) + 50x [Essence of Dawn](https://moonbd.online/codex/?q=Essence+of+Dawn\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25)
-* **Kharazad Belt**: 1x [Deboreka Belt](https://moonbd.online/codex/?q=Deboreka+Belt\&lim=25) (+0) + 50x [Essence of Dawn](https://moonbd.online/codex/?q=Essence+of+Dawn\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25)
-* **Kharazad Ring**: 1x [Deboreka Ring](https://moonbd.online/codex/?q=Deboreka+Ring\&lim=25) (+0) + 50x [Essence of Dawn](https://moonbd.online/codex/?q=Essence+of+Dawn\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25)
-* **Kharazad Earring**: 1x [Deboreka Earring](https://moonbd.online/codex/?q=Deboreka+Earring\&lim=25) (+0) + 50x [Essence of Dawn](https://moonbd.online/codex/?q=Essence+of+Dawn\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25)
+* Players can craft the [**Kharazad Necklace**](https://moonbd.online/codex/?q=Kharazad+Necklace&lim=25), [**Kharazad Belt**](https://moonbd.online/codex/?q=Kharazad+Belt&lim=25), [**Kharazad Ring**](https://moonbd.online/codex/?q=Kharazad+Ring&lim=25), and [**Kharazad Earring**](https://moonbd.online/codex/?q=Kharazad+Earring&lim=25) by combining [**Deboreka**](https://moonbd.online/codex/?q=Deboreka&lim=25) accessories, [**Essence of Dawn**](https://moonbd.online/codex/?q=Essence+of+Dawn&lim=25), and [**Magical Shards**](https://moonbd.online/codex/?q=Magical+Shard&lim=25). The complete recipe requirements are detailed on the MoonBD Codex database.
 
 **Material Sources**:
 
@@ -118,45 +108,45 @@ Crafting is performed via the Processing menu (`L` -> **Manufacture**):
 
 The server features a specialized recipe utilizing the starter gear:
 
-* **Sovereign Weapon Recipe**: 1x `PEN (V)` [Blackstar Weapon](https://moonbd.online/codex/?q=Blackstar\&lim=25) + 1x `PEN (V)` **Blackstar Starter Weapon** + 1x [Gem of Twilight](https://moonbd.online/codex/?q=Gem+of+Twilight\&lim=25).
-* **Gem of Twilight Crafting**: Opening the Processing menu (`L` -> Heating) and combining 20,000x [Caphras Stone](https://moonbd.online/codex/?q=Caphras+Stone\&lim=25) and 100x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25) crafts the gem.
+* **Sovereign Weapon Recipe**: Players can craft a Sovereign Weapon using a `PEN (V)` [**Blackstar Weapon**](https://moonbd.online/codex/?q=Blackstar&lim=25), a `PEN (V)` **Blackstar Starter Weapon**, and a [**Gem of Twilight**](https://moonbd.online/codex/?q=Gem+of+Twilight&lim=25). Refer to the MoonBD Codex database page for complete details.
+* **Gem of Twilight Crafting**: The [**Gem of Twilight**](https://moonbd.online/codex/?q=Gem+of+Twilight&lim=25) is obtained through Heating using [**Caphras Stones**](https://moonbd.online/codex/?q=Caphras+Stone&lim=25) and [**Magical Shards**](https://moonbd.online/codex/?q=Magical+Shard&lim=25). Complete quantity requirements are available on the MoonBD Codex database.
 
-**Base Blackstar Acquisition**: A base (`+0`) **Blackstar Weapon** of choice can be obtained by exchanging 1x **Remnants of the Rift** at [**Moon Master**](https://moonbd.online/codex/npc/900994) in **Velia**.
+**Base Blackstar Acquisition**: A base (`+0`) [**Blackstar Weapon**](https://moonbd.online/codex/?q=Blackstar&lim=25) of choice can be obtained by exchanging 1x [**Remnants of the Rift**](https://moonbd.online/codex/?q=Remnants+of+the+Rift&lim=25) at [**Moon Master**](https://moonbd.online/codex/npc/900994) in **Velia**.
 
 #### Slumbering Origin Armor
 
 Crafting the base **Slumbering Origin** armor is a prerequisite for higher armor tiers. Boss armor pieces must be enhanced to Caphras Level 10, characters must be Level 60, and all Quest Types must be enabled at the bottom of the Quest Log (`O`).
 
 * **Fallen God's Armor**:
-  * NPC: **Dorin Mogrim** (located in the cave beneath **Helms Post**).
-  * Requirement: 1x `PEN (V)` Boss Armor (**Dim Tree Spirit's Armor** or **Red Nose's Armor**) at Caphras Level 10 + 1x [Flame of Despair](https://moonbd.online/codex/?q=Flame+of+Despair\&lim=25).
+  * NPC: [**Dorin Mogrim**](https://moonbd.online/codex/?q=Dorin+Mogrim&lim=50&t=npcs) (located in the cave beneath **Helms Post**).
+  * Requirement: Players can obtain [**Fallen God's Armor**](https://moonbd.online/codex/?q=Fallen+God%27s+Armor&lim=25) by exchanging a `PEN (V)` Boss Armor at Caphras Level 10 and a [**Flame of Despair**](https://moonbd.online/codex/?q=Flame+of+Despair&lim=25). Details are available on the MoonBD Codex database.
 * **Labreska's Helmet**:
-  * NPC: **Floki** (located in the cave at **Jade Starlight Forest**).
-  * Requirement: 1x `PEN (V)` Boss Helmet (**Griffon's Helmet** or **Giath's Helmet**) at Caphras Level 10 + 1x [Flame of Frost](https://moonbd.online/codex/?q=Flame+of+Frost\&lim=25).
+  * NPC: [**Floki**](https://moonbd.online/codex/?q=Floki&lim=50&t=npcs) (located in the cave at **Jade Starlight Forest**).
+  * Requirement: Players can obtain [**Labreska's Helmet**](https://moonbd.online/codex/?q=Labreska%27s+Helmet&lim=25) by exchanging a `PEN (V)` Boss Helmet at Caphras Level 10 and a [**Flame of Frost**](https://moonbd.online/codex/?q=Flame+of+Frost&lim=25). Details are available on the MoonBD Codex database.
 * **Dahn's Gloves (Damage Reduction version)**:
-  * NPC: **Dorin Mogrim** (located in the cave beneath **Helms Post**).
-  * Requirement: 1x `PEN (V)` Boss Gloves (**Bheg's Gloves**) at Caphras Level 10 + 1x [Flame of Hongik](https://moonbd.online/codex/?q=Flame+of+Hongik\&lim=25).
+  * NPC: [**Dorin Mogrim**](https://moonbd.online/codex/?q=Dorin+Mogrim&lim=50&t=npcs) (located in the cave beneath **Helms Post**).
+  * Requirement: Players can obtain [**Dahn's Gloves**](https://moonbd.online/codex/?q=Dahn%27s+Gloves&lim=25) by exchanging a `PEN (V)` Boss Gloves at Caphras Level 10 and a [**Flame of Hongik**](https://moonbd.online/codex/?q=Flame+of+Hongik&lim=25). Details are available on the MoonBD Codex database.
 * **Ator's Shoes**:
-  * NPC: **Nightwing** (located in **Velia**, adjacent to NPC **Alustin**).
-  * Requirement: 1x `PEN (V)` Boss Shoes (**Urugon's Shoes** or **Muskan's Shoes**) at Caphras Level 10 + 1x [Flame of Resonance](https://moonbd.online/codex/?q=Flame+of+Resonance\&lim=25).
+  * NPC: [**Nightwing**](https://moonbd.online/codex/?q=Nightwing&lim=50&t=npcs) (located in **Velia**, adjacent to NPC **Alustin**).
+  * Requirement: Players can obtain [**Ator's Shoes**](https://moonbd.online/codex/?q=Ator%27s+Shoes&lim=25) by exchanging a `PEN (V)` Boss Shoes at Caphras Level 10 and a [**Flame of Resonance**](https://moonbd.online/codex/?q=Flame+of+Resonance&lim=25). Details are available on the MoonBD Codex database.
 
 #### Edana Armor Upgrades
 
 The base **Slumbering Origin** armor pieces are best enhanced only up to `TET (+4)`. Once `TET (+4)` is achieved, opening the Processing menu (`L` -> **Manufacture**) and combining the pieces with the required materials exchanges them for the **Edana** set:
 
-* **Edana Helmet**: 1x `TET (+4)` [Labreska's Helmet](https://moonbd.online/codex/?q=Labreska%27s+Helmet\&lim=25) + 20,000x [Caphras Stone](https://moonbd.online/codex/?q=Caphras+Stone\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25) + 100x [Piece of Edana](https://moonbd.online/codex/?q=Piece+of+Edana\&lim=25)
-* **Edana Armor**: 1x `TET (+4)` [Fallen God's Armor](https://moonbd.online/codex/?q=Fallen+God%27s+Armor\&lim=25) + 20,000x [Caphras Stone](https://moonbd.online/codex/?q=Caphras+Stone\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25) + 100x [Piece of Edana](https://moonbd.online/codex/?q=Piece+of+Edana\&lim=25)
-* **Edana Gloves**: 1x `TET (+4)` [Dahn's Gloves](https://moonbd.online/codex/?q=Dahn%27s+Gloves\&lim=25) + 20,000x [Caphras Stone](https://moonbd.online/codex/?q=Caphras+Stone\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25) + 100x [Piece of Edana](https://moonbd.online/codex/?q=Piece+of+Edana\&lim=25)
-* **Edana Shoes**: 1x `TET (+4)` [Ator's Shoes](https://moonbd.online/codex/?q=Ator%27s+Shoes\&lim=25) + 20,000x [Caphras Stone](https://moonbd.online/codex/?q=Caphras+Stone\&lim=25) + 300x [Magical Shard](https://moonbd.online/codex/?q=Magical+Shard\&lim=25) + 100x [Piece of Edana](https://moonbd.online/codex/?q=Piece+of+Edana\&lim=25)
+* **Edana Helmet**: Players can upgrade `TET (+4)` [**Labreska's Helmet**](https://moonbd.online/codex/?q=Labreska%27s+Helmet&lim=25) to [**Edana Helmet**](https://moonbd.online/codex/?q=Edana+Helmet&lim=25) using [**Caphras Stones**](https://moonbd.online/codex/?q=Caphras+Stone&lim=25), [**Magical Shards**](https://moonbd.online/codex/?q=Magical+Shard&lim=25), and [**Pieces of Edana**](https://moonbd.online/codex/?q=Piece+of+Edana&lim=25). Detailed requirements are on the MoonBD Codex database.
+* **Edana Armor**: Players can upgrade `TET (+4)` [**Fallen God's Armor**](https://moonbd.online/codex/?q=Fallen+God%27s+Armor&lim=25) to [**Edana Armor**](https://moonbd.online/codex/?q=Edana+Armor&lim=25) using [**Caphras Stones**](https://moonbd.online/codex/?q=Caphras+Stone&lim=25), [**Magical Shards**](https://moonbd.online/codex/?q=Magical+Shard&lim=25), and [**Pieces of Edana**](https://moonbd.online/codex/?q=Piece+of+Edana&lim=25). Detailed requirements are on the MoonBD Codex database.
+* **Edana Gloves**: Players can upgrade `TET (+4)` [**Dahn's Gloves**](https://moonbd.online/codex/?q=Dahn%27s+Gloves&lim=25) to [**Edana Gloves**](https://moonbd.online/codex/?q=Edana+Gloves&lim=25) using [**Caphras Stones**](https://moonbd.online/codex/?q=Caphras+Stone&lim=25), [**Magical Shards**](https://moonbd.online/codex/?q=Magical+Shard&lim=25), and [**Pieces of Edana**](https://moonbd.online/codex/?q=Piece+of+Edana&lim=25). Detailed requirements are on the MoonBD Codex database.
+* **Edana Shoes**: Players can upgrade `TET (+4)` [**Ator's Shoes**](https://moonbd.online/codex/?q=Ator%27s+Shoes&lim=25) to [**Edana Shoes**](https://moonbd.online/codex/?q=Edana+Shoes&lim=25) using [**Caphras Stones**](https://moonbd.online/codex/?q=Caphras+Stone&lim=25), [**Magical Shards**](https://moonbd.online/codex/?q=Magical+Shard&lim=25), and [**Pieces of Edana**](https://moonbd.online/codex/?q=Piece+of+Edana&lim=25). Detailed requirements are on the MoonBD Codex database.
 
 #### Blood Genesis Set
 
 After transitioning to the **Edana** set, pieces can be enhanced up to a maximum of `+10`. Once `+10` is reached on an **Edana** piece, opening the Processing menu (`L`) and combining it with **Origin Bloodstones** and **Cron Stones** upgrades the item to the ultimate gear tier: **Blood Genesis**.
 
-* **Blood Genesis Helmet**: 1x `+10` [Edana Helmet](https://moonbd.online/codex/?q=Edana+Helmet\&lim=25) + 5x [Origin Bloodstone](https://moonbd.online/codex/?q=Origin+Bloodstone\&lim=25) + 500,000x [Cron Stone](https://moonbd.online/codex/?q=Cron+Stone\&lim=25)
-* **Blood Genesis Armor**: 1x `+10` [Edana Armor](https://moonbd.online/codex/?q=Edana+Armor\&lim=25) + 5x [Origin Bloodstone](https://moonbd.online/codex/?q=Origin+Bloodstone\&lim=25) + 500,000x [Cron Stone](https://moonbd.online/codex/?q=Cron+Stone\&lim=25)
-* **Blood Genesis Gloves**: 1x `+10` [Edana Gloves](https://moonbd.online/codex/?q=Edana+Gloves\&lim=25) + 5x [Origin Bloodstone](https://moonbd.online/codex/?q=Origin+Bloodstone\&lim=25) + 500,000x [Cron Stone](https://moonbd.online/codex/?q=Cron+Stone\&lim=25)
-* **Blood Genesis Shoes**: 1x `+10` [Edana Shoes](https://moonbd.online/codex/?q=Edana+Shoes\&lim=25) + 5x [Origin Bloodstone](https://moonbd.online/codex/?q=Origin+Bloodstone\&lim=25) + 500,000x [Cron Stone](https://moonbd.online/codex/?q=Cron+Stone\&lim=25)
+* **Blood Genesis Helmet**: Players can upgrade a `+10` [**Edana Helmet**](https://moonbd.online/codex/?q=Edana+Helmet&lim=25) to [**Blood Genesis Helmet**](https://moonbd.online/codex/?q=Blood+Genesis+Helmet&lim=25) using [**Origin Bloodstones**](https://moonbd.online/codex/?q=Origin+Bloodstone&lim=25) and [**Cron Stones**](https://moonbd.online/codex/?q=Cron+Stone&lim=25). Recipe requirements are detailed on the MoonBD Codex database.
+* **Blood Genesis Armor**: Players can upgrade a `+10` [**Edana Armor**](https://moonbd.online/codex/?q=Edana+Armor&lim=25) to [**Blood Genesis Armor**](https://moonbd.online/codex/?q=Blood+Genesis+Armor&lim=25) using [**Origin Bloodstones**](https://moonbd.online/codex/?q=Origin+Bloodstone&lim=25) and [**Cron Stones**](https://moonbd.online/codex/?q=Cron+Stone&lim=25). Recipe requirements are detailed on the MoonBD Codex database.
+* **Blood Genesis Gloves**: Players can upgrade a `+10` [**Edana Gloves**](https://moonbd.online/codex/?q=Edana+Gloves&lim=25) to [**Blood Genesis Gloves**](https://moonbd.online/codex/?q=Blood+Genesis+Gloves&lim=25) using [**Origin Bloodstones**](https://moonbd.online/codex/?q=Origin+Bloodstone&lim=25) and [**Cron Stones**](https://moonbd.online/codex/?q=Cron+Stone&lim=25). Recipe requirements are detailed on the MoonBD Codex database.
+* **Blood Genesis Shoes**: Players can upgrade a `+10` [**Edana Shoes**](https://moonbd.online/codex/?q=Edana+Shoes&lim=25) to [**Blood Genesis Shoes**](https://moonbd.online/codex/?q=Blood+Genesis+Shoes&lim=25) using [**Origin Bloodstones**](https://moonbd.online/codex/?q=Origin+Bloodstone&lim=25) and [**Cron Stones**](https://moonbd.online/codex/?q=Cron+Stone&lim=25). Recipe requirements are detailed on the MoonBD Codex database.
 
 #### Additional Useful Resources
 

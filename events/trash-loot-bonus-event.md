@@ -19,8 +19,8 @@ The system is designed to reward active grinding and applies to both **custom** 
 
 * During the event, all eligible monsters drop **additional trash loot**.
 * The **bonus amount** varies by event, usually starting at **+50%** and may go higher depending on event conditions.
-* **Bonus trash loot** is not immediately visible in your inventory.
-* Extra items are added automatically to your **Black Spirit’s Safe**.
+* **Bonus trash loot** is not immediately visible in the character's inventory.
+* Extra items are added automatically to the player's **Black Spirit’s Safe**.
 * The reward appears after:
   * **Relogging**
   * **Character swapping**
@@ -45,7 +45,7 @@ For example, if a **+25% Trash Loot Event** is active, Arsha Channel players wil
 ### Coverage
 
 * Applies to both **standard** and **custom grind zones**
-* Focused primarily on **mid–high level** monster areas
+* Focused primarily on **mid-high level** monster areas
 * Incompatible items or exceptions can be reported via [Discord ](https://discord.gg/3xK6p7rhD4)tickets with the relevant **Codex link**
 
 ***

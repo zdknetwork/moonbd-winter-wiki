@@ -2,7 +2,7 @@
 
 #### **Bonus Damage Reduction % Brackets**
 
-These brackets provide a percentage-based reduction to incoming damage based on your total sheet DP.
+These brackets provide a percentage-based reduction to incoming damage based on the character's total sheet DP.
 
 | DP Range      | Bonus Damage Reduction (%) | Difference |
 | ------------- | -------------------------- | ---------- |

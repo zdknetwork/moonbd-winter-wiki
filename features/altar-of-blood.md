@@ -16,7 +16,7 @@ Successfully defending the relic awards progression loot, whereas failing to pro
 
 To participate in the **Altar of Blood**, players must fulfill the following requirements:
 
-1. Characters must travel to **Velia** and speak with the **Nightwing** NPC to start the introductory questline.
+1. The character travels to **Velia** and speaks with the [**Nightwing**](https://moonbd.online/codex/?q=Nightwing&lim=50&t=npcs) NPC to start the introductory questline.
 2. Completion of the questline provides the first [**Nightmare Fragment**](https://moonbd.online/codex/item//296), which is required for entry.
 3. Players must form a party of two to three members who have all completed the prerequisite questline.
 4. The party leader opens the menu and selects **War** followed by **Altar of Blood** to initiate entry.
@@ -99,4 +99,4 @@ Several restrictions and guidelines apply inside the instance:
 
 ### Rewards
 
-Clearing stages in the **Altar of Blood** awards players with progression boxes (such as the **Heritage of the Forgotten**) and quest rewards. All drop lists, item rewards, and database tables are dynamically updated and available on the official **MoonBD Codex**.
+Clearing stages in the **Altar of Blood** awards players with progression boxes (such as the **Heritage of the Forgotten**) and quest rewards. All drop lists, item rewards, and database tables are dynamically updated and available on the official [**MoonBD Codex**](https://moonbd.online/codex).

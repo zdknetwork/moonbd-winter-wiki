@@ -34,7 +34,7 @@ Recommended DP: 320
 ### Drop Table
 
 Loot drops and rate details are available via the official MoonBD Codex search query for this zone:
-[**Altar Imp Habitat (Party of 2) Codex Search**](https://moonbd.online/codex/?q=Altar+Imp+Habitat+(Party+of+2)&lim=25)
+[**Altar Imp Habitat (Party of 2) Codex Search**](https://moonbd.online/codex/?q=Altar+Imp+Habitat+%28Party+of+2%29&lim=25)
 
 
 ***

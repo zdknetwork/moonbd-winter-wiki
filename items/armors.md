@@ -54,3 +54,11 @@ Players speak with **Nightwing** in Velia (located near [**Alustin**](https://mo
 ### [**Edana - Oathgrip**](https://moonbd.online/codex/item//1007002)
 
 ### [**Edana - Furystride**](https://moonbd.online/codex/item//1007003)
+
+## Blood Moon Gear
+
+* [**Omni Manos Clothes**](https://moonbd.online/codex/item//1007544)
+* [**Blood Genesis - Gaze of Retribution**](https://moonbd.online/codex/item//1007545)
+* [**Blood Genesis - Heart of the Unbound**](https://moonbd.online/codex/item//1007546)
+* [**Blood Genesis - Hand of Ruin**](https://moonbd.online/codex/item//1007547)
+* [**Blood Genesis - Stride of the Martyr**](https://moonbd.online/codex/item//1007548)

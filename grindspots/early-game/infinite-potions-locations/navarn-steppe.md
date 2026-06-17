@@ -32,7 +32,7 @@ Recommended DP: 260
 {% endhint %}
 
 {% hint style="info" %}
-Ancient Valtarra's Clairvoyance is obtained as a rare drop by grinding specific monsters at Navarn Steppe then skinning them with a Tanning Knife. The piece can drop from killing Ferrica and Ferrina monsters but has a higher chance when you skin them with a Tanning Knife. The monsters which you can skin are: Ferrica, Ferrina, Belladonna Elephant and Baby Belladonna Elephant
+[**Ancient Valtarra's Clairvoyance**](https://moonbd.online/codex/item//16017) is obtained as a rare drop by grinding specific monsters at **Navarn Steppe** and skinning them with a [**Tanning Knife**](https://moonbd.online/codex/?q=Tanning+Knife&lim=25). The piece can drop from killing [**Ferrica**](https://moonbd.online/codex/?q=Ferrica&lim=50&t=npcs) and [**Ferrina**](https://moonbd.online/codex/?q=Ferrina&lim=50&t=npcs) monsters, but the drop chance is higher when players skin them with a [**Tanning Knife**](https://moonbd.online/codex/?q=Tanning+Knife&lim=25). The monsters that players can skin are [**Ferrica**](https://moonbd.online/codex/?q=Ferrica&lim=50&t=npcs), [**Ferrina**](https://moonbd.online/codex/?q=Ferrina&lim=50&t=npcs), [**Belladonna Elephant**](https://moonbd.online/codex/?q=Belladonna+Elephant&lim=50&t=npcs), and [**Baby Belladonna Elephant**](https://moonbd.online/codex/?q=Baby+Belladonna+Elephant&lim=50&t=npcs).
 {% endhint %}
 
 ### Drop Table

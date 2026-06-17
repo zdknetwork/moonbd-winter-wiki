@@ -1,7 +1,7 @@
 ---
 description: >-
-  Custom Pets provide unique bonuses and special skills that can enhance your
-  adventures. All pet effects stack when owning multiple copies of the same pet
+  Custom Pets provide unique bonuses and special skills that can enhance a
+  player's adventures. All pet effects stack when owning multiple copies of the same pet
   unless otherwise stated.
 ---
 
@@ -11,7 +11,7 @@ description: >-
 
 ***
 
-### [Prestige Black Leopard](https://moonbd.online/codex/item/1050638)
+### [**Prestige Black Leopard**](https://moonbd.online/codex/item//1050638)
 
 #### Effects
 
@@ -20,12 +20,12 @@ description: >-
 
 #### Additional Information
 
-* Effects stack if you own multiple Prestige Black Leopards.
+* Effects stack if the player owns multiple Prestige Black Leopards.
 * The Item Drop Rate bonus is added to existing effects and does not multiply them directly.
 
 ***
 
-### [Baby Elephant](https://moonbd.online/codex/item/900439)
+### [**Baby Elephant**](https://moonbd.online/codex/item//900439)
 
 #### Effects
 
@@ -34,12 +34,12 @@ description: >-
 
 #### Additional Information
 
-* Effects stack if you own multiple Baby Elephants.
+* Effects stack if the player owns multiple Baby Elephants.
 * Useful for trading, gathering, and extended carrying capacity.
 
 ***
 
-### [Nouvermon](https://moonbd.online/codex/item/1050642)
+### [**Nouvermon**](https://moonbd.online/codex/item//1050642)
 
 #### Effects
 
@@ -48,11 +48,11 @@ description: >-
 
 #### Additional Information
 
-* Effects stack if you own multiple Nouvermons.
+* Effects stack if the player owns multiple Nouvermons.
 
 ***
 
-### [Golden Hedgehog](https://moonbd.online/codex/item/1050640)
+### [**Golden Hedgehog**](https://moonbd.online/codex/item//1050640)
 
 #### Effects
 
@@ -61,12 +61,12 @@ description: >-
 
 #### Additional Information
 
-* Effects stack if you own multiple Golden Hedgehogs.
+* Effects stack if the player owns multiple Golden Hedgehogs.
 * The Life EXP bonus is added to existing effects and does not multiply them directly.
 
 ***
 
-### [Young Black Dragon](https://moonbd.online/codex/item/1050641)
+### [**Young Black Dragon**](https://moonbd.online/codex/item//1050641)
 
 #### Effects
 
@@ -75,12 +75,12 @@ description: >-
 
 #### Additional Information
 
-* Effects stack if you own multiple Young Black Dragons.
+* Effects stack if the player owns multiple Young Black Dragons.
 * The Combat EXP bonus is added to existing effects and does not multiply them directly.
 
 ***
 
-### [Newborn Golden Dragon](https://moonbd.online/codex/item/1050639)
+### [**Newborn Golden Dragon**](https://moonbd.online/codex/item//1050639)
 
 #### Effects
 
@@ -89,7 +89,7 @@ description: >-
 
 #### Additional Information
 
-* Effects stack if you own multiple Newborn Golden Dragons.
+* Effects stack if the player owns multiple Newborn Golden Dragons.
 
 ***
 

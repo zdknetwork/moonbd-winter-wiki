@@ -16,9 +16,9 @@ description: >-
 
 ### How to Obtain
 
-1. Accumulate **10,000 Moon Cash**.
-2. Open a support ticket via the official **Discord Ticket System**.
-3. Submit the required application form to a developer:
+1. The player accumulates **10,000 Moon Cash**.
+2. A support ticket is opened via the official [**Discord Ticket System**](https://discord.gg/3xK6p7rhD4).
+3. The required application form is submitted to a developer:
    * **Family Name**: Target account name.
    * **Title Name**: Desired text string.
    * **Title Color**: Specific **HEX color code**.

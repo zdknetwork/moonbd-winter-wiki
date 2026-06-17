@@ -3,12 +3,12 @@
 #### Pets & Collision
 
 * Certain pets such as Dragons, Bears, and Eggs may cause collision or movement issues in some situations.
-* If your character becomes stuck, please switch to a different pet while we continue working on a fix.
+* If a character becomes stuck, switching to a different pet serves as a workaround while a fix is developed.
 
 #### Hunting Matchlock Issues
 
 * Hunting Matchlocks may currently display retry or usage errors.
-* As a temporary workaround, players can now exchange Matchlocks into the Ranger-exclusive [Huntress Bow](https://moonbd.online/codex/item/1007558).
+* As a temporary workaround, players can now exchange Matchlocks into the Ranger-exclusive [**Huntress Bow**](https://moonbd.online/codex/item//1007558).
 * Added exchange support through the Velia **\<New Class Weapons & Matchlock Exchange>** [**Minotavros**](https://moonbd.online/codex/npc/901009).
 * The Huntress Bow is intended as a temporary replacement hunting weapon until Matchlock functionality is fully restored.
 * Once the issue is resolved, Huntress Bows will be converted back into Matchlocks automatically.
@@ -17,7 +17,7 @@
 
 * Maegu Fox summons may not properly appear during certain skills.
 * Some Maegu skills may occasionally fail to register the first hit correctly.
-* We are continuing investigation and combat testing for these issues.
+* Investigation and combat testing are ongoing for these issues.
 
 #### Buff Display Issues
 
@@ -50,19 +50,19 @@
 * There is currently a technical limitation involving stacked crystals in inventory.
 * If a crystal exists in a stack with a quantity greater than one, socketing may fail.
 
-**How To Fix**
+**Resolution**
 
-* Open your Storage or Market Warehouse.
-* Move the full crystal stack into storage.
-* Withdraw exactly one crystal into your inventory.
-* Attempt the socketing process again.
+* The character opens Storage or Market Warehouse.
+* The full crystal stack is moved into storage.
+* Exactly one crystal is withdrawn into the inventory.
+* The socketing process is attempted again.
 
 #### Technical Support
 
-If you continue encountering `Item Restricted` errors or socketing failures:
+If `Item Restricted` errors or socketing failures persist:
 
-* Verify the crystal matches the accessory requirements.
-* Ensure only a single crystal exists in your inventory.
+* The crystal must match the accessory requirements.
+* Only a single crystal must exist in the inventory.
 * If the issue persists:
-  * Capture a screenshot of the error.
-  * Open a ticket through the Discord Ticket System for support.
+  * A screenshot of the error is captured.
+  * A ticket is opened through the [**official Discord**](https://discord.gg/3xK6p7rhD4) ticket system for support.
