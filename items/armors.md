@@ -1,61 +1,56 @@
 ---
 icon: helmet-battle
+description: Guide to Blackstar, Slumbering Origin (Labreska, Fallen God, Dahn, Ator), and Edana armors on MoonBD, including crafting recipes and Codex database links.
 ---
 
 # Armors
 
 ## Blackstar Armors
 
-You can go to the Moon Master NPC in Velia and get the Base Version of the Blackstar Item you want in exchange for 1 [Remnants of The Rift.](https://moonbd.online/codex/item?id=43786)
+Players can exchange one [**Remnants of the Rift**](https://moonbd.online/codex/item//43786) at the [**Moon Master**](https://moonbd.online/codex/npc/900994) NPC in Velia to obtain a base version of a **Blackstar** armor piece.
 
-## [Labreska's Helmet](https://moonbd.online/codex/item?id=719897)
+## [**Labreska's Helmet**](https://moonbd.online/codex/item//719897)
 
-_Meet an NPC called_ [_Floki_](https://bdocodex.com/us/npc/50783/)_. He's hidden in a cave at_ [_Jade Starlight Forest_](https://bdocodex.com/us/node/1755/)_._
+Players speak with [**Floki**](https://moonbd.online/codex/?q=Floki&lim=50&t=npcs), who is located in a cave at the [**Jade Starlight Forest**](https://moonbd.online/codex/?q=Jade+Starlight+Forest&lim=25). **Floki** offers the exchange quest to craft **Labreska's Helmet**.
 
-_He will have a exchange quest to craft Labreska's Helmet._
+**Requirements:**
+* One [**Flame of Frost**](https://moonbd.online/codex/item//44497).
+* A boss helmet enhanced to exactly **Caphras Level 10**.
+* Quest types must be fully enabled in the quest settings.
+* The character must be at least Level 60.
 
-_Ensure following;_
+## [**Fallen God's Armor**](https://moonbd.online/codex/item//719898)
 
-* Need to  [<mark style="color:yellow;">Flame of Frost</mark>](https://moonbd.online/en/codex/item/?id=44497)
-* Make sure that your Helmet is exactly <mark style="color:blue;">\[</mark><img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FXMmmuPTLcV8YocjeDRHj%2Fimage.png?alt=media&#x26;token=344a3bff-f4a7-4d4d-9e85-455f48018e1d" alt="" data-size="line"><mark style="color:blue;">Lv10 Caphras Stone]</mark>
-* Enable all Quest Types from Quest window like shown below
-* Quest available at Character Lv.60
+Players speak with [**Dorin Mogrim**](https://moonbd.online/codex/?q=Dorin+Mogrim&lim=50&t=npcs), who is located deep within the Helms Post cave. **Dorin Mogrim** offers the exchange quest to craft **Fallen God's Armor**.
 
-## [Fallen God's Armor](https://moonbd.online/codex/item?id=719898)
+**Requirements:**
+* One [**Flame of Despair**](https://moonbd.online/codex/item//44462).
+* A boss armor piece enhanced to exactly **Caphras Level 10**.
+* Quest types must be fully enabled in the quest settings.
+* The character must be at least Level 60.
 
-_Meet **Dorin Mogrim** the Blacksmith of Helms Post. He's hidden deep in the cave._
+## [**Dahn's Gloves**](https://moonbd.online/codex/?q=Dahn%27s+Gloves&lim=25)
 
-_Dorin Mogrim will have a exchange quest to craft Fallen God's Armor._
+Players speak with [**Dorin Mogrim**](https://moonbd.online/codex/?q=Dorin+Mogrim&lim=50&t=npcs) deep within the Helms Post cave to obtain the exchange quest to craft **Dahn's Gloves (DR)**.
 
-_Ensure following;_
+**Requirements:**
+* One [**Flame of Hongik**](https://moonbd.online/codex/item//65266).
+* Boss gloves enhanced to exactly **Caphras Level 10**.
 
-* Need to  [<mark style="color:yellow;">Flame of Despair</mark>](https://moonbd.online/en/codex/item/?id=44462)
-* Make sure that your Armor is exactly <mark style="color:blue;">\[</mark><img src="https://592728697-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkA2Ou9rHBG7pND0Xi3Co%2Fuploads%2FXMmmuPTLcV8YocjeDRHj%2Fimage.png?alt=media&#x26;token=344a3bff-f4a7-4d4d-9e85-455f48018e1d" alt="" data-size="line"><mark style="color:blue;">Lv10 Caphras Stone]</mark>
-* Enable all Quest Types from Quest window like shown below
-* Quest available at Character Lv.60
+## [**Ator's Shoes**](https://moonbd.online/codex/?q=Ator%27s+Shoes&lim=25)
 
-## [Dahn's Gloves](https://moonbd.online/codex/?q=Dahn%27s+Gloves)
+Players speak with **Nightwing** in Velia (located near [**Alustin**](https://moonbd.online/codex/?q=Alustin&lim=50&t=npcs)) to obtain the exchange quest to craft **Ator's Shoes**.
 
-Need to [<mark style="color:yellow;">Flame of Hongik</mark>](https://moonbd.online/en/codex/item/?id=65266)
+**Requirements:**
+* One [**Flame of Resonance**](https://moonbd.online/codex/item//65317).
+* Boss shoes enhanced to exactly **Caphras Level 10**.
 
-_Meet **Dorin Mogrim** the Blacksmith of Helms Post. He's hidden deep in the cave_
+## Edana Armors
 
-_He will have a exchange quest to craft Dahn's Gloves (DR)._
+### [**Edana - Heavensmite**](https://moonbd.online/codex/item//1007000)
 
-## [Ator's Shoes](https://moonbd.online/codex/?q=ator%27s+shoe)
+### [**Edana - Abyssveil**](https://moonbd.online/codex/item//1007001)
 
-Need to [<mark style="color:yellow;">Flame of Resonance</mark>](https://moonbd.online/en/codex/item/?id=65317)
+### [**Edana - Oathgrip**](https://moonbd.online/codex/item//1007002)
 
-_Meet **Nightwing of Velia** it's near of the <mark style="color:blue;">**\<Alchemist> Alustin**</mark>_
-
-_It will have a exchange quest to craft  Ator's Shoes_
-
-## _Edana Armors_
-
-### [_Edana - Heavensmite_](https://moonbd.online/codex/item?id=1007000)
-
-#### [Edana - Abyssveil](https://moonbd.online/codex/item?id=1007001)
-
-#### [Edana - Oathgrip](https://moonbd.online/codex/item?id=1007002)
-
-#### [Edana - Furystride](https://moonbd.online/codex/item?id=1007003)
+### [**Edana - Furystride**](https://moonbd.online/codex/item//1007003)

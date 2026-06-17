@@ -1,27 +1,27 @@
 ---
 icon: carrot
+description: Guide to the Ancient Parrot custom World Boss, including spawn details and official database reference.
 ---
 
 # Ancient Parrot
 
 <figure><img src="../../.gitbook/assets/puturum-removebg-preview.png" alt=""><figcaption></figcaption></figure>
 
-## Loot Table
+### Overview
 
-* Remnants of the Rift
-* Advice of Valks (+5000)
-* Advice of Valks (+1000)
-* Advice of Valks (+500)
-* Advice of Valks (+300)
-* Advice of Valks (+220)
-* Advice of Valks (+150)
-* Dawn Black Stone
-* [Choatica Token](/broken/pages/KI4Wio9RNbX6PWc7tLxm)
+**Ancient Parrot** is a custom World Boss on MoonBD that spawns periodically. 
 
-## [Spawn Times](/broken/pages/3WhrVP9PR6z40Sm0YwUl)
+---
 
-## Spawn Location
+### Spawn Details
 
-Spawns at near Rakshan Observatory (close to Valencia City)
+* **Spawn Location:** Near Rakshan Observatory, close to Valencia City.
+* **Spawn Calendar:** Specific spawn schedules are available on the [**Boss Calendar**](https://moonbd.online/boss-calendar).
 
 <div data-full-width="true"><figure><img src="https://i.imgur.com/IofuW6a.jpeg" alt=""><figcaption></figcaption></figure></div>
+
+---
+
+### Drop Table
+
+Drop table details, item rates, and direct NPC drop information are available on the [**Ancient Parrot Codex Page**](https://moonbd.online/codex/npc/900016).

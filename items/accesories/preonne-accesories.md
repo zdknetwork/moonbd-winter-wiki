@@ -1,29 +1,41 @@
-# 🟩 Preonne Accesories
+---
+description: Guide to Preonne life skill accessories, including acquisition exchanges from Manos accessories and enhancement details.
+---
 
-<p align="center"><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""></p>
+# Preonne Accessories
 
-<p align="center"><mark style="color:purple;"><strong>Preonne Accesories</strong></mark></p>
+### Overview
 
-{% hint style="danger" %}
-<p align="center"><a href="/broken/pages/mJX8ZfLLg1w3hsJVHTGX"><mark style="color:green;"><strong>Preonne Accesories enchanting stone is here click for go</strong></mark> </a></p>
-{% endhint %}
+**Preonne Accessories** are top-tier life skill accessories that provide significant boosts to Life Skill Mastery and Life EXP. Unlike standard life skill accessories, Preonne accessories do not get destroyed upon a failed enhancement.
 
-{% hint style="info" %}
-In order to craft Preonne Accesories you need following the NPC Exchanges
-{% endhint %}
+---
 
-<figure><img src="../../.gitbook/assets/{F3FB5959-2FE4-4B1E-84DC-07590EB66B5F}.png" alt=""><figcaption></figcaption></figure>
+### Base Preonne Accessories
 
-In Velia, the general exchange NPC [**Nemos**](https://moonbd.online/codex/npc/900995) manages accessory conversions.
+* [**Preonne Necklace**](https://moonbd.online/codex/item//705533)
+* [**Preonne Earring**](https://moonbd.online/codex/item//705534)
+* [**Preonne Ring**](https://moonbd.online/codex/item//705535)
+* [**Preonne Belt**](https://moonbd.online/codex/item//705536)
 
-<figure><img src="../../.gitbook/assets/{4772634D-A7C1-4754-A42D-92F72A368242}.png" alt=""><figcaption></figcaption></figure>
+---
 
-<figure><img src="../../.gitbook/assets/{28488693-F382-4517-9021-11C0ACBF5CF9} (1).png" alt=""><figcaption></figcaption></figure>
+### NPC Exchanges
 
+Players can exchange enhanced **Manos** accessories for **Preonne** accessories through the general exchange NPC [**Nemos**](https://moonbd.online/codex/npc/900995) in Velia.
 
+| Input Item | Output Item |
+| :--- | :--- |
+| **TRI (III) Manos Accessory** | **Base (+0) Preonne Accessory** |
+| **TET (IV) Manos Accessory** | **TRI (III) Preonne Accessory** |
+| **PEN (V) Manos Accessory** | **OCT (VIII) Preonne Accessory** |
 
-***
+*Note: All types of Manos accessories (Necklace, Earring, Ring, Belt) follow the same exchange rates to their respective Preonne accessory types.*
 
+---
 
+### Enhancement
 
-
+Preonne accessories can be enhanced up to **DEC (X)**. 
+
+* **Enhancement Material:** [**Concentrated Magical Black Gem**](https://moonbd.online/codex/item//4987) is required for each enhancement attempt.
+* **Failure Penalty:** Failing an enhancement attempt does not destroy the Preonne accessory, but it reduces its enhancement level or durability.

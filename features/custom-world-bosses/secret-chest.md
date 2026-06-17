@@ -1,38 +1,27 @@
 ---
 icon: treasure-chest
+description: Guide to the Secret Chest custom World Boss, including spawn details and official database reference.
 ---
 
 # Secret Chest
 
 <figure><img src="../../.gitbook/assets/map_chest.png" alt=""><figcaption></figcaption></figure>
 
-## **Loot Table**
+### Overview
 
-* Advanced Boss Weapon Boxes (Nightmarish Kzarka etc.)
-* Boss Defense Gear Box
-* Cron Stone
-* Caphras Stone
-* Gold Bar 1000G
-* Pearl Box 8
-* Remnants of the Rift
-* Vell's Heart
-* Garmoth's Heart
-* Karanda's Heart
-* Advice of Valks +120
-* Advice of Valks +170
-* Advice of Valks +220
-* Advice of Valks +400
-* Nouverikant Armor/Helmet
-* Any of the JIN Crystals
-* Shakatu Seals (Blue/Yellow)
-* Moon Coin Box
-* According to the ranking you will get random cash shop items
-* Choatica Token
+**Secret Chest** is a custom World Boss on MoonBD that spawns periodically. 
 
-## [Spawn Times](/broken/pages/3WhrVP9PR6z40Sm0YwUl)
+---
 
-## Spawn Location
+### Spawn Details
 
-Spawns at beach in Terrmian Cliff near Olvia city
+* **Spawn Location:** On the beach at Terrmian Cliff, near Olvia City.
+* **Spawn Calendar:** Specific spawn schedules are available on the [**Boss Calendar**](https://moonbd.online/boss-calendar).
 
 <div data-full-width="true"><figure><img src="https://i.imgur.com/VS5ns0Z.png" alt=""><figcaption></figcaption></figure></div>
+
+---
+
+### Drop Table
+
+Drop table details, item rates, and direct NPC drop information are available on the [**Secret Chest Codex Page**](https://moonbd.online/codex/npc/889542).

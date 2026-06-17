@@ -1,31 +1,27 @@
 ---
 icon: bow-arrow
+description: Guide to the Zodd custom World Boss, including spawn details and official database reference.
 ---
 
 # Zodd
 
 <figure><img src="../../.gitbook/assets/7vzN0Ld.png" alt=""><figcaption></figcaption></figure>
 
-## Loot Table
+### Overview
 
-* Advice of Valks (+5000)
-* Advice of Valks (+1000)
-* Advice of Valks (+500)
-* Advice of Valks (+300)
-* Advice of Valks (+220)
-* Advice of Valks (+150)
-* Advice of Valks (+100)
-* Advice of Valks (+80)
-* Advice of Valks (+50)
-* Advice of Valks II
-* Advice of Valks I
-* Valks' Cry
-* [Choatica Token](/broken/pages/KI4Wio9RNbX6PWc7tLxm)
+**Zodd** is a custom World Boss on MoonBD that spawns periodically. 
 
-## [Spawn Times](/broken/pages/3WhrVP9PR6z40Sm0YwUl)
+---
 
-## Spawn Location
+### Spawn Details
 
-Spawns at near Saunil Camp
+* **Spawn Location:** Near Saunil Camp.
+* **Spawn Calendar:** Specific spawn schedules are available on the [**Boss Calendar**](https://moonbd.online/boss-calendar).
 
 <div data-full-width="true"><figure><img src="https://i.imgur.com/5bUA2hB.jpeg" alt=""><figcaption></figcaption></figure></div>
+
+---
+
+### Drop Table
+
+Drop table details, item rates, and direct NPC drop information are available on the [**Zodd Codex Page**](https://moonbd.online/codex/npc/889544).
