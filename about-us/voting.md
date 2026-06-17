@@ -1,6 +1,6 @@
 ---
 description: >-
-  Support MoonBD by voting on our partner sites and earn Mysterious Tokens
+  Players support MoonBD by voting on partner sites to earn Mysterious Tokens
   daily.  Each vote helps expand the community while rewarding players with
   valuable currency.
 layout:
