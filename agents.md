@@ -31,14 +31,6 @@ This document outlines the core coding, style, and content standard guidelines f
 * **Search Queries (Unknown IDs):** If the exact ID is unknown, link to the search query instead:
   * Items: `[**Item Name**](https://moonbd.online/codex/?q=Item+Name&lim=25)`
   * NPCs: `[**NPC Name**](https://moonbd.online/codex/?q=NPC+Name&lim=50&t=npcs)`
-* **Official Site Pages:**
-  * Redeem Coupons: `https://moonbd.online/redeem`
-  * Daily Voting: `https://moonbd.online/vote`
-  * Server Status: `https://moonbd.online/status`
-  * Boss Calendar: `https://moonbd.online/boss-calendar`
-  * Live Timers: `https://moonbd.online/timers`
-  * Troubleshooting/Issues: `https://moonbd.online/common-issues`
-  * Mysterious Shop: `https://moonbd.online/account/mysterious-shop`
 
 ---
 
@@ -49,3 +41,46 @@ This document outlines the core coding, style, and content standard guidelines f
 * **Tense:** Present tense.
 * **Formatting:** Bold all item names, NPC names, and critical terms. Use inline backticks for hotkeys or console commands.
 * **Banned Characters:** Em-dashes (`—`) are strictly banned. Use standard hyphens (`-`) instead.
+
+---
+
+## 5. Official Website Domains & Route Map
+
+When linking to official services or UI routes, agents must use the absolute domain mappings below.
+
+### Service Domains
+* **Main Website:** `https://moonbd.online`
+* **API Service:** `https://api.moonbd.online`
+* **CDN Assets:** `https://cdn.moonbd.online`
+* **Launcher Storage:** `https://launcher-bucket.moonbd.online`
+* **Official Discord:** `https://discord.gg/3xK6p7rhD4`
+
+### Absolute Page Route Mappings
+* **Home Page:** `https://moonbd.online/`
+* **Rules & Policies:** `https://moonbd.online/rules`
+* **Terms of Service:** `https://moonbd.online/terms`
+* **Privacy Policy:** `https://moonbd.online/privacy`
+* **Voting Page:** `https://moonbd.online/vote`
+* **Redeem Coupon Page:** `https://moonbd.online/redeem` (or `/redeem-codes`)
+* **Account Transfer Page:** `https://moonbd.online/transfer`
+* **Server Status:** `https://moonbd.online/status`
+* **Donations Page:** `https://moonbd.online/donations`
+* **Boss Spawn Calendar:** `https://moonbd.online/boss-calendar`
+* **Live World Timers:** `https://moonbd.online/timers`
+* **Common Issues / FAQ:** `https://moonbd.online/common-issues`
+* **Game Installation Guide:** `https://moonbd.online/installation`
+* **Web Central Market:** `https://moonbd.online/market`
+* **Player / Guild Rankings:** `https://moonbd.online/ranking`
+* **Announcements / News:** `https://moonbd.online/announcements`
+* **Patch Notes:** `https://moonbd.online/patch-notes`
+* **Codex Database Search:** `https://moonbd.online/codex`
+* **Feedback Submission:** `https://moonbd.online/feedback`
+* **Grind Sessions Tracker:** `https://moonbd.online/grind-sessions`
+
+### Authenticated Account Portal Mappings
+* **User Profile:** `https://moonbd.online/account/profile`
+* **Account Settings:** `https://moonbd.online/account/settings`
+* **Shop Inventory / Purchases:** `https://moonbd.online/account/shop`
+* **Character Directory:** `https://moonbd.online/account/characters`
+* **Mysterious Shop:** `https://moonbd.online/account/mysterious-shop`
+* **Account Transaction History:** `https://moonbd.online/account/history`
